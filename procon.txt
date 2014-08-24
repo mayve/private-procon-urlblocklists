@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Aug 23 2014 10:42:54 GMT+0900
+# Updated: Sun Aug 24 2014 18:26:50 GMT+0900
 
 blacklist.sites =
 porn
@@ -356,9 +356,13 @@ momolab
 matome_labo
 wonder_lab_jp
 wonderlaboratory.com
+wonderlaboratory
+wonderlab
 cyam5
 bacjo.com
 touchlab.jp
+wancolabo
+wancolabo.com
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
