@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Aug 24 2014 18:26:50 GMT+0900
+# Updated: Wed Aug 27 2014 12:56:13 GMT+0900
 
 blacklist.sites =
 porn
@@ -352,6 +352,7 @@ momolabojp
 momolabo.net
 hmotomura
 momolab
+meishoku.co.jp
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
