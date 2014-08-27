@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 28 2014 00:32:01 GMT+0900
+# Updated: Thu Aug 28 2014 01:21:31 GMT+0900
 
 blacklist.sites =
 porn
@@ -356,6 +356,7 @@ rohto.co.jp
 meishoku.co.jp
 imaginglabo.web.fc2.com
 hime-labo.com
+gc-labo.co.jp
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
