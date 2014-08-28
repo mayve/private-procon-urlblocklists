@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 28 2014 01:21:31 GMT+0900
+# Updated: Thu Aug 28 2014 15:39:20 GMT+0900
 
 blacklist.sites =
 porn
@@ -119,6 +119,7 @@ ozmall.co.jp
 gmarket.co.jp
 qoo10.jp
 akyrise
+bikan-aojiru.jp
 manara.jp
 shimanoya.net
 # # Nikibi
