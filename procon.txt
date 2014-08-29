@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 28 2014 15:39:20 GMT+0900
+# Updated: Sat Aug 30 2014 05:49:31 GMT+0900
 
 blacklist.sites =
 porn
@@ -369,6 +369,8 @@ bacjo.com
 touchlab.jp
 wancolabo
 wancolabo.com
+konami.jp/am/curucuru
+curucuru
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
