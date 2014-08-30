@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Aug 30 2014 05:49:31 GMT+0900
+# Updated: Sat Aug 30 2014 19:15:05 GMT+0900
 
 blacklist.sites =
 porn
@@ -151,6 +151,9 @@ SaurusSho
 may_roma
 ayufait
 maya0520
+# # 名前パクリ偽集団ストーカー被害者
+ameblo.jp/maya-bunmey-393931-et
+maya-bunmey-393931-et
 # # 名前パクリ 売名アフィ
 MayJamileh
 ayatanponpon
