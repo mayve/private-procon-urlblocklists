@@ -1,5 +1,99 @@
 [ProCon Latte 3.3]
-# Updated: Sat Aug 30 2014 19:15:05 GMT+0900
+# Updated: Sun Aug 31 2014 01:52:55 GMT+0900
+
+profanitylist.words =
+Pussy
+Jackass
+Goddamn
+Bitchy
+Bitched
+Bitching
+Ass hole
+Tits
+Tit
+Pussy
+Damnit
+Bastard
+Cunt
+Dickhead
+Ballsack
+ass
+Faggot
+Niggaz
+Nigger
+Nigga
+Lmao
+Lmfao
+Shit
+Cunt
+Asshole
+Ass-hole
+Motherfucker
+Fucker
+Fuck
+Bitches
+Bitch
+Damn
+ブラゲ
+
+subscriptions.urls = 
+
+blacklist.words =
+18 U.S.C
+18 USC 2257
+explicit photos
+amateur photos
+amateur videos
+adult material
+xxx video
+xxx-rated
+sexually explicit
+adult only
+adults only
+mature audience
+under 21 years
+sexually explicit material
+hentai
+be 18
+over 18
+over 21
+must be 18
+adult web
+must be 21
+erotic
+xxx!
+free adult
+free sex
+adult movie
+adults movie
+blow job
+blowjob
+cock suck
+cumming
+hard porn
+hardcore
+hard-core
+hardporn
+hard-porn
+porn
+porndirectory
+pussy
+showing ass
+showing breast
+showing tit
+soft porn
+softcore
+soft-core
+softporn
+soft-porn
+whore
+at least 18 years
+18.*2257
+2257.*information
+2257.*notice
+2257.*statement
+usc2257
+anime.*xxx
 
 blacklist.sites =
 porn
@@ -151,9 +245,8 @@ SaurusSho
 may_roma
 ayufait
 maya0520
-# # 名前パクリ偽集団ストーカー被害者
-ameblo.jp/maya-bunmey-393931-et
-maya-bunmey-393931-et
+# # 名前パクリ フォロワー売買?
+HopMaya
 # # 名前パクリ 売名アフィ
 MayJamileh
 ayatanponpon
@@ -161,8 +254,13 @@ maya_iyashi
 maya_mcr
 maisoku25
 maisoku.net
+# # 名前パクリ スパム
+maya_j_1
 # # フォロワー売買
 14240524
+# # 名前パクリ偽集団ストーカー被害者
+ameblo.jp/maya-bunmey-393931-et
+maya-bunmey-393931-et
 # # ClutSouka-Korean_Pakuri_alpaca_since2007
 alpaca
 NasuAlpacaFarm
