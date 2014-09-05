@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Sep 05 2014 10:11:22 GMT+0900
+# Updated: Fri Sep 05 2014 22:13:11 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -464,6 +464,7 @@ otatin.com
 otat.in
 lab-aki.blogspot.com
 lab-aki.blogspot.jp
+hama73.com
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
