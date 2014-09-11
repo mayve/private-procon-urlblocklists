@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Sep 09 2014 04:16:50 GMT+0900
+# Updated: Thu Sep 11 2014 23:57:45 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -284,6 +284,7 @@ hmv
 netoff
 bookoff
 bookoffonline
+zara.com
 webtest_jp
 webtest.jp
 paka3.net
@@ -470,6 +471,7 @@ lab-aki.blogspot.jp
 hama73.com
 jeans-lab.com
 rams-marks.jp
+takami-labo.com
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -483,6 +485,8 @@ wancolabo
 wancolabo.com
 konami.jp/am/curucuru
 curucuru
+hatena.ne.jp/kanz-labs
+kanz-labs
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
