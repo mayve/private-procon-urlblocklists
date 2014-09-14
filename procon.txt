@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Sep 13 2014 20:16:53 GMT+0900
+# Updated: Mon Sep 15 2014 07:53:57 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -229,6 +229,8 @@ repro-sk.com
 skin-shiney.info
 linne.co.jp
 proactiv.jp
+girlsaward
+girls-award.com
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
@@ -308,6 +310,7 @@ karin.sweethome.jp
 mao_alpaca_love
 nicovideo.jp/community/co360358
 nicovideo.jp/mylist/14134845
+kokoro-switch.com
 # # アルパカ使用 偽装保守-同じチーム/幾つか中身が同一
 2628351
 ouvea007
@@ -490,6 +493,11 @@ konami.jp/am/curucuru
 curucuru
 hatena.ne.jp/kanz-labs
 kanz-labs
+# # ～ラボ系パクリ 偽装保守
+JPN_LISA 
+www.t3.rim.or.jp/~lisalabo
+ringer.cocolog-nifty.com/kunst_und_medizin
+ringer.cocolog-nifty.com
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
