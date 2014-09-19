@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Sep 18 2014 08:18:13 GMT+0900
+# Updated: Fri Sep 19 2014 12:59:05 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -479,6 +479,8 @@ takami-labo.com
 qhm-lab.info
 freesoftlab.com
 kis-lab.com
+rakuten.ne.jp/gold/e-homedirect
+e-homedirect
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -928,4 +930,5 @@ fishing.gendama.jp
 monow.jp
 github.com
 githubusercontent.com
+easygame.jp/sengokugifu
 
