@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Sep 20 2014 05:42:29 GMT+0900
+# Updated: Sun Sep 21 2014 11:03:07 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -311,6 +311,8 @@ mao_alpaca_love
 nicovideo.jp/community/co360358
 nicovideo.jp/mylist/14134845
 kokoro-switch.com
+itunes.apple.com/jp/app/gao-hai-yuande-ji-jiao-huan
+jig.jp
 # # アルパカ使用 偽装保守-同じチーム/幾つか中身が同一
 2628351
 ouvea007
