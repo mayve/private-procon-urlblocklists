@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Sep 21 2014 11:03:07 GMT+0900
+# Updated: Wed Sep 24 2014 08:09:20 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -489,6 +489,7 @@ n-labo.com
 natural-me.jugem.jp
 nl-shop.com
 naturelab.co.jp
+publabo.co.jp
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
