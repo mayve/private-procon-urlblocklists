@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Sep 24 2014 14:30:31 GMT+0900
+# Updated: Thu Sep 25 2014 07:44:07 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -497,6 +497,9 @@ aimere
 shopping.yahoo.co.jp/santelabo
 santelabo
 b-cruise.jp
+twitter.com/3x92
+3x92
+vege-labo.com
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -947,4 +950,5 @@ monow.jp
 github.com
 githubusercontent.com
 easygame.jp/sengokugifu
+amazon.co.jp
 
