@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Sep 25 2014 07:44:07 GMT+0900
+# Updated: Fri Sep 26 2014 10:33:40 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -154,8 +154,7 @@ http://ecnavi.jp/campaign/wakuwakusan
 picmy
 gpoint.co.jp/shoplist/allshop/102692/
 travel.gpoint.co.jp/daredoko/
-www.241241.jp/lp/eb/lp008/
-msdn.microsoft.com/ja-jp/inspire
+241241.jp
 # # 
 nissen.co.jp
 rapty.com
@@ -171,6 +170,7 @@ premiermember.jp
 http://www.denki-yukadanbou.com/
 http://metapolis.toyota.co.jp/
 http://eco-bugyo.jp/
+msdn.microsoft.com/ja-jp/inspire
 papy.co.jp
 hon-to.jp
 kababooks.com
@@ -239,6 +239,9 @@ fairy
 fairies
 sora_fairies
 mahiro_fairies
+# #
+rabitsokuhou.2chblog.jp
+rabitsokuho
 # # 名前パクリ偽装保守
 kudannosakura87
 uu19o70o
@@ -323,6 +326,7 @@ fajiarunyu12
 arupakatama
 TssTarako
 musicponne
+dominionjp
 # # アルパカ使用 偽装リベラル
 majiare
 akarupa1998
@@ -500,6 +504,7 @@ b-cruise.jp
 twitter.com/3x92
 3x92
 vege-labo.com
+kaden.watch.impress.co.jp/docs/column/fujilabo
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -902,13 +907,17 @@ zombiestat.com
 
 whitelist.sites =
 mozilla.org
-proconlatte.com
 google.com
 google.co.jp
+amazon.co.jp
+amazon.com
 infoseek.co.jp
-websearch.rakuten.co.jp
+rakuten.co.jp
 yahoo.co.jp
 yahoo.com
+github.com
+githubusercontent.com
+linksynergy.com
 bing.jp
 live.com
 msn.com
@@ -918,37 +927,29 @@ wikipedia.org
 aguse.jp
 tumblr.com
 control.blog.fc2.com
+admin.blog.fc2.com
 inoreader.com
 feedly.com
+twipple.jp
 www.portablefreeware.com
 download.cnet.com
-www.pointtown.com
 2ch.net
-mrga.realworld.jp
+.eonet.jp
 ameblo.jp
-realworld.jp
-dietnavi.com
+blogimg.jp
+gigazine.net
+losslab.blogspot.com
+losslab.blogspot.jp
 cross-a.net
 enqasp.com
 poncan.jp
-blog.eonet.jp
-user.gesoten.com
-app.gesoten.com
+point-ad-game.com
+realworld.jp
+monow.jp
+fishing.gendama.jp
+bakucho.netmile.co.jp
+search.potora.jp
+pointtown.com
 livedoor.jp
 reader.livedoor.com
-blogimg.jp
-gigazine.net
-point-ad-game.com
-search.potora.jp
-losslab.blogspot.com
-losslab.blogspot.jp
-linksynergy.com
-bakucho.netmile.co.jp
-twipple.jp
-fishing.gendama.jp
-monow.jp
-github.com
-githubusercontent.com
-easygame.jp/sengokugifu
-amazon.co.jp
 
