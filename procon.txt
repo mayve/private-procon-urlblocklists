@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Sep 27 2014 18:47:47 GMT+0900
+# Updated: Sun Sep 28 2014 19:35:32 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -127,6 +127,7 @@ admp.xmax.jp/project/rakuten
 house.infoseek.rakuten.co.jp
 entertainment.rakuten.co.jp
 books.rakuten.co.jp
+books.rakuten.co.jp/
 onet
 onet.jp
 onet.rakuten
@@ -380,7 +381,7 @@ angelicalpaca
 rinliber
 domkoji
 ArupakasanSyo
-# # 偽装保守で売名 旅ラボ 要注意
+# # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
 pressa.jp
 sasakitoshinao
@@ -394,7 +395,6 @@ nlab
 team-lab.com
 hatelabo.jp
 hyaku-lab.net
-tabi-labo.com
 hazardlab
 hazardlab.jp
 gunze-store.jp
@@ -533,6 +533,9 @@ JPN_LISA
 www.t3.rim.or.jp/~lisalabo
 ringer.cocolog-nifty.com/kunst_und_medizin
 ringer.cocolog-nifty.com
+# # ～ラボ系パクリ リベラル在
+ameblo.jp/sbooklab
+sbooklab
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
