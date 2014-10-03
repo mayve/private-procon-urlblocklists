@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Oct 03 2014 00:37:11 GMT+0900
+# Updated: Sat Oct 04 2014 03:33:57 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -540,6 +540,8 @@ ringer.cocolog-nifty.com
 # # ～ラボ系パクリ リベラル在
 ameblo.jp/sbooklab
 sbooklab
+CQC_LABO_JAPAN
+cqcjapan
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
