@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Oct 04 2014 05:10:22 GMT+0900
+# Updated: Sun Oct 05 2014 18:56:37 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -514,6 +514,9 @@ food-sommelier.jp
 trendlab
 kaolabo.com
 baba-lab.net
+nishimotz.com
+washulabo.gekkeikan.co.jp
+gekkeikan.co.jp
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
