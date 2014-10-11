@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Oct 10 2014 17:35:22 GMT+0900
+# Updated: Sat Oct 11 2014 20:25:33 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -249,6 +249,7 @@ uu19o70o
 mitsukajimaya
 mayan1969
 SaurusSho
+sozoromaya
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -332,6 +333,7 @@ dominionjp
 # # アルパカ使用 偽装リベラル
 majiare
 akarupa1998
+BiancaWhitake2
 # # アルパカ使用 パクリツイートbot＝スパムアフィ
 yuru_boke
 # # アルパカ使用 売名フォロワー稼ぎ
