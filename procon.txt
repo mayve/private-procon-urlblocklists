@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Oct 14 2014 22:29:27 GMT+0900
+# Updated: Thu Oct 16 2014 07:28:09 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -252,6 +252,8 @@ mitsukajimaya
 mayan1969
 SaurusSho
 sozoromaya
+youtu.be/-Mo3OB0RGmo
+-Mo3OB0RGmo
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -392,17 +394,22 @@ tabi-labo.com
 pressa.jp
 sasakitoshinao
 tabilabo_news
-# # ClutSouka-Korean_Pakuri_laboratory_since2009
-lab
-dic.nicovideo.jp
+# # 在日孫正義Yahoo!謹製 ねとらぼ＆同種パクリ工作サイト
 nlab.itmedia.co.jp
 itm_nlab
 nlab
+medical.yahoo.co.jp
+medical.yahoo.co.jp*hdl*
+# # ClutSouka-Korean_Pakuri_laboratory_since2009
+lab
+dic.nicovideo.jp
 team-lab.com
 hatelabo.jp
 hyaku-lab.net
 hazardlab
 hazardlab.jp
+ci-labo.com
+labo2.jp
 gunze-store.jp
 office-p-labo.com
 sar-gmbh.com
@@ -467,7 +474,6 @@ yamatoya-futon.jp
 stickerlabo.com
 rakuten.co.jp/labbing-store/
 labbing-store
-ci-labo.com
 rakuten.co.jp/zakkalab/
 zakkalab
 propaganda_lab
