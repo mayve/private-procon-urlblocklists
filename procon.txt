@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Oct 16 2014 07:28:09 GMT+0900
+# Updated: Wed Oct 22 2014 17:13:52 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -252,6 +252,7 @@ mitsukajimaya
 mayan1969
 SaurusSho
 sozoromaya
+nipponmamorouTV
 youtu.be/-Mo3OB0RGmo
 -Mo3OB0RGmo
 # # 名前パクリ偽装サヨクリベラル
@@ -259,6 +260,7 @@ may_roma
 ayufait
 maya0520
 mayaya_jujitsu
+mayayatomomo
 # # 名前パクリ フォロワー売買?
 HopMaya
 # # 名前パクリ 売名アフィ
@@ -531,6 +533,9 @@ washulabo.gekkeikan.co.jp
 washulabo
 gekkeikan.co.jp
 candy-labo.com
+top-athlete.jp
+alpron
+alpron_lab
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
