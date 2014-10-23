@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Oct 24 2014 06:46:01 GMT+0900
+# Updated: Fri Oct 24 2014 06:52:21 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -255,7 +255,6 @@ sozoromaya
 nipponmamorouTV
 youtu.be/-Mo3OB0RGmo
 -Mo3OB0RGmo
-Schwarzer_Pfeff
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -337,6 +336,7 @@ arupakatama
 TssTarako
 musicponne
 dominionjp
+Schwarzer_Pfeff
 # # アルパカ使用 偽装リベラル
 majiare
 akarupa1998
