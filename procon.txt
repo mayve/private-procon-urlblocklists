@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Oct 25 2014 18:15:32 GMT+0900
+# Updated: Sun Oct 26 2014 10:02:15 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -556,6 +556,7 @@ hatena.ne.jp/kanz-labs
 kanz-labs
 sugio-garden.com
 bty_labo
+news_at_bizlab
 # # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
 twitter.com/ClawLabo
 facebook.com/clawhair
