@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Nov 04 2014 22:27:43 GMT+0900
+# Updated: Wed Nov 05 2014 18:34:20 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -546,9 +546,12 @@ alpron_lab
 vc-lab.com
 lab.magic-design.jp
 magic-design.jp
-family.saraya.com/handlab/
 handlab
 saraya.com
+p-labo.biz
+umeda_kazuhiko
+presslabo
+ogawatamaka
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
