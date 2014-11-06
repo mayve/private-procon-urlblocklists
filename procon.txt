@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Nov 06 2014 23:12:46 GMT+0900
+# Updated: Fri Nov 07 2014 02:15:07 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -589,6 +589,8 @@ ameblo.jp/sbooklab
 sbooklab
 CQC_LABO_JAPAN
 cqcjapan
+# # ～ラボ系パクリ オカルト
+WINGMAKERLABO
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
@@ -1019,4 +1021,5 @@ mywot.com
 megalodon.jp
 archive.today
 peeep.us
+whotwi.com
 
