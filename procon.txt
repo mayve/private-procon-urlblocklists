@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Nov 05 2014 18:34:20 GMT+0900
+# Updated: Thu Nov 06 2014 23:12:46 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -242,6 +242,8 @@ FairiesCH
 fairies_me
 sora_fairies
 mahiro_fairies
+# # 妖精ネタパクリ+創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
+pixy_1031
 # #
 rabitsokuhou.2chblog.jp
 rabitsokuho
