@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Nov 08 2014 02:27:08 GMT+0900
+# Updated: Sat Nov 08 2014 04:37:16 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -279,8 +279,9 @@ maya_iyashi
 maya_mcr
 maisoku25
 maisoku.net
-# # 名前パクリ スパム
+# # 名前パクリ アフィスパム
 maya_j_1
+tng64198512
 # # フォロワー売買
 14240524
 # # 名前パクリ偽集団ストーカー被害者
