@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Nov 07 2014 03:20:09 GMT+0900
+# Updated: Sat Nov 08 2014 02:27:08 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -263,6 +263,7 @@ sozoromaya
 nipponmamorouTV
 youtu.be/-Mo3OB0RGmo
 -Mo3OB0RGmo
+maya02.blog3.fc2.com
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -554,6 +555,7 @@ p-labo.biz
 umeda_kazuhiko
 presslabo
 ogawatamaka
+skklab.com
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -574,6 +576,7 @@ bty_labo
 news_at_bizlab
 touch_lab
 touchlab.jp
+raqalirokyr
 # # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
 twitter.com/ClawLabo
 facebook.com/clawhair
