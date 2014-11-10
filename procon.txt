@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Nov 08 2014 04:37:16 GMT+0900
+# Updated: Mon Nov 10 2014 20:42:09 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -250,6 +250,8 @@ rabitsokuho
 # # 創価在日の好きな侮辱語屋
 lilith_nekojiru
 s33tt
+# # フォロワー売買
+14240524
 # # 偽装保守まとめアフィサイト 創価在日系パクラーのステマ請負
 moeruasia.net
 moeruasia
@@ -282,8 +284,6 @@ maisoku.net
 # # 名前パクリ アフィスパム
 maya_j_1
 tng64198512
-# # フォロワー売買
-14240524
 # # 名前パクリ偽集団ストーカー被害者
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
@@ -402,17 +402,6 @@ angelicalpaca
 rinliber
 domkoji
 ArupakasanSyo
-# # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
-tabi-labo.com
-pressa.jp
-sasakitoshinao
-tabilabo_news
-# # 在日孫正義Yahoo!謹製 ねとらぼ＆同種パクリ工作サイト
-nlab.itmedia.co.jp
-itm_nlab
-nlab
-medical.yahoo.co.jp
-medical.yahoo.co.jp*hdl*
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 lab
 dic.nicovideo.jp
@@ -557,6 +546,12 @@ umeda_kazuhiko
 presslabo
 ogawatamaka
 skklab.com
+# # 在日孫正義Yahoo! パクリバイラルメディアねとらぼ＆同種パクリ工作サイト
+nlab.itmedia.co.jp
+itm_nlab
+nlab
+medical.yahoo.co.jp
+medical.yahoo.co.jp*hdl*
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -578,16 +573,18 @@ news_at_bizlab
 touch_lab
 touchlab.jp
 raqalirokyr
-# # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
-twitter.com/ClawLabo
-facebook.com/clawhair
-clawhair.com
+# # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
+tabi-labo.com
+pressa.jp
+sasakitoshinao
+tabilabo_news
 # # ～ラボ系パクリ 偽装保守
 JPN_LISA 
 www.t3.rim.or.jp/~lisalabo
 ringer.cocolog-nifty.com/kunst_und_medizin
 ringer.cocolog-nifty.com
 kuma_lab
+y-e-lab.cd-pf.net
 # # ～ラボ系パクリ リベラル在
 ameblo.jp/sbooklab
 sbooklab
@@ -598,6 +595,10 @@ iinalab.jp
 iinalab
 # # ～ラボ系パクリ オカルト
 WINGMAKERLABO
+# # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
+twitter.com/ClawLabo
+facebook.com/clawhair
+clawhair.com
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
@@ -976,6 +977,7 @@ yagara-stock.com/?wm=13059&tr=8035
 yandex.ru/yandsearch
 zolpidem.pw
 zombiestat.com
+y-e-lab.cd-pf.net
 
 whitelist.sites =
 mozilla.org
