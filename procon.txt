@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Nov 10 2014 20:42:09 GMT+0900
+# Updated: Fri Nov 14 2014 02:23:38 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -284,6 +284,7 @@ maisoku.net
 # # 名前パクリ アフィスパム
 maya_j_1
 tng64198512
+yhyaidzgrc
 # # 名前パクリ偽集団ストーカー被害者
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
@@ -347,10 +348,12 @@ TssTarako
 musicponne
 dominionjp
 Schwarzer_Pfeff
-# # アルパカ使用 偽装リベラル
+# # アルパカ使用 偽装リベラル・反原発系
 majiare
 akarupa1998
 BiancaWhitake2
+pririn_
+radiation-japan.info
 # # アルパカ使用 パクリツイートbot＝スパムアフィ
 yuru_boke
 # # アルパカ使用 売名フォロワー稼ぎ
@@ -585,7 +588,7 @@ ringer.cocolog-nifty.com/kunst_und_medizin
 ringer.cocolog-nifty.com
 kuma_lab
 y-e-lab.cd-pf.net
-# # ～ラボ系パクリ リベラル在
+# # ～ラボ系パクリ リベラル・反原発系在
 ameblo.jp/sbooklab
 sbooklab
 CQC_LABO_JAPAN
@@ -593,6 +596,10 @@ cqcjapan
 IINAlab
 iinalab.jp
 iinalab
+nondual2506
+komichi.loops.jp/makisato
+hikarimatsuri.org
+%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
 # # ～ラボ系パクリ オカルト
 WINGMAKERLABO
 # # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
@@ -977,7 +984,6 @@ yagara-stock.com/?wm=13059&tr=8035
 yandex.ru/yandsearch
 zolpidem.pw
 zombiestat.com
-y-e-lab.cd-pf.net
 
 whitelist.sites =
 mozilla.org
