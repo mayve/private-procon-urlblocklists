@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Nov 16 2014 21:18:57 GMT+0900
+# Updated: Sun Nov 16 2014 22:23:47 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -235,6 +235,8 @@ girls-award.com
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
+# # パクリ ペニオク詐欺 関東連合 http://mayve.tumblr.com/post/8993045632
+higashihara-aki
 # # 妖精ネタパクリ
 fairy
 fairies
@@ -257,7 +259,8 @@ lilith_nekojiru
 s33tt
 # # フォロワー売買
 14240524
-# # 偽装保守まとめアフィサイト 創価在日系パクラーのステマ請負
+# # 創価在日系パクラーのステマ請負多
+alfalfalfa.com
 moeruasia.net
 moeruasia
 # # 名前パクリ偽装保守
@@ -582,7 +585,7 @@ bty_labo
 news_at_bizlab
 touch_lab
 touchlab.jp
-raqaliroky
+raqalirokyr
 joneztown_labo
 # # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
