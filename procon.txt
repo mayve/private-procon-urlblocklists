@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Nov 14 2014 23:08:35 GMT+0900
+# Updated: Sun Nov 16 2014 21:18:57 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -582,7 +582,8 @@ bty_labo
 news_at_bizlab
 touch_lab
 touchlab.jp
-raqalirokyr
+raqaliroky
+joneztown_labo
 # # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
 pressa.jp
