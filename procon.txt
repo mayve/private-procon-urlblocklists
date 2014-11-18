@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Nov 18 2014 21:46:32 GMT+0900
+# Updated: Tue Nov 18 2014 23:56:51 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -255,6 +255,7 @@ pixy_1031
 rabitsokuhou.2chblog.jp
 rabitsokuho
 74_kaluzhny
+sanda9803
 # # 創価在日の好きな侮辱語屋
 lilith_nekojiru
 s33tt
