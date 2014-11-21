@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Nov 18 2014 23:56:51 GMT+0900
+# Updated: Sat Nov 22 2014 03:51:23 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -590,6 +590,7 @@ touch_lab
 touchlab.jp
 raqalirokyr
 joneztown_labo
+habykemicyj
 # # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
 pressa.jp
@@ -602,6 +603,8 @@ ringer.cocolog-nifty.com/kunst_und_medizin
 ringer.cocolog-nifty.com
 kuma_lab
 y-e-lab.cd-pf.net
+# # ～ラボ系パクリ 偽装保守（前は違うURL）
+coto_labo
 # # ～ラボ系パクリ リベラル・反原発系在
 ameblo.jp/sbooklab
 sbooklab
