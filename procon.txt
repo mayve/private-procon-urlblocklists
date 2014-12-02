@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Nov 23 2014 18:44:31 GMT+0900
+# Updated: Fri Nov 28 2014 14:36:03 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -235,9 +235,15 @@ girls-award.com
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
-# # パクリ ペニオク詐欺 関東連合 http://mayve.tumblr.com/post/8993045632
+# # 偽装保守 自作自演 創価在日ステマ請負
+Doronpa01
+doronpa01
+# # パクリ ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
 higashihara-aki
-# # 妖精ネタパクリ
+# # パクリ芸人 革マル枝野幸男がステマ
+a-p.mobi
+AliceProject_mb
+# # 妖精ネタパクリ芸人
 fairy
 fairies
 FairiesCH
@@ -442,7 +448,6 @@ honeylab
 3838.com
 d-laboweb.jp
 teslab.jp
-keibalab.jp
 pokelabo.co.jp
 sumufumulab.jp
 mjlab-shop.com
@@ -560,18 +565,29 @@ umeda_kazuhiko
 presslabo
 ogawatamaka
 skklab.com
-utlab_20
-utlab.jp
 re-dermalab.jp
 re-dermalab
 リ・ダーマラボ99.net
 xn--99-0i4auej0ee0lk.net
-# # 在日孫正義Yahoo! パクリバイラルメディアねとらぼ＆同種パクリ工作サイト
+bodycare-lab.com
+object-lab.co.jp
+# # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
 nlab
 medical.yahoo.co.jp
 hdl
+keibalab.jp
+do-innovation.co.jp
+umalab.net
+# # NPOカタリバ 秘密基地b-lab文京区 #どうして解散するんですか http://togetter.com/li/748327
+katariba.net
+katariba.or.jp
+b-lab.tokyo
+# # 妙な団体系
+utlab_20
+utlab
+utlab.jp
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -609,6 +625,7 @@ ringer.cocolog-nifty.com/kunst_und_medizin
 ringer.cocolog-nifty.com
 kuma_lab
 y-e-lab.cd-pf.net
+catslab
 # # ～ラボ系パクリ 偽装保守（前は違うURL）
 coto_labo
 # # ～ラボ系パクリ リベラル・反原発系在
