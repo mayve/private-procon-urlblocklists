@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Dec 05 2014 00:12:10 GMT+0900
+# Updated: Fri Dec 05 2014 03:00:19 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -589,7 +589,10 @@ hdl
 keibalab.jp
 do-innovation.co.jp
 umalab.net
-# # NPOカタリバ 秘密基地b-lab文京区 #どうして解散するんですか http://togetter.com/li/748327
+# # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
+barrier-free-jp.com
+ucl
+# # NPOカタリバ 秘密基地b-lab文京区 乙武 #どうして解散するんですか http://togetter.com/li/748327
 katariba.net
 katariba.or.jp
 b-lab.tokyo
@@ -597,6 +600,18 @@ b-lab.tokyo
 utlab_20
 utlab
 utlab.jp
+# # ～ラボ系パクリ リベラル・反原発系在
+ameblo.jp/sbooklab
+sbooklab
+CQC_LABO_JAPAN
+cqcjapan
+IINAlab
+iinalab.jp
+iinalab
+nondual2506
+komichi.loops.jp/makisato
+hikarimatsuri.org
+%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
 # # ～ラボ系パクリ アフィスパム
 matome_labo
 wonder_lab_jp
@@ -638,18 +653,6 @@ y-e-lab.cd-pf.net
 catslab
 # # ～ラボ系パクリ 偽装保守（前は違うURL）
 coto_labo
-# # ～ラボ系パクリ リベラル・反原発系在
-ameblo.jp/sbooklab
-sbooklab
-CQC_LABO_JAPAN
-cqcjapan
-IINAlab
-iinalab.jp
-iinalab
-nondual2506
-komichi.loops.jp/makisato
-hikarimatsuri.org
-%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
 # # ～ラボ系パクリ オカルト
 WINGMAKERLABO
 # # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
