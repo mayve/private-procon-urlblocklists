@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Dec 05 2014 03:00:19 GMT+0900
+# Updated: Sat Dec 06 2014 23:37:18 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -292,6 +292,8 @@ mayayatomomo
 HopMaya
 # # 名前パクリ 売名アフィ
 MayJamileh
+may-j.com
+supalove.com
 ayatanponpon
 maya_iyashi
 maya_mcr
@@ -364,6 +366,7 @@ TssTarako
 musicponne
 dominionjp
 Schwarzer_Pfeff
+NekoTeRia
 # # アルパカ使用 偽装リベラル・反原発系
 majiare
 akarupa1998
