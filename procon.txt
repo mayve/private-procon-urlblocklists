@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Dec 13 2014 04:02:06 GMT+0900
+# Updated: Mon Dec 22 2014 11:51:05 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -585,6 +585,8 @@ bizlabo.co.jp
 ohnishi.livedoor.biz
 magazine.livedoor.com/magazine/16
 j-president.net/osaka/株式会社ビジネスラボ-大西宏
+woman.excite.co.jp/especial/t_beauty/tokimeki
+woman.excite.co.jp
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -617,7 +619,7 @@ nondual2506
 komichi.loops.jp/makisato
 hikarimatsuri.org
 %E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
-# # ～ラボ系パクリ アフィスパム
+# # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
 wonderlaboratory.com
@@ -644,6 +646,11 @@ joneztown_labo
 habykemicyj
 bugyhyvosywo
 bycomenobuqu
+jymalosepiko
+rakuten.co.jp/1000faith/bustup-labo
+rakuten.co.jp/1000faith
+1000faith
+bustup-labo
 # # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
 pressa.jp
