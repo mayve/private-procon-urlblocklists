@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Dec 22 2014 11:51:05 GMT+0900
+# Updated: Thu Dec 25 2014 22:04:32 GMT+0900
 
 profanitylist.words =
 Pussy
