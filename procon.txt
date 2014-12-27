@@ -1,5 +1,99 @@
 [ProCon Latte 3.3]
-# Updated: Thu Dec 25 2014 22:04:32 GMT+0900
+# Updated: Sat Dec 27 2014 18:15:55 GMT+0900
+
+profanitylist.words =
+Pussy
+Jackass
+Goddamn
+Bitchy
+Bitched
+Bitching
+Ass hole
+Tits
+Tit
+Pussy
+Damnit
+Bastard
+Cunt
+Dickhead
+Ballsack
+ass
+Faggot
+Niggaz
+Nigger
+Nigga
+Lmao
+Lmfao
+Shit
+Cunt
+Asshole
+Ass-hole
+Motherfucker
+Fucker
+Fuck
+Bitches
+Bitch
+Damn
+ブラゲ
+
+subscriptions.urls = 
+
+blacklist.words =
+18 U.S.C
+18 USC 2257
+explicit photos
+amateur photos
+amateur videos
+adult material
+xxx video
+xxx-rated
+sexually explicit
+adult only
+adults only
+mature audience
+under 21 years
+sexually explicit material
+hentai
+be 18
+over 18
+over 21
+must be 18
+adult web
+must be 21
+erotic
+xxx!
+free adult
+free sex
+adult movie
+adults movie
+blow job
+blowjob
+cock suck
+cumming
+hard porn
+hardcore
+hard-core
+hardporn
+hard-porn
+porn
+porndirectory
+pussy
+showing ass
+showing breast
+showing tit
+soft porn
+softcore
+soft-core
+softporn
+soft-porn
+whore
+at least 18 years
+18.*2257
+2257.*information
+2257.*notice
+2257.*statement
+usc2257
+anime.*xxx
 
 blacklist.sites =
 porn
@@ -493,6 +587,7 @@ magazine.livedoor.com/magazine/16
 j-president.net/osaka/株式会社ビジネスラボ-大西宏
 woman.excite.co.jp/especial/t_beauty/tokimeki
 woman.excite.co.jp
+blog.livedoor.jp/enqute/
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
