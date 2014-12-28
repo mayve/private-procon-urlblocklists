@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Dec 27 2014 18:15:55 GMT+0900
+# Updated: Sun Dec 28 2014 22:44:04 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -667,6 +667,8 @@ y-e-lab.cd-pf.net
 catslab
 # # ～ラボ系パクリ 偽装保守（前は違うURL）
 coto_labo
+# （↑前は違うURL）
+tiwakenlab
 # # ～ラボ系パクリ オカルト
 WINGMAKERLABO
 # # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
