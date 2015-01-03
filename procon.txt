@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Jan 02 2015 19:06:48 GMT+0900
+# Updated: Sun Jan 04 2015 00:16:44 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -240,8 +240,10 @@ anime.dmkt-sp.jp
 # # 偽装保守 自作自演 創価在日ステマ請負
 Doronpa01
 doronpa01
+ryoko174
 # # パクリ ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
 higashihara-aki
+naver.jp/odai/2133738502304705401
 # # パクリ芸人 革マル枝野幸男がステマ
 a-p.mobi
 AliceProject_mb
