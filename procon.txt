@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Jan 11 2015 23:59:45 GMT+0900
+# Updated: Sat Jan 24 2015 08:30:05 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -338,6 +338,7 @@ netoff
 bookoff
 bookoffonline
 zara.com
+collavier.com
 webtest_jp
 webtest.jp
 paka3.net
@@ -442,6 +443,13 @@ hatelabo.jp
 hyaku-lab.net
 hazardlab
 hazardlab.jp
+hazard-lab.jp
+hazard-labo.jp
+hazardlabo.jp
+pod.co.jp
+pod2.jp
+pod.tv
+stylecast.jp
 ci-labo.com
 labo2.jp
 gunze-store.jp
