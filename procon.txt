@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Jan 24 2015 13:36:18 GMT+0900
+# Updated: Wed Feb 04 2015 04:07:40 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -237,6 +237,8 @@ girls-award.com
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
+# # 創価在日系トレパクラー擁護 仕込みアルファ
+hibiki2s
 # # 偽装保守 自作自演 創価在日ステマ請負
 Doronpa01
 doronpa01
@@ -272,6 +274,7 @@ sanda9803
 lilith_nekojiru
 s33tt
 Yamaneko5_7_5
+yuumousou
 # # フォロワー売買
 14240524
 # # 創価在日系パクラーのステマ請負多
@@ -603,6 +606,9 @@ j-president.net/osaka/株式会社ビジネスラボ-大西宏
 woman.excite.co.jp/especial/t_beauty/tokimeki
 woman.excite.co.jp
 blog.livedoor.jp/enqute/
+cookpad-diet.jp
+cookpad.com
+infinityslab
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -1073,6 +1079,7 @@ zolpidem.pw
 zombiestat.com
 
 whitelist.sites =
+label
 mozilla.org
 google.com
 google.co.jp
@@ -1124,4 +1131,5 @@ megalodon.jp
 archive.today
 peeep.us
 whotwi.com
+ecnavi.media-ad.jp
 
