@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Feb 04 2015 22:42:04 GMT+0900
+# Updated: Thu Feb 05 2015 03:29:53 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -613,6 +613,8 @@ b-lab.jp
 fordel.jp
 ecdeiku.com
 im-o.jp
+iyobank.co.jp/sp/chocolabo
+chocolabo
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -629,6 +631,10 @@ ucl
 katariba.net
 katariba.or.jp
 b-lab.tokyo
+# # 一般社団法人AOH らしいが公式なし店サイト以外実績なし謎障害者支援団体
+chocolabo.or.jp
+chocolabo.com
+chocolabo-test.stores.jp
 # # 妙な団体系
 utlab_20
 utlab
