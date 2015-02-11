@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Feb 05 2015 03:29:53 GMT+0900
+# Updated: Sat Feb 07 2015 03:04:53 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -275,6 +275,7 @@ lilith_nekojiru
 s33tt
 Yamaneko5_7_5
 yuumousou
+80_ultra_man
 # # フォロワー売買
 14240524
 # # 創価在日系パクラーのステマ請負多
