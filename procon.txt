@@ -1,5 +1,23 @@
 [ProCon Latte 3.3]
-# Updated: Sat Feb 07 2015 03:04:53 GMT+0900
+
+# preferences
+misc.showStatusButton = true
+blacklist.advanced.redirectURL = 
+blacklist.advanced.customWarningMsg = 
+profanitylist.enabled = false
+profanitylist.placeholder = !@#$%^&*
+blacklist.advanced.redirect = false
+blacklist.advanced.examineMeta = true
+blacklist.advanced.customWarning = true
+blacklist.advanced.limitNetAccess = false
+blacklist.words.enabled = true
+misc.showMenuButton = false
+blacklist.enabled = true
+blacklist.advanced.renderDelay = false
+blacklist.sites.enabled = true
+blacklist.advanced.showDetails = false
+subscriptions.enabled = false
+whitelist.enabled = true
 
 profanitylist.words =
 Pussy
@@ -243,14 +261,13 @@ hibiki2s
 Doronpa01
 doronpa01
 ryoko174
+#3pF
+manamigakumi
 # # 偽装サヨクリベラル
 ats4u
 # # パクリ ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
 higashihara-aki
 naver.jp/odai/2133738502304705401
-# # パクリ芸人 革マル枝野幸男がステマ
-a-p.mobi
-AliceProject_mb
 # # 妖精ネタパクリ芸人
 fairy
 fairies
@@ -261,6 +278,14 @@ mahiro_fairies
 rikako_fairies
 miria_fairies
 momoka_fairies
+# # 2番煎じパクリ芸人 仮面アイコンネタパクリ 革マル枝野幸男がステマ
+alice-project.biz
+a-p.mobi
+AliceProject_mb
+live-alice
+alicekusanagi
+tsukino-moa
+paselabo.tv
 # # 妖精ネタパクリ芸人のステマ垢 偽装保守 パクツイ多
 bouncingbaby777
 # # 妖精ネタパクリ+創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
@@ -616,6 +641,7 @@ ecdeiku.com
 im-o.jp
 iyobank.co.jp/sp/chocolabo
 chocolabo
+fxtrade-lab.com
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -1120,6 +1146,7 @@ www.portablefreeware.com
 download.cnet.com
 2ch.net
 .eonet.jp
+.eonet.ne.jp
 ameblo.jp
 blogimg.jp
 gigazine.net
