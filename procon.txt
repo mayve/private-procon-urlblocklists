@@ -1,23 +1,5 @@
 [ProCon Latte 3.3]
-
-# preferences
-misc.showStatusButton = true
-blacklist.advanced.redirectURL = 
-blacklist.advanced.customWarningMsg = 
-profanitylist.enabled = false
-profanitylist.placeholder = !@#$%^&*
-blacklist.advanced.redirect = false
-blacklist.advanced.examineMeta = true
-blacklist.advanced.customWarning = true
-blacklist.advanced.limitNetAccess = false
-blacklist.words.enabled = true
-misc.showMenuButton = false
-blacklist.enabled = true
-blacklist.advanced.renderDelay = false
-blacklist.sites.enabled = true
-blacklist.advanced.showDetails = false
-subscriptions.enabled = false
-whitelist.enabled = true
+# Updated: Sat Feb 28 2015 19:07:34 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -296,6 +278,7 @@ rabitsokuho
 74_kaluzhny
 sanda9803
 # # 創価在日の好きな侮辱語屋
+mousouteki
 lilith_nekojiru
 s33tt
 Yamaneko5_7_5
@@ -519,7 +502,17 @@ rub-lab.com
 naninaru.net
 as-lab.jp
 appmarketinglabo.net
+keepergiken.co.jp
+keepre.jp
+keeper-labo.jp
+keepercoating.jp
+keepercoating-labo.jp
+keepercoatinglabo.jp
 keeperlabo.jp
+keeperproshop.jp
+keeperyoyaku.jp
+keepergiken.jp
+sensya.com
 ahead-lab.com
 nemuri-lab.jp
 brainhealth.jp
