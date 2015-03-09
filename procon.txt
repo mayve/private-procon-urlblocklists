@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Mar 02 2015 15:07:07 GMT+0900
+# Updated: Mon Mar 09 2015 22:06:08 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -472,6 +472,7 @@ stylecast.jp
 ci-labo.com
 labo2.jp
 gunze-store.jp
+sansaibooks.co.jp/glabo
 office-p-labo.com
 sar-gmbh.com
 beauty-co.jp
@@ -686,6 +687,7 @@ nondual2506
 komichi.loops.jp/makisato
 hikarimatsuri.org
 %E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
+colabo_yumeno
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
