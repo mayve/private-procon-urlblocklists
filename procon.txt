@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Mar 10 2015 07:20:08 GMT+0900
+# Updated: Sun Mar 15 2015 19:07:33 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -301,6 +301,7 @@ nipponmamorouTV
 youtu.be/-Mo3OB0RGmo
 -Mo3OB0RGmo
 maya02.blog3.fc2.com
+FateSig226
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -658,6 +659,7 @@ g-sign.jp
 kensho3.jp
 wo-market.jp
 irie-communications.jp
+labunix
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -670,10 +672,15 @@ umalab.net
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
-# # NPOカタリバ 秘密基地b-lab文京区 乙武 #どうして解散するんですか http://togetter.com/li/748327
+# # NPOカタリバ 秘密基地b-lab文京区 乙武 #どうして解散するんですか http://togetter.com/li/748327 http://hosyusokuhou.jp/archives/41442697.html
 katariba.net
 katariba.or.jp
 b-lab.tokyo
+tehutehuapple
+tehu.me
+gendai.ismedia.jp
+kai-you.net
+kai-you.co.jp
 # # 一般社団法人AOH らしいが公式なし店サイト以外実績なし謎障害者支援団体
 chocolabo.or.jp
 chocolabo.com
