@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Mar 17 2015 03:52:56 GMT+0900
+# Updated: Wed Apr 01 2015 11:55:23 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -117,6 +117,8 @@ squares.net
 johoguard.com
 wiki.livedoor.jp/watch_the_st
 richardkoshimizu.at.webry.info
+mousou.apned.com
+apned.com
 # # 精神病レッテル貼りキャンペーン協賛 フジテレビ系
 qlife.jp
 # # Anlysis
@@ -308,6 +310,7 @@ ayufait
 maya0520
 mayaya_jujitsu
 mayayatomomo
+wakakusamaya
 # # 名前パクリ フォロワー売買?
 HopMaya
 # # 名前パクリ 売名アフィ
@@ -874,7 +877,6 @@ http://www.n28.jp/*W056/
 pachitele.net
 gamespace24.net
 hangame.co.jp
-easygame.jp
 alteil.jp
 neocosmic.info
 soranova
