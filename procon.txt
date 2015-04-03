@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Apr 01 2015 11:55:23 GMT+0900
+# Updated: Sat Apr 04 2015 01:13:09 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -463,7 +463,6 @@ ArupakasanSyo
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
 dic.nicovideo.jp
-team-lab.com
 hatelabo.jp
 hyaku-lab.net
 hazardlab
@@ -664,6 +663,12 @@ kensho3.jp
 wo-market.jp
 irie-communications.jp
 labunix
+mylab
+groupon.jp/cid/14767
+dena-ec.com/user/19707963
+my-labo.jp
+prhythm.co.jp
+prism-hk.jp
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -673,6 +678,12 @@ hdl
 keibalab.jp
 do-innovation.co.jp
 umalab.net
+# # pixivと組んで投稿者イラストを無断トレパク・破壊して商売
+team-lab
+teamlab
+team-lab.com
+team-lab.net
+teamlab_news
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
@@ -872,6 +883,8 @@ woman-labo
 zyoseiikumoulobo.jp
 labo.kani.co.jp
 bustuplabo.com
+# #
+ringerhut_jp
 # # Game
 http://www.n28.jp/*W056/
 pachitele.net
