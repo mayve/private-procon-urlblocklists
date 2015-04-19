@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Apr 04 2015 01:13:09 GMT+0900
+# Updated: Sun Apr 19 2015 11:06:07 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -157,6 +157,7 @@ cue-monitor.jp/mypage/images/friend
 ecnavi.jp/contactlens
 http://ecnavi.jp/campaign/wakuwakusan
 picmy
+ecnavi.jp/pointboard/detail/?id=ge4l7cXC
 gpoint.co.jp/shoplist/allshop/102692/
 travel.gpoint.co.jp/daredoko/
 241241.jp
@@ -241,6 +242,8 @@ nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
 # # 創価在日系トレパクラー擁護 仕込みアルファ
 hibiki2s
+h2s.roheisen.net
+roheisen.net
 # # 偽装保守 自作自演 創価在日ステマ請負
 Doronpa01
 doronpa01
@@ -1220,4 +1223,5 @@ archive.today
 peeep.us
 whotwi.com
 ecnavi.media-ad.jp
+bingo.gpoint.co.jp
 
