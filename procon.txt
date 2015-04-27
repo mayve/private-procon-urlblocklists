@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Apr 26 2015 08:22:00 GMT+0900
+# Updated: Mon Apr 27 2015 19:49:04 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -361,6 +361,7 @@ youtu.be/-Mo3OB0RGmo
 maya02.blog3.fc2.com
 FateSig226
 maysakuraki
+maykaasan
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -596,7 +597,10 @@ sakarabo.blog.jp
 kitalabo.com
 nueq.exblog.jp
 suzuki.888j.net
+tres-star.jp
 joylab.jp
+pricelab.jp
+priceplus.jp
 nulab.co.jp
 nilab.info
 nilab
@@ -1267,6 +1271,7 @@ megalodon.jp
 archive.today
 peeep.us
 whotwi.com
+stream.ne.jp
 cross-a.net
 enqasp.com
 poncan.jp
