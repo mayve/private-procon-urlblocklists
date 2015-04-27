@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Apr 19 2015 11:06:07 GMT+0900
+# Updated: Sun Apr 26 2015 08:22:00 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -115,6 +115,8 @@ hentai
 kokoro.squares.net
 squares.net
 johoguard.com
+ameblo.jp/jgblog
+jgblog/
 wiki.livedoor.jp/watch_the_st
 richardkoshimizu.at.webry.info
 mousou.apned.com
@@ -158,6 +160,7 @@ ecnavi.jp/contactlens
 http://ecnavi.jp/campaign/wakuwakusan
 picmy
 ecnavi.jp/pointboard/detail/?id=ge4l7cXC
+pex.jp/point_ad/detail?id=DYoEX4E9
 gpoint.co.jp/shoplist/allshop/102692/
 travel.gpoint.co.jp/daredoko/
 241241.jp
@@ -240,10 +243,60 @@ girls-award.com
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
-# # 創価在日系トレパクラー擁護 仕込みアルファ
+# # 創価在日系 無断転載を叩くがお仲間のトレパクラーは全力擁護 http://www57.atwiki.jp/unarepro775/pages/32.html
 hibiki2s
 h2s.roheisen.net
 roheisen.net
+curtain_call1
+hibiki2s
+kinky12x08
+towatotowato
+ohmura_keru
+fav__nine
+lpggass
+tikuwa_ore
+iwashi_revive
+boomboomhead
+bluescape735
+atts_D8
+iwakurachihiro
+lotusredcat
+ozkurein
+tairan_snksms
+dreamy_melancho
+Prof_KovCheren
+DaisyAdreena
+CelsiusD5
+chico_love
+Uncyclopedia_01
+karin_ay0082
+rove_labbit
+sinucyu
+jyamikichi
+IRpine1
+kaelu_only
+kohada11
+siyu104
+higa_idsuru
+1000cage
+lenchroot
+honmajuu
+Naia_Totebe
+kurosawa516
+hechima_tawashi
+B_H_T_Rice
+oritsuki
+orisakamikasa
+_?156892028267
+ars_luculenta
+wl0c_0w
+kelbim_eden
+junko_naemi
+jentleman10
+EnemyEleven
+Fujishiki
+MTGM_MTGM_MTGM
+lainize
 # # 偽装保守 自作自演 創価在日ステマ請負
 Doronpa01
 doronpa01
@@ -307,6 +360,7 @@ youtu.be/-Mo3OB0RGmo
 -Mo3OB0RGmo
 maya02.blog3.fc2.com
 FateSig226
+maysakuraki
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
@@ -334,6 +388,8 @@ maya_iyashi
 maya_mcr
 maisoku25
 maisoku.net
+maaya3trees
+maayamiki.jimdo.com
 # # 名前パクリ アフィスパム
 maya_j_1
 tng64198512
@@ -1188,6 +1244,7 @@ office.net
 userscripts.org
 wikipedia.org
 aguse.jp
+openlab.ring.gr.jp
 tumblr.com
 control.blog.fc2.com
 admin.blog.fc2.com
@@ -1205,6 +1262,11 @@ gigazine.net
 allabout.co.jp
 losslab.blogspot.com
 losslab.blogspot.jp
+mywot.com
+megalodon.jp
+archive.today
+peeep.us
+whotwi.com
 cross-a.net
 enqasp.com
 poncan.jp
@@ -1214,14 +1276,10 @@ monow.jp
 fishing.gendama.jp
 bakucho.netmile.co.jp
 search.potora.jp
-pointtown.com
-livedoor.jp
-reader.livedoor.com
-mywot.com
-megalodon.jp
-archive.today
-peeep.us
-whotwi.com
+ecnavi.jp/mm/
 ecnavi.media-ad.jp
 bingo.gpoint.co.jp
+livedoor.jp
+reader.livedoor.com
+sugutama.jp
 
