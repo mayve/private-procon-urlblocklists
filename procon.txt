@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Apr 27 2015 19:49:04 GMT+0900
+# Updated: Tue Apr 28 2015 11:53:33 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -537,6 +537,14 @@ stylecast.jp
 ci-labo.com
 labo2.jp
 gunze-store.jp
+iwatani-i-collect.com
+imcjpn.co.jp
+ishop.tbs.co.jp
+tbs.co.jp
+j-shopping.jp
+tvラジオショッピング.jp
+xn--tv-6g4aya8ae3fwgzgqa0j.jp
+ihopehouse.jp
 sansaibooks.co.jp/glabo
 office-p-labo.com
 sar-gmbh.com
