@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Apr 28 2015 11:53:33 GMT+0900
+# Updated: Tue Apr 28 2015 14:57:04 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -362,6 +362,7 @@ maya02.blog3.fc2.com
 FateSig226
 maysakuraki
 maykaasan
+maya_tokyo
 # # 名前パクリ偽装サヨクリベラル
 may_roma
 ayufait
