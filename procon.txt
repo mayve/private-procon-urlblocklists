@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Apr 28 2015 14:57:04 GMT+0900
+# Updated: Sun May 03 2015 23:56:00 GMT+0900
 
 profanitylist.words =
 Pussy
@@ -161,6 +161,8 @@ http://ecnavi.jp/campaign/wakuwakusan
 picmy
 ecnavi.jp/pointboard/detail/?id=ge4l7cXC
 pex.jp/point_ad/detail?id=DYoEX4E9
+ecnavi.jp/pointboard/detail/?id=ge4l7cXC
+ecnavi.jp/bid/?BID=323929
 gpoint.co.jp/shoplist/allshop/102692/
 travel.gpoint.co.jp/daredoko/
 241241.jp
@@ -303,6 +305,8 @@ doronpa01
 ryoko174
 #3pF
 manamigakumi
+nakamichisokuho.com
+nakamichisokuho
 # # 偽装サヨクリベラル
 ats4u
 # # パクリ ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
