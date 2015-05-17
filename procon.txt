@@ -1,5 +1,24 @@
 [ProCon Latte 3.3]
-# Updated: Wed May 06 2015 02:52:18 GMT+0900
+# Updated: Sun May 17 2015 07:43:02 GMT+0900
+
+# preferences
+misc.showStatusButton = true
+blacklist.advanced.customWarningMsg = 
+profanitylist.enabled = false
+profanitylist.placeholder = !@#$%^&*
+blacklist.advanced.redirect = false
+blacklist.advanced.redirectURL = 
+blacklist.advanced.examineMeta = true
+blacklist.advanced.customWarning = true
+blacklist.advanced.limitNetAccess = false
+blacklist.words.enabled = true
+misc.showMenuButton = false
+blacklist.advanced.renderDelay = false
+blacklist.sites.enabled = true
+blacklist.enabled = true
+blacklist.advanced.showDetails = false
+subscriptions.enabled = false
+whitelist.enabled = true
 
 profanitylist.words =
 Pussy
@@ -111,16 +130,19 @@ hardcore
 cumshot
 preggo
 hentai
-# # 情報誘導・印象操作目的の創価在日成りすまし・炎上商法
+# # 情報誘導・印象操作目的のプロ創価在日成りすまし犯罪者・炎上商法
 kokoro.squares.net
 squares.net
 johoguard.com
 ameblo.jp/jgblog
-jgblog/
+jgblog
 wiki.livedoor.jp/watch_the_st
 richardkoshimizu.at.webry.info
 mousou.apned.com
 apned.com
+sch1z0phrenia
+occ_denebu
+10sitwatch
 # # 精神病レッテル貼りキャンペーン協賛 フジテレビ系
 qlife.jp
 # # Anlysis
@@ -242,6 +264,38 @@ linne.co.jp
 proactiv.jp
 girlsaward
 girls-award.com
+# # 偽集団ストーカー被害者群
+# 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント http://sites.google.com/site/mayvelog/pic_kensyou
+yakiimo7
+syauri135
+rirnrin9999
+pookoomoo555
+mALinNAKAZONO
+aelouuno
+keninter
+# 偽被害者 偽装リベラル（陰謀論系含）
+hinode8
+# 偽被害者 偽装リベラル（平野達彦ことTaiki Hiranoの共有アカウントの中身疑惑）
+waaldpeace
+waaldpeace2
+waaldpeace3 凍結済
+waaldpeace4
+waaldpeace5
+waaldpeace6
+waaldpeace7 凍結済
+lissew1111
+# 偽被害者 偽装保守系 ↑の別働＆支援隊  http://mayve.tumblr.com/post/102443006264
+doctorar0
+doctorar1
+miumiu0107
+rinkonotweet
+Freedom20141210
+SyusutoHigaisya
+gifuudoudouki
+panerai_sub
+# 偽被害者 名前パクリ
+ameblo.jp/maya-bunmey-393931-et
+maya-bunmey-393931-et
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
@@ -307,12 +361,17 @@ ryoko174
 manamigakumi
 nakamichisokuho.com
 nakamichisokuho
+fujiedageki
+#S_B_O_G
+#↓偽装保守なのか騙されているかは不明だが、本人が拡散しているブログ（ひとりごと余命）はサクラブログ
+Justiceandfair
 # # 偽装サヨクリベラル
 ats4u
-# # パクリ ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
+# # 売名芸人群
+# 売名芸人群 ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
 higashihara-aki
 naver.jp/odai/2133738502304705401
-# # 妖精ネタパクリ芸人
+# 売名芸人群 妖精ネタパクリ
 fairy
 fairies
 FairiesCH
@@ -322,7 +381,7 @@ mahiro_fairies
 rikako_fairies
 miria_fairies
 momoka_fairies
-# # 2番煎じパクリ芸人 仮面アイコンネタパクリ 革マル枝野幸男がステマ
+# 売名芸人群 仮面アイコンネタパクリ 革マル枝野幸男がステマ
 alice-project.biz
 a-p.mobi
 AliceProject_mb
@@ -330,6 +389,30 @@ live-alice
 alicekusanagi
 tsukino-moa
 paselabo.tv
+# 売名芸人群 名前パクリ
+MayJamileh
+may-j.com
+supalove.com
+matome.naver.jp/odai/2142009120467219201
+news.livedoor.com/article/detail/9606414/
+mayn.jp
+mayn
+ameblo.jp/mayn-blog
+mayn_tw
+facebook.com/mayn.official
+jvcmusic.co.jp/flyingdog/-/Artist/A021682.html
+#↑在日多ホリプロ所属
+ayatanponpon
+maya_iyashi
+maya_mcr
+maisoku25
+maisoku.net
+maaya3trees
+maayamiki.jimdo.com
+maya-miyagawa
+maya_m0901
+vithmicpro.co.jp
+# # 売名芸人群 終
 # # 妖精ネタパクリ芸人のステマ垢 偽装保守 パクツイ多
 bouncingbaby777
 # # 妖精ネタパクリ+創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
@@ -367,42 +450,33 @@ FateSig226
 maysakuraki
 maykaasan
 maya_tokyo
-# # 名前パクリ偽装サヨクリベラル
+#Hakkuro78
+# # 名前パクリ偽装サヨクリベラル＆支援垢
 may_roma
 ayufait
 maya0520
 mayaya_jujitsu
 mayayatomomo
 wakakusamaya
+maya1318
+neko_aii
+m_x1567x5x
 # # 名前パクリ フォロワー売買?
 HopMaya
-# # 名前パクリ 売名アフィ
-MayJamileh
-may-j.com
-supalove.com
-matome.naver.jp/odai/2142009120467219201
-news.livedoor.com/article/detail/9606414/
-mayn.jp
-mayn
-ameblo.jp/mayn-blog
-mayn_tw
-facebook.com/mayn.official
-jvcmusic.co.jp/flyingdog/-/Artist/A021682.html
-# # ↑在日多ホリプロ所属
-ayatanponpon
-maya_iyashi
-maya_mcr
-maisoku25
-maisoku.net
-maaya3trees
-maayamiki.jimdo.com
 # # 名前パクリ アフィスパム
 maya_j_1
 tng64198512
 yhyaidzgrc
-# # 名前パクリ偽集団ストーカー被害者
-ameblo.jp/maya-bunmey-393931-et
-maya-bunmey-393931-et
+digital-cat.com
+digital_cat_com
+Digital-cat
+Digitalcatcom
+digital-cat
+digital-cat.tumblr.com
+digital_cat_com
+Digital-cat
+Digitalcat
+digitalcat
 # # ClutSouka-Korean_Pakuri_alpaca_since2007
 alpaca
 NasuAlpacaFarm
@@ -416,6 +490,11 @@ mirabakesso.jp
 nissay-mirai.jp
 attrip
 attrip.jp
+firealpaca.com
+firealpaca
+cloudalpaca.com
+cloudalpaca
+medibang.com
 alpacaniisan
 cocosola.jp
 cocosola_inc
@@ -745,6 +824,43 @@ dena-ec.com/user/19707963
 my-labo.jp
 prhythm.co.jp
 prism-hk.jp
+mental_labo
+# # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
+matome_labo
+wonder_lab_jp
+wonderlaboratory.com
+wonderlaboratory
+wonderlab
+cyam5
+bacjo.com
+touchlab.jp
+wancolabo
+wancolabo.com
+geinolabo.ldblog.jp
+geinolab
+konami.jp/am/curucuru
+curucuru
+hatena.ne.jp/kanz-labs
+kanz-labs
+sugio-garden.com
+bty_labo
+news_at_bizlab
+touch_lab
+touchlab.jp
+raqalirokyr
+joneztown_labo
+habykemicyj
+bugyhyvosywo
+bycomenobuqu
+jymalosepiko
+rakuten.co.jp/1000faith/bustup-labo
+rakuten.co.jp/1000faith
+1000faith
+bustup-labo
+musashino-kanri
+scalp-d.angfa-store.jp
+digram-sindan.com
+c-lab.link
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
 itm_nlab
@@ -802,42 +918,6 @@ komichi.loops.jp/makisato
 hikarimatsuri.org
 %E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
 colabo_yumeno
-# # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
-matome_labo
-wonder_lab_jp
-wonderlaboratory.com
-wonderlaboratory
-wonderlab
-cyam5
-bacjo.com
-touchlab.jp
-wancolabo
-wancolabo.com
-geinolabo.ldblog.jp
-geinolab
-konami.jp/am/curucuru
-curucuru
-hatena.ne.jp/kanz-labs
-kanz-labs
-sugio-garden.com
-bty_labo
-news_at_bizlab
-touch_lab
-touchlab.jp
-raqalirokyr
-joneztown_labo
-habykemicyj
-bugyhyvosywo
-bycomenobuqu
-jymalosepiko
-rakuten.co.jp/1000faith/bustup-labo
-rakuten.co.jp/1000faith
-1000faith
-bustup-labo
-musashino-kanri
-scalp-d.angfa-store.jp
-digram-sindan.com
-c-lab.link
 # # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
 pressa.jp
@@ -1283,6 +1363,7 @@ losslab.blogspot.jp
 mywot.com
 megalodon.jp
 archive.today
+archive.is
 peeep.us
 whotwi.com
 stream.ne.jp
