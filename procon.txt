@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun May 17 2015 07:43:02 GMT+0900
+# Updated: Tue May 19 2015 19:01:10 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -287,8 +287,11 @@ lissew1111
 # 偽被害者 偽装保守系 ↑の別働＆支援隊  http://mayve.tumblr.com/post/102443006264
 doctorar0
 doctorar1
+suicidebombing1
 miumiu0107
 rinkonotweet
+wsf4rmh3v
+#↑https://twitter.com/mayve_t/status/600593767725412352
 Freedom20141210
 SyusutoHigaisya
 gifuudoudouki
@@ -296,6 +299,12 @@ panerai_sub
 # 偽被害者 名前パクリ
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
+# # 集スト被害者から盗用した被害内容や個人情報の仄めかし有で有害 陰謀論系と同じ多くのリーク情報に偽情報混入タイプ
+hitorigoto-kokoro.blogspot.jp
+kt-yh6494.blog.so-net.ne.jp
+# ↑ステマ業者の支援かアクセス乞食
+yomei3archives.blog.fc2.com
+takarin7.seesaa.net
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
@@ -363,7 +372,7 @@ nakamichisokuho.com
 nakamichisokuho
 fujiedageki
 #S_B_O_G
-#↓偽装保守なのか騙されているかは不明だが、本人が拡散しているブログ（ひとりごと余命）はサクラブログ
+#↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害な釣り）
 Justiceandfair
 # # 偽装サヨクリベラル
 ats4u
