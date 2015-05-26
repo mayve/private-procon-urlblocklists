@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue May 19 2015 19:01:10 GMT+0900
+# Updated: Wed May 27 2015 05:33:15 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -271,10 +271,20 @@ syauri135
 rirnrin9999
 pookoomoo555
 mALinNAKAZONO
+sluggishslime
+kittypoointheto
+youtube.com/user/ripmybelovedcats
+slimyslime.blog.fc2.com
+kagaishay.blog.fc2.com
 aelouuno
 keninter
 # 偽被害者 偽装リベラル（陰謀論系含）
 hinode8
+# 偽被害者 騒音や偽咳はやってる人が操作されてるからです！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
+hinonine220
+dimensionstalker
+jusokou1
+jusokou2
 # 偽被害者 偽装リベラル（平野達彦ことTaiki Hiranoの共有アカウントの中身疑惑）
 waaldpeace
 waaldpeace2
@@ -284,6 +294,11 @@ waaldpeace5
 waaldpeace6
 waaldpeace7 凍結済
 lissew1111
+agsas_hannzai
+agsas_hannzai0
+agsas_hannzai1 何故か抜けてる
+agsas_hannzai2
+kingdragonxxx
 # 偽被害者 偽装保守系 ↑の別働＆支援隊  http://mayve.tumblr.com/post/102443006264
 doctorar0
 doctorar1
@@ -295,7 +310,7 @@ wsf4rmh3v
 Freedom20141210
 SyusutoHigaisya
 gifuudoudouki
-panerai_sub
+#panerai_sub
 # 偽被害者 名前パクリ
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
@@ -371,7 +386,7 @@ manamigakumi
 nakamichisokuho.com
 nakamichisokuho
 fujiedageki
-#S_B_O_G
+S_B_O_G
 #↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害な釣り）
 Justiceandfair
 # # 偽装サヨクリベラル
@@ -927,6 +942,7 @@ komichi.loops.jp/makisato
 hikarimatsuri.org
 %E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C
 colabo_yumeno
+colabo-yumeno
 # # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
 tabi-labo.com
 pressa.jp
