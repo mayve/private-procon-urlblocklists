@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed May 27 2015 05:33:15 GMT+0900
+# Updated: Thu May 28 2015 19:54:12 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -314,6 +314,8 @@ gifuudoudouki
 # 偽被害者 名前パクリ
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
+#  偽被害者 脳梗塞の前段階・後遺症をテクノロジー被害と言うが、この人に必要なのは適切な休養とリハビリなので結果的に偽被害者と変わらず
+nounaionsei
 # # 集スト被害者から盗用した被害内容や個人情報の仄めかし有で有害 陰謀論系と同じ多くのリーク情報に偽情報混入タイプ
 hitorigoto-kokoro.blogspot.jp
 kt-yh6494.blog.so-net.ne.jp
@@ -389,6 +391,8 @@ fujiedageki
 S_B_O_G
 #↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害な釣り）
 Justiceandfair
+ishida_chihiro
+# ↑テレビ出演経験ありとのことなので右カルト系扇動劇団の可能性
 # # 偽装サヨクリベラル
 ats4u
 # # 売名芸人群
@@ -569,6 +573,7 @@ musicponne
 dominionjp
 Schwarzer_Pfeff
 NekoTeRia
+whitleghorn
 # # アルパカ使用 偽装リベラル・反原発系
 majiare
 akarupa1998
