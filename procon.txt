@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu May 28 2015 19:54:12 GMT+0900
+# Updated: Sun Jun 07 2015 22:25:25 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -265,11 +265,14 @@ proactiv.jp
 girlsaward
 girls-award.com
 # # 偽集団ストーカー被害者群
-# 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント http://sites.google.com/site/mayvelog/pic_kensyou
+# 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント
 yakiimo7
 syauri135
 rirnrin9999
+kaka5963
 pookoomoo555
+jammanbot
+#↑画像盗用し拡散 sites.google.com/site/mayvelog/pic_kensyou
 mALinNAKAZONO
 sluggishslime
 kittypoointheto
@@ -277,10 +280,36 @@ youtube.com/user/ripmybelovedcats
 slimyslime.blog.fc2.com
 kagaishay.blog.fc2.com
 aelouuno
+kaka5963
 keninter
+#takushakayorozu
+#bettymama111
+# 偽被害者 偽装保守系 ↑の別働＆支援隊  mayve.tumblr.com/post/102443006264 男女の組らしい
+#NPmemo=winnerLASTBOSS=rinkonotweet=miumiu0107=kingdragonxxx
+#pookoomoo555の画像盗用検証作業にケチをつけるので同じ群れ？
+NPmemo 削除済
+winnerLASTBOSS 削除済
+miumiu0107
+rinkonotweet
+kingdragonxxx
+nepentha
+DeramShin
+ffffabcdeftttt
+ameblo.jp/f2f5f4f3
+f2f5f4f3
+#↑NPmemoと同じ家族葬式仄めかし 前科複数 twitter.com/mayve_t/status/606010245802958848
+wsf4rmh3v
+#↑チョッパリピース自撮り twitter.com/mayve_t/status/600593767725412352
+doctorar0
+doctorar1
+suicidebombing1
+Freedom20141210
+SyusutoHigaisya
+gifuudoudouki
+#panerai_sub
 # 偽被害者 偽装リベラル（陰謀論系含）
 hinode8
-# 偽被害者 騒音や偽咳はやってる人が操作されてるからです！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
+# 偽被害者 騒音や偽咳はやってる人が操作されてるから！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
 hinonine220
 dimensionstalker
 jusokou1
@@ -298,23 +327,10 @@ agsas_hannzai
 agsas_hannzai0
 agsas_hannzai1 何故か抜けてる
 agsas_hannzai2
-kingdragonxxx
-# 偽被害者 偽装保守系 ↑の別働＆支援隊  http://mayve.tumblr.com/post/102443006264
-doctorar0
-doctorar1
-suicidebombing1
-miumiu0107
-rinkonotweet
-wsf4rmh3v
-#↑https://twitter.com/mayve_t/status/600593767725412352
-Freedom20141210
-SyusutoHigaisya
-gifuudoudouki
-#panerai_sub
 # 偽被害者 名前パクリ
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
-#  偽被害者 脳梗塞の前段階・後遺症をテクノロジー被害と言うが、この人に必要なのは適切な休養とリハビリなので結果的に偽被害者と変わらず
+#  偽被害者 脳梗塞の前段階・後遺症をテクノロジー被害と言うので結果的に偽被害者と変わらず
 nounaionsei
 # # 集スト被害者から盗用した被害内容や個人情報の仄めかし有で有害 陰謀論系と同じ多くのリーク情報に偽情報混入タイプ
 hitorigoto-kokoro.blogspot.jp
@@ -389,6 +405,10 @@ nakamichisokuho.com
 nakamichisokuho
 fujiedageki
 S_B_O_G
+#minminmikko
+DoKuTsUrUtAkE02
+heaven_tones
+abechan_matome/
 #↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害な釣り）
 Justiceandfair
 ishida_chihiro
@@ -659,6 +679,11 @@ tvラジオショッピング.jp
 xn--tv-6g4aya8ae3fwgzgqa0j.jp
 ihopehouse.jp
 sansaibooks.co.jp/glabo
+future-labo.com
+po-holdings.co.jp
+pola.co.jp
+orbis.co.jp
+future-lab.asia
 office-p-labo.com
 sar-gmbh.com
 beauty-co.jp
@@ -854,6 +879,7 @@ my-labo.jp
 prhythm.co.jp
 prism-hk.jp
 mental_labo
+richdad-lab.com
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -931,6 +957,7 @@ b-labo
 b-labo.ne.jp
 daisukichocolate.com
 # # 妙な団体系
+futurelab.or.jp
 utlab_20
 utlab
 utlab.jp
@@ -1400,6 +1427,7 @@ stream.ne.jp
 cross-a.net
 enqasp.com
 poncan.jp
+chobirich.us
 point-ad-game.com
 realworld.jp
 monow.jp
