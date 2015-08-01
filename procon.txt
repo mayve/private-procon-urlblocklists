@@ -1,10 +1,11 @@
 [ProCon Latte 3.3]
-# Updated: Wed Jun 17 2015 18:12:16 GMT+0900
+# Updated: Sun Aug 02 2015 04:31:20 GMT+0900
 
 # preferences
 misc.showStatusButton = true
 blacklist.advanced.customWarningMsg = 
 profanitylist.enabled = false
+blacklist.advanced.showDetails = false
 profanitylist.placeholder = !@#$%^&*
 blacklist.advanced.redirect = false
 blacklist.advanced.redirectURL = 
@@ -16,7 +17,6 @@ misc.showMenuButton = false
 blacklist.advanced.renderDelay = false
 blacklist.sites.enabled = true
 blacklist.enabled = true
-blacklist.advanced.showDetails = false
 subscriptions.enabled = false
 whitelist.enabled = true
 
@@ -150,6 +150,10 @@ sch1z0phrenia
 10sitwatch
 abe_death
 qmanews
+Fujiko173
+hTweets_Summary
+nonbe.info
+tomomiatb
 # # 精神病レッテル貼りキャンペーン協賛 フジテレビ系
 qlife.jp
 # # Anlysis
@@ -258,6 +262,19 @@ bikan-aojiru.jp
 manara.jp
 shimanoya.net
 karadano-recipe.com
+# # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
+nlab.itmedia.co.jp
+itm_nlab
+nlab
+medical.yahoo.co.jp
+hdl
+keibalab.jp
+do-innovation.co.jp
+umalab.net
+eyesgrandprix
+yahoo.co.jp
+yahoo.jp
+yahoo
 # # Nikibi
 jewel-rain.com
 firstcrush.jp
@@ -271,6 +288,12 @@ linne.co.jp
 proactiv.jp
 girlsaward
 girls-award.com
+# # pixivと組んで投稿者イラストを無断トレパク・破壊して商売
+team-lab
+teamlab
+team-lab.com
+team-lab.net
+teamlab_news
 # # 偽集団ストーカー被害者群
 # 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント
 yakiimo7
@@ -280,7 +303,11 @@ kaka5963
 pookoomoo555
 jammanbot
 #↑画像盗用し拡散 sites.google.com/site/mayvelog/pic_kensyou
+putticommPTM
+# pookoomoo555が拡散中 地味にこちらの絵朴李疑惑…
 mALinNAKAZONO
+8600000kittykat
+# ↑occ_denebuに霍乱情報RT依頼 創価関与否定工作
 sluggishslime
 kittypoointheto
 youtube.com/user/ripmybelovedcats
@@ -291,8 +318,8 @@ kaka5963
 keninter
 #takushakayorozu
 #bettymama111
-# 偽被害者 偽装保守系 ↑の別働＆支援隊  mayve.tumblr.com/post/102443006264 男女の組らしい
-#NPmemo=winnerLASTBOSS=rinkonotweet=miumiu0107=kingdragonxxx
+# 偽被害者 偽装保守系 ↑の別働＆支援隊  mayve.tumblr.com/post/102443006264
+# 中身が同じ組み合わせの垢がよく会話やRT。女＞男の人数
 #pookoomoo555の画像盗用検証作業にケチをつけるので同じ群れ？
 NPmemo 削除済
 winnerLASTBOSS 削除済
@@ -335,10 +362,11 @@ agsas_hannzai
 agsas_hannzai0
 agsas_hannzai1 何故か抜けてる
 agsas_hannzai2
+mikiyaitou2
 # 偽被害者 名前パクリ
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
-#  偽被害者 脳梗塞の前段階・後遺症をテクノロジー被害と言うので結果的に偽被害者と変わらず
+# 脳梗塞の前段階・後遺症をテクノロジー被害と言うので結果的に偽被害者と変わらず
 nounaionsei
 # # 集スト被害者から盗用した被害内容や個人情報の仄めかし有で有害 陰謀論系と同じ多くのリーク情報に偽情報混入タイプ
 hitorigoto-kokoro.blogspot.jp
@@ -347,6 +375,11 @@ kt-yh6494.blog.so-net.ne.jp
 news-us.jp
 yomei3archives.blog.fc2.com
 takarin7.seesaa.net
+abechan_matome
+# 被害者釣り目的の振り込め詐欺 twitter.com/mayve_t/status/613190052349394944
+ghjvcgyu
+japancontrol.blogspot.jp
+japancontrol.blogspot.com
 # # パクリ アニメ タイアップ
 nicovideo.jp/premium/ad
 anime.dmkt-sp.jp
@@ -419,7 +452,8 @@ S_B_O_G
 DoKuTsUrUtAkE02
 heaven_tones
 abechan_matome
-#↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害な釣り）
+shirayukikujyou
+#↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害）
 Justiceandfair
 ishida_chihiro
 # ↑テレビ出演経験ありとのことなので右カルト系扇動劇団の可能性
@@ -487,12 +521,18 @@ s33tt
 Yamaneko5_7_5
 yuumousou
 80_ultra_man
+chisoy8
 # # フォロワー売買
 14240524
 # # 創価在日系パクラーのステマ請負多
 alfalfalfa.com
 moeruasia.net
 moeruasia
+# # 名前パクリ 幸福系
+0415maya
+paul0630
+thk6481
+marius
 # # 名前パクリ偽装保守
 kudannosakura87
 uu19o70o
@@ -540,6 +580,8 @@ mayawhite111
 mayawhite222
 mayawhite333
 mayawhite444
+# # ヤギ関連発言 twitter.com/mayve_t/status/540540908962189312 tmblr.co/ZXaPXy1f-SOnu 後に湧き出した動物ネタ朴ラーの成りすまし日本人
+fuwameg.blog.fc2.com
 # # ClutSouka-Korean_Pakuri_alpaca_since2007
 alpaca
 NasuAlpacaFarm
@@ -667,6 +709,7 @@ angelicalpaca
 rinliber
 domkoji
 ArupakasanSyo
+maaaruuuda
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
@@ -895,6 +938,7 @@ prhythm.co.jp
 prism-hk.jp
 mental_labo
 richdad-lab.com
+mesar-jazz.com
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -931,21 +975,6 @@ musashino-kanri
 scalp-d.angfa-store.jp
 digram-sindan.com
 c-lab.link
-# # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
-nlab.itmedia.co.jp
-itm_nlab
-nlab
-medical.yahoo.co.jp
-hdl
-keibalab.jp
-do-innovation.co.jp
-umalab.net
-# # pixivと組んで投稿者イラストを無断トレパク・破壊して商売
-team-lab
-teamlab
-team-lab.com
-team-lab.net
-teamlab_news
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
@@ -1398,12 +1427,14 @@ label
 mozilla.org
 google.com
 google.co.jp
+youtube.com
 amazon.co.jp
 amazon.com
 infoseek.co.jp
 rakuten.co.jp
 yahoo.co.jp
 yahoo.com
+chiebukuro.yahoo.co.jp
 github.com
 githubusercontent.com
 linksynergy.com
@@ -1418,6 +1449,8 @@ openlab.ring.gr.jp
 tumblr.com
 control.blog.fc2.com
 admin.blog.fc2.com
+facebook.com
+blogs.yahoo.co.jp
 inoreader.com
 feedly.com
 twipple.jp
@@ -1454,8 +1487,10 @@ search.potora.jp
 ecnavi.jp/mm/
 ecnavi.media-ad.jp
 bingo.gpoint.co.jp
+fruitmail.net
 livedoor.jp
 reader.livedoor.com
 sugutama.jp
 website.informer.com
+google.com
 
