@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 06 2015 11:16:51 GMT+0900
+# Updated: Thu Aug 13 2015 18:44:16 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -9,8 +9,8 @@ blacklist.advanced.showDetails = false
 profanitylist.placeholder = !@#$%^&*
 blacklist.advanced.redirect = false
 blacklist.advanced.redirectURL = 
-blacklist.advanced.examineMeta = true
 blacklist.advanced.customWarning = true
+blacklist.advanced.examineMeta = true
 blacklist.advanced.limitNetAccess = false
 blacklist.words.enabled = true
 misc.showMenuButton = false
@@ -522,12 +522,18 @@ Yamaneko5_7_5
 yuumousou
 80_ultra_man
 chisoy8
+shinjukudog
 # # フォロワー売買
 14240524
 # # 創価在日系パクラーのステマ請負多
 alfalfalfa.com
 moeruasia.net
 moeruasia
+sow.blog.jp
+asnyaro.blog129.fc2.com
+asnyaro
+surarudo
+netgeek.biz
 # # 名前パクリ 幸福系
 0415maya
 paul0630
@@ -549,6 +555,9 @@ maysakuraki
 maykaasan
 maya_tokyo
 #Hakkuro78
+MAYA_ym_
+berukana1
+mayaymzk
 # # 名前パクリ偽装サヨクリベラル＆支援垢
 may_roma
 ayufait
@@ -637,6 +646,8 @@ kokoro-switch.com
 itunes.apple.com/jp/app/gao-hai-yuande-ji-jiao-huan
 jig.jp
 asahibeer.co.jp
+epinard.jp
+naqua.co.jp
 # # アルパカ使用 偽装保守-同じチーム/幾つか中身が同一
 2628351
 ouvea007
