@@ -1,11 +1,11 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 13 2015 18:44:16 GMT+0900
+# Updated: Fri Aug 21 2015 18:31:49 GMT+0900
 
 # preferences
+blacklist.advanced.showDetails = false
 misc.showStatusButton = true
 blacklist.advanced.customWarningMsg = 
 profanitylist.enabled = false
-blacklist.advanced.showDetails = false
 profanitylist.placeholder = !@#$%^&*
 blacklist.advanced.redirect = false
 blacklist.advanced.redirectURL = 
@@ -56,63 +56,6 @@ Damn
 ブラゲ
 
 subscriptions.urls = 
-
-blacklist.words =
-18 U.S.C
-18 USC 2257
-explicit photos
-amateur photos
-amateur videos
-adult material
-xxx video
-xxx-rated
-sexually explicit
-adult only
-adults only
-mature audience
-under 21 years
-sexually explicit material
-hentai
-be 18
-over 18
-over 21
-must be 18
-adult web
-must be 21
-erotic
-xxx!
-free adult
-free sex
-adult movie
-adults movie
-blow job
-blowjob
-cock suck
-cumming
-hard porn
-hardcore
-hard-core
-hardporn
-hard-porn
-porn
-porndirectory
-pussy
-showing ass
-showing breast
-showing tit
-soft porn
-softcore
-soft-core
-softporn
-soft-porn
-whore
-at least 18 years
-18.*2257
-2257.*information
-2257.*notice
-2257.*statement
-usc2257
-anime.*xxx
 
 blacklist.sites =
 porn
@@ -304,7 +247,9 @@ pookoomoo555
 jammanbot
 #↑画像盗用し拡散 sites.google.com/site/mayvelog/pic_kensyou
 putticommPTM
-# pookoomoo555が拡散中 地味にこちらの絵朴李疑惑…
+# ↑pookoomoo555が拡散中 地味にこちらの絵朴李疑惑…
+Rira_Tsukishiro
+# 盗作被害なのにトレパクラージャムマンRTアルパカネタパクリRT等最初からアレ
 mALinNAKAZONO
 8600000kittykat
 # ↑occ_denebuに霍乱情報RT依頼 創価関与否定工作
@@ -344,6 +289,8 @@ gifuudoudouki
 #panerai_sub
 # 偽被害者 偽装リベラル（陰謀論系含）
 hinode8
+sanina327
+#↑トレパクラージャムマン画像をいつまでもRTして著作権侵害幇助
 # 偽被害者 騒音や偽咳はやってる人が操作されてるから！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
 hinonine220
 dimensionstalker
@@ -722,6 +669,7 @@ rinliber
 domkoji
 ArupakasanSyo
 maaaruuuda
+pac_ra
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
@@ -1442,6 +1390,63 @@ yandex.ru/yandsearch
 zolpidem.pw
 zombiestat.com
 
+blacklist.words =
+18 U.S.C
+18 USC 2257
+explicit photos
+amateur photos
+amateur videos
+adult material
+xxx video
+xxx-rated
+sexually explicit
+adult only
+adults only
+mature audience
+under 21 years
+sexually explicit material
+hentai
+be 18
+over 18
+over 21
+must be 18
+adult web
+must be 21
+erotic
+xxx!
+free adult
+free sex
+adult movie
+adults movie
+blow job
+blowjob
+cock suck
+cumming
+hard porn
+hardcore
+hard-core
+hardporn
+hard-porn
+porn
+porndirectory
+pussy
+showing ass
+showing breast
+showing tit
+soft porn
+softcore
+soft-core
+softporn
+soft-porn
+whore
+at least 18 years
+18.*2257
+2257.*information
+2257.*notice
+2257.*statement
+usc2257
+anime.*xxx
+
 whitelist.sites =
 label
 mozilla.org
@@ -1454,9 +1459,11 @@ infoseek.co.jp
 rakuten.co.jp
 yahoo.co.jp
 yahoo.com
-chiebukuro.yahoo.co.jp
 github.com
 githubusercontent.com
+userscripts.org
+userscripts-mirror.org
+greasyfork.org
 linksynergy.com
 bing.jp
 live.com
@@ -1471,6 +1478,7 @@ control.blog.fc2.com
 admin.blog.fc2.com
 facebook.com
 blogs.yahoo.co.jp
+chiebukuro.yahoo.co.jp
 inoreader.com
 feedly.com
 twipple.jp
@@ -1499,6 +1507,7 @@ enqasp.com
 poncan.jp
 chobirich.us
 point-ad-game.com
+gpoint.co.jp
 realworld.jp
 monow.jp
 fishing.gendama.jp
@@ -1512,6 +1521,4 @@ fruitmail.net
 livedoor.jp
 reader.livedoor.com
 sugutama.jp
-website.informer.com
-google.com
 
