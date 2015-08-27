@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 27 2015 23:21:51 GMT+0900
+# Updated: Thu Aug 27 2015 23:50:43 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -916,6 +916,8 @@ e-marty.co.jp
 e-marty.co.jp/smartlabo.html
 t-gaia.co.jp
 gpoint.co.jp/shoplist/allshop/124665/
+tokyo_art_labo
+matome.naver.jp/mymatome/kto
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
