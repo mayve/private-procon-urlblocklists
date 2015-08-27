@@ -1,11 +1,11 @@
 [ProCon Latte 3.3]
-# Updated: Fri Aug 21 2015 18:31:49 GMT+0900
+# Updated: Thu Aug 27 2015 23:21:51 GMT+0900
 
 # preferences
-blacklist.advanced.showDetails = false
 misc.showStatusButton = true
 blacklist.advanced.customWarningMsg = 
 profanitylist.enabled = false
+blacklist.advanced.showDetails = false
 profanitylist.placeholder = !@#$%^&*
 blacklist.advanced.redirect = false
 blacklist.advanced.redirectURL = 
@@ -249,7 +249,8 @@ jammanbot
 putticommPTM
 # ↑pookoomoo555が拡散中 地味にこちらの絵朴李疑惑…
 Rira_Tsukishiro
-# 盗作被害なのにトレパクラージャムマンRTアルパカネタパクリRT等最初からアレ
+tueturu.jp
+# ↑盗作被害なのにトレパクラージャムマンRTアルパカネタパクリRT等最初からアレ
 mALinNAKAZONO
 8600000kittykat
 # ↑occ_denebuに霍乱情報RT依頼 創価関与否定工作
@@ -284,6 +285,7 @@ doctorar1
 verdandi_neo
 suicidebombing1
 Freedom20141210
+correctinheaven
 SyusutoHigaisya
 gifuudoudouki
 #panerai_sub
@@ -318,11 +320,13 @@ nounaionsei
 # # 集スト被害者から盗用した被害内容や個人情報の仄めかし有で有害 陰謀論系と同じ多くのリーク情報に偽情報混入タイプ
 hitorigoto-kokoro.blogspot.jp
 kt-yh6494.blog.so-net.ne.jp
+yh649490005.xsrv.jp
 # ↑ステマ業者の支援かアクセス乞食
 news-us.jp
 yomei3archives.blog.fc2.com
 takarin7.seesaa.net
 abechan_matome
+blog.livedoor.jp/yomei3database
 # 被害者釣り目的の振り込め詐欺 twitter.com/mayve_t/status/613190052349394944
 ghjvcgyu
 japancontrol.blogspot.jp
@@ -472,7 +476,7 @@ chisoy8
 shinjukudog
 # # フォロワー売買
 14240524
-# # 創価在日系パクラーのステマ請負多
+# # 創価在日系パクラーのステマ請負多アフィまとめ業者
 alfalfalfa.com
 moeruasia.net
 moeruasia
@@ -481,6 +485,7 @@ asnyaro.blog129.fc2.com
 asnyaro
 surarudo
 netgeek.biz
+yukawanet.com
 # # 名前パクリ 幸福系
 0415maya
 paul0630
@@ -903,6 +908,14 @@ selmedi.jp
 morisatoumi.jp
 naturelab.jp
 naturelab.net
+smalabo.com
+facebook.com/smalabocom
+smartlabo
+facebook.com/SmartLabo
+e-marty.co.jp
+e-marty.co.jp/smartlabo.html
+t-gaia.co.jp
+gpoint.co.jp/shoplist/allshop/124665/
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
