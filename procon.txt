@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Aug 27 2015 23:50:43 GMT+0900
+# Updated: Wed Sep 02 2015 05:54:01 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -615,6 +615,7 @@ Schwarzer_Pfeff
 NekoTeRia
 whitleghorn
 NEWS_HAM
+shinobu_sss
 # # アルパカ使用 偽装リベラル・反原発系
 majiare
 akarupa1998
@@ -918,6 +919,20 @@ t-gaia.co.jp
 gpoint.co.jp/shoplist/allshop/124665/
 tokyo_art_labo
 matome.naver.jp/mymatome/kto
+pinterest-lab.com
+pinterest-guide.com
+pinterest-board.net
+sonoe0827
+pinterestlab
+pinterestlab2
+gardenpicture
++sonoekinoshita
+sublaw.jp
+sabulabo-news
+sabulabo
+aublaw
+saito-sl.com
+office3636
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
