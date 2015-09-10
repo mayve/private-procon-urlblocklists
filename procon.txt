@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Sep 02 2015 05:54:01 GMT+0900
+# Updated: Mon Sep 07 2015 09:28:00 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -133,6 +133,7 @@ http://chancemaster.realworld.jp/
 cue-monitor.jp/recruit
 cue-monitor.jp/mypage/images/friend
 ecnavi.jp/contactlens
+contactlens
 http://ecnavi.jp/campaign/wakuwakusan
 picmy
 ecnavi.jp/pointboard/detail/?id=ge4l7cXC
@@ -293,6 +294,14 @@ gifuudoudouki
 hinode8
 sanina327
 #↑トレパクラージャムマン画像をいつまでもRTして著作権侵害幇助
+MieNa1012
+tibitanash
+tibitan
+#tibitan当人のネタばらしによるとMieNa1012と同じ中身
+RS_5O5
+koharumixy
+blog.livedoor.jp/bgm70b/
+# ↑ twitter.com/mayve_t/status/639517935996801024 家族の病状をパクリ当て付け＆脅迫
 # 偽被害者 騒音や偽咳はやってる人が操作されてるから！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
 hinonine220
 dimensionstalker
@@ -933,6 +942,7 @@ sabulabo
 aublaw
 saito-sl.com
 office3636
+mens-fashion-labo.com
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -1084,7 +1094,6 @@ sintaibalance.info
 bc-lab.jp
 e-dewa.jp
 wellnesslink.jp
-e-dewa.jp
 omron.co.jp
 sleep-labo.com
 miyuki-net.co.jp
