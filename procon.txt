@@ -1,22 +1,22 @@
 [ProCon Latte 3.3]
-# Updated: Mon Sep 07 2015 09:28:00 GMT+0900
+# Updated: Fri Sep 25 2015 18:15:50 GMT+0900
 
 # preferences
 misc.showStatusButton = true
 blacklist.advanced.customWarningMsg = 
 profanitylist.enabled = false
-blacklist.advanced.showDetails = false
 profanitylist.placeholder = !@#$%^&*
 blacklist.advanced.redirect = false
 blacklist.advanced.redirectURL = 
-blacklist.advanced.customWarning = true
 blacklist.advanced.examineMeta = true
-blacklist.advanced.limitNetAccess = false
 blacklist.words.enabled = true
+blacklist.advanced.customWarning = true
+blacklist.advanced.limitNetAccess = false
 misc.showMenuButton = false
 blacklist.advanced.renderDelay = false
 blacklist.sites.enabled = true
 blacklist.enabled = true
+blacklist.advanced.showDetails = true
 subscriptions.enabled = false
 whitelist.enabled = true
 
@@ -110,9 +110,7 @@ house.infoseek.rakuten.co.jp
 entertainment.rakuten.co.jp
 books.rakuten.co.jp
 books.rakuten.co.jp/
-onet
-onet.jp
-onet.rakuten
+onet.rakuten.co.jp
 join.biglobe.ne.jp
 jword.jp
 www.pointtown.com/app/camp
@@ -303,6 +301,8 @@ koharumixy
 blog.livedoor.jp/bgm70b/
 # ↑ twitter.com/mayve_t/status/639517935996801024 家族の病状をパクリ当て付け＆脅迫
 # 偽被害者 騒音や偽咳はやってる人が操作されてるから！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
+mtnet_protect
+#↑RS_5O5と文体同一
 hinonine220
 dimensionstalker
 jusokou1
@@ -467,7 +467,7 @@ vithmicpro.co.jp
 # # 売名芸人群 終
 # # 妖精ネタパクリ芸人のステマ垢 偽装保守 パクツイ多
 bouncingbaby777
-# # 妖精ネタパクリ+創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
+# # 妖精ネタパクリ＋創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
 pixy_1031
 # #
 rabitsokuhou.2chblog.jp
@@ -685,6 +685,7 @@ domkoji
 ArupakasanSyo
 maaaruuuda
 pac_ra
+poppy_tocco
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
@@ -935,7 +936,7 @@ sonoe0827
 pinterestlab
 pinterestlab2
 gardenpicture
-+sonoekinoshita
+sonoekinoshita
 sublaw.jp
 sabulabo-news
 sabulabo
@@ -943,6 +944,9 @@ aublaw
 saito-sl.com
 office3636
 mens-fashion-labo.com
+kenkyu-labo.com
+skype-lab.com
+freesoftlab.com
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -1544,6 +1548,7 @@ stream.ne.jp
 cross-a.net
 enqasp.com
 poncan.jp
+chobirich.com
 chobirich.us
 point-ad-game.com
 gpoint.co.jp
