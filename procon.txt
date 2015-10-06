@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Sep 25 2015 18:15:50 GMT+0900
+# Updated: Tue Oct 06 2015 21:19:06 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -948,6 +948,14 @@ mens-fashion-labo.com
 kenkyu-labo.com
 skype-lab.com
 freesoftlab.com
+labs.yaneu.com
+yaneu.com
+redbox.ne.jp
+dango-itimi.com
+labo.i-section.net
+pclabo2.seesaa.net
+bihatsu_labo
+subterraneans.jp
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
