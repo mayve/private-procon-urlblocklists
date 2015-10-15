@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Oct 06 2015 21:19:06 GMT+0900
+# Updated: Thu Oct 15 2015 15:09:09 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -142,7 +142,6 @@ gpoint.co.jp/shoplist/allshop/102692/
 travel.gpoint.co.jp/daredoko/
 241241.jp
 # # 
-nissen.co.jp
 rapty.com
 scroll-shop.com
 bellemaison.jp
@@ -495,6 +494,8 @@ asnyaro
 surarudo
 netgeek.biz
 yukawanet.com
+merasoku
+mera.red
 # # 名前パクリ 幸福系
 0415maya
 paul0630
@@ -1574,4 +1575,5 @@ fruitmail.net
 livedoor.jp
 reader.livedoor.com
 sugutama.jp
+www.samplicio.us
 
