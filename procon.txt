@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Oct 15 2015 15:09:09 GMT+0900
+# Updated: Mon Oct 19 2015 11:38:10 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -713,6 +713,7 @@ tbs.co.jp
 j-shopping.jp
 tvラジオショッピング.jp
 xn--tv-6g4aya8ae3fwgzgqa0j.jp
+premium.okwave.jp
 ihopehouse.jp
 sansaibooks.co.jp/glabo
 future-labo.com
