@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Oct 19 2015 11:38:10 GMT+0900
+# Updated: Tue Nov 10 2015 06:14:49 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -416,6 +416,11 @@ shirayukikujyou
 Justiceandfair
 ishida_chihiro
 # ↑テレビ出演経験ありとのことなので右カルト系扇動劇団の可能性
+# ↓セルフトレスを擁護意味でRT後に何故か昔の絵をトレパクして意味不明の報復。ジャムマンと全く同じ言い訳（時短のためにトレス）をわざと主張した様子。幸福信者ではないとの主張だが幸福から仕事は貰う。幸福は裕福層ターゲットらしいので実家がそれなり？
+hasumi29430098
+sabarisalovelove.wix.com
+facebook.com/%E3%81%AF%E3%81%99%E3%81%BF%E3%81%A8%E3%81%97%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C-984279651598190/
+kusanagi2665
 # # 偽装サヨクリベラル
 ats4u
 # # 売名芸人群
@@ -688,6 +693,11 @@ ArupakasanSyo
 maaaruuuda
 pac_ra
 poppy_tocco
+xikoro
+xi_roku
+dot_dq
+pixiv.me/i-ma
+kokoro_no_mida
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
@@ -1533,6 +1543,8 @@ admin.blog.fc2.com
 facebook.com
 blogs.yahoo.co.jp
 chiebukuro.yahoo.co.jp
+livedoor.jp
+let.hatelabo.jp
 inoreader.com
 feedly.com
 twipple.jp
@@ -1573,7 +1585,6 @@ ecnavi.media-ad.jp
 bingo.gpoint.co.jp
 adplan-ds.com
 fruitmail.net
-livedoor.jp
 reader.livedoor.com
 sugutama.jp
 www.samplicio.us
