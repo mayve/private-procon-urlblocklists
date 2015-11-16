@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Nov 10 2015 06:14:49 GMT+0900
+# Updated: Mon Nov 16 2015 22:54:21 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -968,6 +968,9 @@ labo.i-section.net
 pclabo2.seesaa.net
 bihatsu_labo
 subterraneans.jp
+penlabo.net
+kaelab.ranadesign.com
+ranadesign.com
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
