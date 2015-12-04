@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Nov 16 2015 22:54:21 GMT+0900
+# Updated: Sat Dec 05 2015 07:41:19 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -473,6 +473,7 @@ vithmicpro.co.jp
 bouncingbaby777
 # # 妖精ネタパクリ＋創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
 pixy_1031
+pixy2_1031
 # #
 rabitsokuhou.2chblog.jp
 rabitsokuho
@@ -559,6 +560,7 @@ mayawhite444
 # # ヤギ関連発言 twitter.com/mayve_t/status/540540908962189312 tmblr.co/ZXaPXy1f-SOnu 後に湧き出した動物ネタ朴ラーの成りすまし日本人
 fuwameg.blog.fc2.com
 # # ClutSouka-Korean_Pakuri_alpaca_since2007
+##--- アルパカパクリ系 企業・売名目的 情報抜きマルウェアたまに有 ---!
 alpaca
 NasuAlpacaFarm
 nasubigfarm.com
@@ -591,6 +593,9 @@ webtest_jp
 webtest.jp
 paka3.net
 en3.jp
+adanza
+creatures.co.jp
+AVA_okome
 alpaca_bot0x0
 ayakasaii
 alpaca_sticker
@@ -698,6 +703,7 @@ xi_roku
 dot_dq
 pixiv.me/i-ma
 kokoro_no_mida
+aindakedo
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
@@ -971,6 +977,15 @@ subterraneans.jp
 penlabo.net
 kaelab.ranadesign.com
 ranadesign.com
+jackiemito
+shopping.yahoo.co.jp/hl1/
+hl1
+shopping.yahoo.co.jp/heartdrop/
+heartdrop
+rakuten.co.jp/arutsu/
+arutsu
+arutsu.co.jp
+HealthyLabo
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -1019,6 +1034,7 @@ tehu.me
 gendai.ismedia.jp
 kai-you.net
 kai-you.co.jp
+win10labo.info
 # # 一般社団法人AOH らしいが公式なし店サイト以外実績なし謎障害者支援団体
 chocolabo.or.jp
 chocolabo.com
