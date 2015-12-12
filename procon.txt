@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Dec 05 2015 07:41:19 GMT+0900
+# Updated: Fri Dec 11 2015 16:20:44 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -330,7 +330,7 @@ hitorigoto-kokoro.blogspot.jp
 kt-yh6494.blog.so-net.ne.jp
 yh649490005.xsrv.jp
 # ↑ステマ業者の支援かアクセス乞食
-news-us.jp
+#news-us.jp
 yomei3archives.blog.fc2.com
 takarin7.seesaa.net
 abechan_matome
@@ -421,6 +421,9 @@ hasumi29430098
 sabarisalovelove.wix.com
 facebook.com/%E3%81%AF%E3%81%99%E3%81%BF%E3%81%A8%E3%81%97%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C-984279651598190/
 kusanagi2665
+##shinjituyuko(海野祥子名義)の怪しい健康法の宣伝。健康法公式にはクリスチャン料金なるものが存在。
+##ブログ名朴李
+cbwc.jp
 # # 偽装サヨクリベラル
 ats4u
 # # 売名芸人群
@@ -596,6 +599,9 @@ en3.jp
 adanza
 creatures.co.jp
 AVA_okome
+%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC
+アルパカ-ファミリー
+31767069.gatyu.jp
 alpaca_bot0x0
 ayakasaii
 alpaca_sticker
@@ -730,6 +736,11 @@ j-shopping.jp
 tvラジオショッピング.jp
 xn--tv-6g4aya8ae3fwgzgqa0j.jp
 premium.okwave.jp
+scalabo.com
+scalabo_jg
+shampoo-labo.com
+##↓近似例 【賞の回し合い】東京五輪エンブレム選考委員相関図 matome.naver.jp/odai/2143953377716186601
+orange-p.co.jp
 ihopehouse.jp
 sansaibooks.co.jp/glabo
 future-labo.com
@@ -986,6 +997,14 @@ rakuten.co.jp/arutsu/
 arutsu
 arutsu.co.jp
 HealthyLabo
+shopping.yahoo.co.jp/aas/
+aas
+rakuten.ne.jp/gold/aas/
+rakuten.ne.jp/aas/
+amazon.co.jp/gp/aw/sp.html?mp=&oid=&s=A1DE4L2YAUA4VI
+www.qoo10.jp/shop-info/aas
+www.qoo10.jp/shop-qna/aas
+misemeg.jp/pcs/578262
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -1022,6 +1041,8 @@ musashino-kanri
 scalp-d.angfa-store.jp
 digram-sindan.com
 c-lab.link
+tatamilab.jp
+chiroru.hatenablog.com
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
