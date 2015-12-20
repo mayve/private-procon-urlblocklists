@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Fri Dec 11 2015 16:20:44 GMT+0900
+# Updated: Mon Dec 21 2015 05:51:00 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -412,6 +412,9 @@ DoKuTsUrUtAkE02
 heaven_tones
 abechan_matome
 shirayukikujyou
+#朝鮮耳デマ撒き 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
+sadd120
+ameblo.jp/9023410651
 #↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害）
 Justiceandfair
 ishida_chihiro
@@ -879,6 +882,9 @@ nishimotz.com
 washulabo.gekkeikan.co.jp
 washulabo
 gekkeikan.co.jp
+twitter.com/ClawLabo
+facebook.com/clawhair
+clawhair.com
 candy-labo.com
 top-athlete.jp
 alpron
@@ -1013,6 +1019,13 @@ aumall.jp/bep/m/kmem?user=9054284
 aumall.jp/user/9054284
 announce-lab.jp
 keichuncafe.livedoor.biz
+# # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
+spacelab
+A14GQDHMU1BJ34
+buichi.kumamaru
+115875597092238291038
+sunnystep.co.jp
+sywwk240
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -1051,6 +1064,10 @@ digram-sindan.com
 c-lab.link
 tatamilab.jp
 chiroru.hatenablog.com
+thingslabo.com
+retouch-weblab.com
+gpol.co.jp
+entacl.info
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
@@ -1100,7 +1117,7 @@ colabo-yumeno
 tetoteonahama.com
 riken_komatsu
 # ↑ 有田芳生を同意RT、ゲンロンカフェ参加、福島復興にたかる反日協力者注意。
-# # 旅ラボ 偽装保守で売名 広告代理店での売り込み成功者が関与 要注意
+# # 旅ラボ 偽装保守で売名　代表は毎日新聞出身　広告代理店での売り込み成功者が関与　要注意
 tabi-labo.com
 pressa.jp
 sasakitoshinao
@@ -1119,10 +1136,6 @@ coto_labo
 tiwakenlab
 # # ～ラボ系パクリ オカルト
 WINGMAKERLABO
-# # ～ラボ系パクリ 武闘派指定暴力団工藤会系疑惑要注意
-twitter.com/ClawLabo
-facebook.com/clawhair
-clawhair.com
 # # ～ラボ系パクリ 睡眠・不眠・健康関連
 fuminsaimin.com
 huminsyoulabo.com
