@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Dec 21 2015 05:51:00 GMT+0900
+# Updated: Mon Dec 21 2015 23:06:24 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -713,6 +713,7 @@ dot_dq
 pixiv.me/i-ma
 kokoro_no_mida
 aindakedo
+nahanaha.blog.so-net.ne.jp
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
