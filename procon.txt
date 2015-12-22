@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Dec 21 2015 23:06:24 GMT+0900
+# Updated: Tue Dec 22 2015 23:58:49 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -1020,6 +1020,7 @@ aumall.jp/bep/m/kmem?user=9054284
 aumall.jp/user/9054284
 announce-lab.jp
 keichuncafe.livedoor.biz
+latlonglab.yahoo.co.jp
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
