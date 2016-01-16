@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Dec 22 2015 23:58:49 GMT+0900
+# Updated: Sat Jan 16 2016 22:20:02 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -87,6 +87,9 @@ koiten.com
 majikichi.com
 nakamichisokuho.com
 qmanews
+jin115.com
+apanet.info
+onosakaemiri.blog.jp
 # 集スト被害者叩き 中身偽被害者の可能性
 occ_denebu
 sch1z0phrenia
@@ -335,6 +338,7 @@ yomei3archives.blog.fc2.com
 takarin7.seesaa.net
 abechan_matome
 blog.livedoor.jp/yomei3database
+hinomoto.jpn.org
 # 被害者釣り目的の振り込め詐欺 twitter.com/mayve_t/status/613190052349394944
 ghjvcgyu
 japancontrol.blogspot.jp
@@ -412,6 +416,13 @@ DoKuTsUrUtAkE02
 heaven_tones
 abechan_matome
 shirayukikujyou
+#↓画面盗撮系偽保守 要注意
+dukecave
+kusanagi2665
+masaharu19759
+Tempatmata
+#RTすると粘着ネタ流し組(一部例)幸福叩きは偽装の可能性高
+okada014
 #朝鮮耳デマ撒き 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
 sadd120
 ameblo.jp/9023410651
@@ -419,6 +430,13 @@ ameblo.jp/9023410651
 Justiceandfair
 ishida_chihiro
 # ↑テレビ出演経験ありとのことなので右カルト系扇動劇団の可能性
+# 幸福の科学系・利害関係、シンパ等 mayve.blog102.fc2.com/blog-entry-583.html
+awarenessxx.tumblr.com
+# # 名前パクリ 幸福系
+0415maya
+paul0630
+thk6481
+marius
 # ↓セルフトレスを擁護意味でRT後に何故か昔の絵をトレパクして意味不明の報復。ジャムマンと全く同じ言い訳（時短のためにトレス）をわざと主張した様子。幸福信者ではないとの主張だが幸福から仕事は貰う。幸福は裕福層ターゲットらしいので実家がそれなり？
 hasumi29430098
 sabarisalovelove.wix.com
@@ -508,11 +526,6 @@ netgeek.biz
 yukawanet.com
 merasoku
 mera.red
-# # 名前パクリ 幸福系
-0415maya
-paul0630
-thk6481
-marius
 # # 名前パクリ偽装保守
 kudannosakura87
 uu19o70o
@@ -565,6 +578,7 @@ mayawhite333
 mayawhite444
 # # ヤギ関連発言 twitter.com/mayve_t/status/540540908962189312 tmblr.co/ZXaPXy1f-SOnu 後に湧き出した動物ネタ朴ラーの成りすまし日本人
 fuwameg.blog.fc2.com
+yagi031
 # # ClutSouka-Korean_Pakuri_alpaca_since2007
 ##--- アルパカパクリ系 企業・売名目的 情報抜きマルウェアたまに有 ---!
 alpaca
@@ -655,6 +669,7 @@ radiation-japan.info
 # # アルパカ使用 パクリツイートbot＝スパムアフィ
 yuru_boke
 iine_neta
+hachi_link
 # # アルパカ使用 売名フォロワー稼ぎ
 alpc_bot
 alpaca__bot
@@ -714,6 +729,10 @@ pixiv.me/i-ma
 kokoro_no_mida
 aindakedo
 nahanaha.blog.so-net.ne.jp
+labo-ex.com
+arupaka1go
+audioswit.ch
+NOIR_00
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 #～ラボという商品・サービスの名称を使う所で各種詐欺・前科有犯罪者を何件も確認しているので要注意
 lab
@@ -1021,6 +1040,7 @@ aumall.jp/user/9054284
 announce-lab.jp
 keichuncafe.livedoor.biz
 latlonglab.yahoo.co.jp
+noobslab.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1028,6 +1048,12 @@ buichi.kumamaru
 115875597092238291038
 sunnystep.co.jp
 sywwk240
+#↓毎度の粘着常連九州 熊本系
+incubationkumamoto.com
+#↓在日ロッテ・創価ディズニーと提携
+senzu.info
+sapple.biz
+bubblestar.jp
 # # ～ラボ系パクリ アフィスパム 詐欺・情報商材含む
 matome_labo
 wonder_lab_jp
@@ -1064,6 +1090,10 @@ musashino-kanri
 scalp-d.angfa-store.jp
 digram-sindan.com
 c-lab.link
+nicovideo.jp/culturelab
+culturelab
+twitter.com/cullab
+cullab
 tatamilab.jp
 chiroru.hatenablog.com
 thingslabo.com
