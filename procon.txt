@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Jan 16 2016 22:20:02 GMT+0900
+# Updated: Wed Feb 03 2016 02:20:49 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -88,7 +88,8 @@ majikichi.com
 nakamichisokuho.com
 qmanews
 jin115.com
-apanet.info
+zapanet.info
+blog.esuteru.com
 onosakaemiri.blog.jp
 # 集スト被害者叩き 中身偽被害者の可能性
 occ_denebu
@@ -302,6 +303,13 @@ RS_5O5
 koharumixy
 blog.livedoor.jp/bgm70b/
 # ↑ twitter.com/mayve_t/status/639517935996801024 家族の病状をパクリ当て付け＆脅迫
+#恐らく共産党系 しつこく名前朴李して連呼&脅迫(もじって誤魔化し)鳥居鉄也 ボディケアトリイ 九州で派遣業法違反「株式会社リプレ」2015年に行政処分
+6021023lee
+#↑6021023leeと同時に湧く 室内盗聴盗撮ネタ朴李あり 自称同じ町田在住
+chihilo
+#↓画面盗撮粘着あり
+asterisk37n
+# # この上辺りまで画面盗撮、未公表情報で朴李粘着してくる偽被害者垢
 # 偽被害者 騒音や偽咳はやってる人が操作されてるから！宇宙人がやってます！と力説して被害者を電波集団扱いさせよう教の自演＆支援垢
 mtnet_protect
 #↑RS_5O5と文体同一
@@ -430,8 +438,9 @@ ameblo.jp/9023410651
 Justiceandfair
 ishida_chihiro
 # ↑テレビ出演経験ありとのことなので右カルト系扇動劇団の可能性
-# 幸福の科学系・利害関係、シンパ等 mayve.blog102.fc2.com/blog-entry-583.html
+# 幸福の科学系・利害関係、自称シンパ等 他朝鮮系カルトによるシンパ・支持者の成りすましも紛れているので注意 mayve.blog102.fc2.com/blog-entry-583.html
 awarenessxx.tumblr.com
+payoku.requiem.jp
 # # 名前パクリ 幸福系
 0415maya
 paul0630
@@ -526,6 +535,8 @@ netgeek.biz
 yukawanet.com
 merasoku
 mera.red
+takigawa_w
+#↑何故かパクリ粘着もの宣伝してる率が非常に高い 誰？
 # # 名前パクリ偽装保守
 kudannosakura87
 uu19o70o
@@ -1041,6 +1052,8 @@ announce-lab.jp
 keichuncafe.livedoor.biz
 latlonglab.yahoo.co.jp
 noobslab.com
+bp-labo.com
+chocolabo.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1109,7 +1122,7 @@ katariba.or.jp
 b-lab.tokyo
 tehutehuapple
 tehu.me
-gendai.ismedia.jp
+#gendai.ismedia.jp
 kai-you.net
 kai-you.co.jp
 win10labo.info
