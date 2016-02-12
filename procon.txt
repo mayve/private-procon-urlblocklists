@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Feb 09 2016 01:22:54 GMT+0900
+# Updated: Fri Feb 12 2016 18:22:12 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -240,7 +240,9 @@ team-lab.com
 team-lab.net
 teamlab_news
 # # 偽集団ストーカー被害者群
-# 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント
+# 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント 画面盗撮でパクリ粘着あり
+# 偽被害者に限らず各種の成りすまし工作員全般に言えるが、特定ターゲットからブロック/NGされても、粘着用ネタを織り込んだ文面や画像をRTで拡散協力し回してくれるフォロワーには逆に何せず、粘着犯罪に協力させて利用する方式が共通
+# 特定ターゲット被害者への粘着要素があるもの、同じ偽被害者の仲間を積極的に宣伝し合うのが特徴 基本的にステマ業者
 yakiimo7
 syauri135
 rirnrin9999
@@ -691,6 +693,7 @@ radiation-japan.info
 yuru_boke
 iine_neta
 hachi_link
+ritchinchin
 # # アルパカ使用 売名フォロワー稼ぎ
 alpc_bot
 alpaca__bot
