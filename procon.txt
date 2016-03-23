@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Mar 16 2016 22:07:13 GMT+0900
+# Updated: Sat Mar 19 2016 02:46:59 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -93,6 +93,7 @@ blog.esuteru.com
 onosakaemiri.blog.jp
 # 集スト被害者叩き 中身偽被害者の可能性
 occ_denebu
+# YouTubeでstocking7755に犯行予告をしていた垢だが、stocking7755の自作自演用複垢の疑惑が極めて濃い。被害者に病気レッテル張りをするツイートばかり何年も取り上げ続けている。
 sch1z0phrenia
 10sitwatch
 abe_death
@@ -299,6 +300,8 @@ miumiu0107
 rinkonotweet
 neko_abura_age
 mitoc.blog46.fc2.com
+kotobukiyumeno
+# neko_abura_age=kotobukiyumeno？
 kingdragonxxx
 nepentha
 DeramShin
@@ -315,16 +318,19 @@ syusutohaijo 凍結
 syusutobokumetu
 sengokuaho
 jasmine7aikatwi
+# ↓6021023lee、konketsuhaijoとstocking7755の火病時ワードの傾向の違い twitter.com/mayve_t/status/711273124507963393 を書いたところ、その投稿時間に対して当て付けてはしているが微妙に内容をずらした恒例テンプレ化した粘着連投パターンをとる。コテコテネトウヨ垢を偽装してるので中身konketsuhaijoかも…
+nisinomiyaohata
+b-m-i.blog.so-net.ne.jp
 # ↓別垢suicidebombing1で「日帝」発言、HNが独島のもじり、過剰で不自然さを感じるほと中国へ矛先逸らしに必死、黒人差別思想、画面盗撮朴李粘着など、完全に自己愛性人格障害の在日韓国系のなりすまし日本人なので要注意なdoctorarのアカウント一覧
 doctorar0
 doctorar1
 verdandi_neo
 suicidebombing1
 DQfFamKrNz3sDbg
-# ↓ doctorarの、前置きは偽装で本音は結論の日本しね系やガチャ廃人ぶりを指摘後(その時はDQfFamKrNz3sDbgとdoctorarはkonketsuhaijoと判断していて@DQfFamKrNz3sDbgのみを記述)、stocking7755がいきなり火病しながら出現。自演常習のdoctorar＝DQfFamKrNz3sDbgはkonketsuhaijoではなくstocking7755が中身の可能性が高くなった。
-# soRa@DQfFamKrNz3sDbgはkonketsuhaijo&syusutobokumetuとも活動時間が完全に被るが、覗き勤務の時間が同じかもしれない。どれも室内盗撮粘着で性犯罪発言を非常に好む。
+# ↓ doctorarの、前置きに書いた文章は偽装で本音結論の日本しねのみであることや、ゲームのガチャ廃人ぶりを指摘後(その時はDQfFamKrNz3sDbgとdoctorarはkonketsuhaijoと判断していて@DQfFamKrNz3sDbgのみを記述)、stocking7755がいきなり火病しながら出現。自演常習のdoctorar＝DQfFamKrNz3sDbgはstocking7755が中身の可能性が一気に高くなった。
+# soRa@DQfFamKrNz3sDbgはkonketsuhaijo&syusutobokumetuとも活動時間が完全に被るが、「覗き業務」の時間帯が同じと思われる。どれも室内盗撮ネタでの粘着、性犯罪発言や罵倒・脅迫を非常に好む。
 # YouTubeでオカ板@occ_denebuに犯行予告を受けていたが反応がなかったためstocking7755の自演臭い。
-# いつの間にかブログ名パクリ企業 losslab.blogspot.jp/2014/06/seo.html もやっている。
+# いつの間にかブログ名パクリ企業(解説→losslab.blogspot.jp/2014/06/seo.html)もやっている。
 stocking7755
 geocities.jp/vlnfinale/
 myspace.com/murakamitaro
@@ -332,10 +338,10 @@ finalex2.web.fc2.com/tekuhanhigai/
 facebook.com/taro.murakami.12
 facebook.com/pages/T-Murakami-music-Lab
 youtube.com/user/taromurakamihigai
-# stocking7755所属の日本福音ルーテル教会は比較的安全とされているが、日本軍性奴隷制を糾弾し後に慰安婦団体と繋がるバウネットに場所を提供。www.nomusan.com/archive2012.07.08/~essay/essay_16_chuche10.html web.archive.org/web/20040229101251/http://www.cwjpn.com/kijiback/y2000/3593/1p-jyosei.htm 本部が新大久保というだけでカルト呼ばわりするな、とは書かれていたが。直接所属してる支部らしい東京ルーテルセンター教会は韓国と宣教協力。www.jlc.or.jp/nrk/topics/topics_cmission.html
-# suicidebombing1が村上太郎stocking7755とすれば、ネカマdoctorarの複垢suicidebombing1が完全に男口調で日帝発言していたことがある程度整合性はとれる。
-# ↓ 脳梗塞の前段階・後遺症をテクノロジー被害と言うので結果的に偽被害者と変わらず。stocking7755と音楽趣味や盗撮粘着などかなり似る。以前同人作家垢と何ヶ月も口論していたのも引っかかる。
+# ↓ 脳梗塞の前段階・後遺症をテクノロジー被害と言うので結果的に偽被害者と変わらず。stocking7755と音楽趣味や破壊衝動持ち、盗撮粘着などかなり似る。以前同人作家垢と何ヶ月も口論していたのも引っかかる。
 nounaionsei
+# stocking7755所属の日本福音ルーテル教会は比較的安全とされているが、日本軍性奴隷制を糾弾し後に慰安婦団体と繋がるバウネットに場所を提供。(www.nomusan.com/archive2012.07.08/~essay/essay_16_chuche10.html)(web.archive.org/web/20040229101251/http://www.cwjpn.com/kijiback/y2000/3593/1p-jyosei.htm)本部が新大久保。直接所属してる支部？の東京ルーテルセンター教会は韓国と宣教協力。www.jlc.or.jp/nrk/topics/topics_cmission.html
+# suicidebombing1が村上太郎stocking7755とすれば、ネカマdoctorarの複垢suicidebombing1が完全に男口調で日帝発言していたことと、ある程度整合性はとれる。
 aiueo2112
 # ↑ 片思いフォローにエロスパムだらけ、soRa@DQfFamKrNz3sDbgと同時に似たような粘着RTを流す等あり偽保守
 hitogoroshi-k.blogspot.com
@@ -391,6 +397,15 @@ hinonine220
 dimensionstalker
 jusokou1
 jusokou2
+# 不幸のブログ 諸星あたる:古川正樹@morobosiataru
+morobosiataru
+ameblo.jp/uruseiblog
+uruseiblog.cocolog-nifty.com
+yaplog.jp/uruseiblog
+uruseiblog2.blog85.fc2.com
+blog.goo.ne.jp/morobosiataru04131222
+syoaho
+# ↑nounaionsei(＝stocking7755？)の室内覗きアピールツイートを、こちらがTwitterを見始めると同時に流し始める粘着協力、数年前によく閲覧していた頃に購入履歴を朴り粘着してきたmorobosiataruを宣伝等。クリスチャン系偽被害者同士で組み他被害者へ仄めかし粘着や情報誘導を繰り返す常習犯なので要注意(tarzan007.cocolog-nifty.com/blog/2012/07/w-2f5e.html)(fjr1300pa.blog107.fc2.com/blog-entry-768.html)
 # 偽被害者 偽装リベラル（平野達彦ことTaiki Hiranoの共有アカウントの中身疑惑）
 waaldpeace
 waaldpeace2
@@ -512,7 +527,7 @@ youtube.com/user/kazuyahkd
 kazuyahkd.com
 #RTすると粘着ネタ流し組(一部例)幸福叩きは偽装の可能性高
 okada014
-#朝鮮耳デマ撒き 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
+# 朝鮮耳なる捏造デマをしつこく撒く 幸福系へんまも支持 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
 sadd120
 ameblo.jp/9023410651
 #↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害）
@@ -583,6 +598,9 @@ maayamiki.jimdo.com
 maya-miyagawa
 maya_m0901
 vithmicpro.co.jp
+k_maya
+maya_kaoruko
+notnameset.tumblr.com
 # # 売名芸人群 終
 # # 妖精ネタパクリ芸人のステマ垢 偽装保守 パクツイ多
 bouncingbaby777
@@ -640,6 +658,7 @@ maya_tokyo
 MAYA_ym_
 berukana1
 mayaymzk
+maya_ti00
 # # 名前パクリ偽装サヨクリベラル＆支援垢
 may_roma
 ayufait
@@ -740,11 +759,13 @@ jig.jp
 asahibeer.co.jp
 epinard.jp
 naqua.co.jp
+kinghuradance
 # # アルパカ使用 偽装保守-同じチーム/幾つか中身が同一
 2628351
 ouvea007
 o_sh
 alpaca_ko
+WBJPPP
 wbjppp
 fajiarunyu12
 arupakatama
@@ -835,6 +856,8 @@ elianamiyuki.tumblr.com
 elianamiyuki
 mana_cat
 mana-cat.com
+arpk_akt
+pixiv.net/member.php?id=3376407
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 # ～ラボという商品・サービスの名称を使う所で、各種詐欺として注意・告発があったり、前科者が代表をしているのをニュースソース付複数件確認しているので要注意
 # カルト創価・朝鮮系が多いと言われているテレビ・新聞等メディアで宣伝されたりタイアップが多いのも特徴
@@ -869,6 +892,8 @@ custard-lab.com
 ##↓電通(在日系多数)
 isid_innolab
 innolab.jp
+# ↓タイビーチ集団全裸事件で炎上の2ch荒らし会社DYM とミスコン事業提携 blog.livedoor.jp/kimuchiudon/archives/1053910214.html
+jlab.jp
 ##↓近似例 【賞の回し合い】東京五輪エンブレム選考委員相関図 matome.naver.jp/odai/2143953377716186601
 orange-p.co.jp
 ihopehouse.jp
