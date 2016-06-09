@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Mar 19 2016 02:46:59 GMT+0900
+# Updated: Sun Jun 05 2016 12:09:24 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -91,7 +91,11 @@ jin115.com
 zapanet.info
 blog.esuteru.com
 onosakaemiri.blog.jp
-# 集スト被害者叩き 中身偽被害者の可能性
+# 上↑のSNS担当グループじみたものの群れ(やり取りしてるのに似たタイプが固まっている) www.logsoku.com/r/2ch.sc/twwatch/1451903949/ ←オフで何か問題があった？
+argent_ange1121
+sake_hitsuji
+syakkindama
+# 集スト被害者叩き 中身偽被害者(stocking7755)の自演垢の可能性
 occ_denebu
 # YouTubeでstocking7755に犯行予告をしていた垢だが、stocking7755の自作自演用複垢の疑惑が極めて濃い。被害者に病気レッテル張りをするツイートばかり何年も取り上げ続けている。
 sch1z0phrenia
@@ -244,11 +248,17 @@ teamlab
 team-lab.com
 team-lab.net
 teamlab_news
+umelabo
 # # 偽集団ストーカー被害者群
 # 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント 画面盗撮でパクリ粘着あり
 # 偽被害者に限らず各種の成りすまし工作員全般に言えるが、特定ターゲットからブロック/NGされても、粘着用ネタを織り込んだ文面や画像をRTで拡散協力し回してくれるフォロワーには逆に何せず、粘着犯罪に協力させて利用する方式が共通
 # 特定ターゲット被害者への粘着要素があるもの、同じ偽被害者の仲間を積極的に宣伝し合うのが特徴 基本的にステマ業者
 yakiimo7
+usausaland
+kaguyayui
+hk1303
+victim084.blog.fc2.com
+# 芋＝兎＝ハムらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。
 syauri135
 rirnrin9999
 yoc_chyy
@@ -287,6 +297,9 @@ keninter
 # 偽被害者 偽装保守系 ↑の別働＆支援隊  mayve.tumblr.com/post/102443006264
 # 中身が同じ組み合わせの垢がよく会話やRT。女＞男の人数
 # pookoomoo555の画像盗用検証作業にケチをつけるので同じ群れ？
+# 右系は保守カルトに合流？生長の家などが紛れている噂あり。元創価ほか、いくつかのマイナーカルトを除き直接どこそこの信者と表明とする者はいないが幸福の科学の息のかかる運動はよく支持。
+# ただしこちらへ粘着してくる時は、右左で同時に連携して粘着してくる場合があるので実はイデオロギー関係なし。出自・民族繋がりが最も強いものと推測。
+nintibokumetuno
 ichigo3332
 aelouuno
 Pakkurareman
@@ -317,6 +330,8 @@ konketsuhaijo
 syusutohaijo 凍結
 syusutobokumetu
 sengokuaho
+kashiwapost
+# sengokuahoと似た雰囲気でリアルタイム画面盗撮で反応してくる系が偽装保守垢込みでいくつか存在
 jasmine7aikatwi
 # ↓6021023lee、konketsuhaijoとstocking7755の火病時ワードの傾向の違い twitter.com/mayve_t/status/711273124507963393 を書いたところ、その投稿時間に対して当て付けてはしているが微妙に内容をずらした恒例テンプレ化した粘着連投パターンをとる。コテコテネトウヨ垢を偽装してるので中身konketsuhaijoかも…
 nisinomiyaohata
@@ -378,7 +393,7 @@ chihiro
 sanadasouitiro5
 KasainoAt
 # ↑他の偽被害者に比べると粘着頻度は激しくなく、更に珍しく粘着を伴わずに自主的ネタバラシアピールがくる。リストから外して欲しいらしいので意図を汲む。
-# ↓室内盗聴盗撮・画面盗撮粘着あり。konketsuhaijoと仲が悪いがプロレス？
+# ↓室内盗聴盗撮・画面盗撮(リアルタイム実況付)粘着あり。konketsuhaijoと仲が悪いがプロレス？
 kaka5963
 ika58
 wansa134
@@ -386,7 +401,14 @@ asterisk37n
 # ↑MaggieQ2000/ERONOMISTの中身？
 t7a7t0o1
 H_r_rustica725
-# t7a7t0o1：不審な大金譲渡や生活保障を匂わせるツイート、H_r_rustica725：海外送金にマイナンバーが必要になる直前に海外送金等、金銭的におかしな動きが多い。シーシェパード支援企業LUSH頻繁に購入アピールは、実はRUSH(ゲイに人気の違法ドラッグ)入手の隠語？
+Will_HKT
+# t7a7t0o1：不審な大金譲渡や生活保障を匂わせるツイート、H_r_rustica725：海外送金にマイナンバーが必要になる直前に海外送金等、おかしな動きが多い。シーシェパード支援企業LUSH頻繁に購入アピールは、実はRUSH(ゲイに人気の違法ドラッグ)入手の隠語？Will_HKT:＝H_r_rustica725かも？RT後に盗聴・盗撮ネタでこきおろし開始→ mayve.blog102.fc2.com/blog-entry-586.html
+ai66500663
+ai2syuusuto
+freefreefree2013.wix.com/ai-syuusuto-kaisetu
+freefreefree2013.wix.com
+syuusuto-dankokyohi.webnode.jp
+# ↑サヨク的思考をこじらせているというより犯罪実行犯に創価・在日朝鮮韓国・同和が多いのを何度も否定。老若男女の大勢のつきまといをどう調達しているのか、彼らに共通する要素や背後関係が必ずあるが、それらはひたすら無視か論点をすり替えて反米反イスラエルに執着、マイノリティー利権に媚たような？呟きあり。これまでの他のネットストーキング騒動で似顔絵なら摘発されないということを悪用し、加害者似顔絵と称しこちらの盗撮顔写真を基にしたと思われる似顔絵を混ぜ込んで公開。最も写りの悪いアングルを選んで悪意たっぷりで描けばこうなるだろうという感じの典型的「スキルと性格は別物」。他の似顔絵はモロに朝鮮系と見られる顔が何件かあるので、この辺に言及しないのは不自然。恐らくこちらの偽被害者からの粘着被害をまとめた記事に逆切れして「自分たちの犯罪を擦り付けてターゲットの顔を周知させる」目的。もしかしたらこれもネカマ？
 # 偽被害者もオタク趣味の比率が高いが、消費専門か、年齢のわりに自身の創作スキルは低い(盗用したものを継ぎ接ぎコピペして自作としたり、アニメ公式のキャプチャをトレスして喜んでいる等)かのどちらか。
 # # この上辺りまで盗聴盗撮覗き常習グループ。画面盗撮、未公表情報で朴李粘着してくる偽被害者垢。
 # 2015年後半から一斉に偽被害者が異常な勢いで掌返しの粘着活動に勤しんでいるのは、ハイテク系被害者を集めて集団生活させる計画を再度立ち上げているらしいので邪魔されたくない可能性がある。
@@ -405,7 +427,7 @@ yaplog.jp/uruseiblog
 uruseiblog2.blog85.fc2.com
 blog.goo.ne.jp/morobosiataru04131222
 syoaho
-# ↑nounaionsei(＝stocking7755？)の室内覗きアピールツイートを、こちらがTwitterを見始めると同時に流し始める粘着協力、数年前によく閲覧していた頃に購入履歴を朴り粘着してきたmorobosiataruを宣伝等。クリスチャン系偽被害者同士で組み他被害者へ仄めかし粘着や情報誘導を繰り返す常習犯なので要注意(tarzan007.cocolog-nifty.com/blog/2012/07/w-2f5e.html)(fjr1300pa.blog107.fc2.com/blog-entry-768.html)
+# ↑nounaionsei(＝stocking7755？)やサユリの室内覗き・画面盗撮朴李ツイートを、こちらがTwitterを見始めると同時に流し始める粘着協力、数年前によく閲覧していた頃に購入履歴を朴り粘着してきたmorobosiataruを宣伝等犯罪アシスト。クリスチャン系(+同和系)偽被害者同士で組み他被害者へ仄めかし粘着や情報誘導を繰り返す常習犯なので要注意(tarzan007.cocolog-nifty.com/blog/2012/07/w-2f5e.html)(fjr1300pa.blog107.fc2.com/blog-entry-768.html)
 # 偽被害者 偽装リベラル（平野達彦ことTaiki Hiranoの共有アカウントの中身疑惑）
 waaldpeace
 waaldpeace2
@@ -525,6 +547,11 @@ Tempatmata
 kazuyahkd
 youtube.com/user/kazuyahkd
 kazuyahkd.com
+sec_kouan9
+syunikiss4200
+#_luminous_blue_
+# ↑sec_kouan9/_luminous_blue_? sengokuahoと同一か同グループ？
+masahoo11
 #RTすると粘着ネタ流し組(一部例)幸福叩きは偽装の可能性高
 okada014
 # 朝鮮耳なる捏造デマをしつこく撒く 幸福系へんまも支持 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
@@ -553,6 +580,9 @@ kusanagi2665
 cbwc.jp
 # # 偽装サヨクリベラル
 ats4u
+tokyogasmask
+# ↑の成りすましサヨク系に粘着利用されてる？↓
+lllpuplll
 # # 売名芸人群
 # 売名芸人群 ペニオク詐欺 関東連合 mayve.tumblr.com/post/8993045632
 higashihara-aki
@@ -602,8 +632,9 @@ k_maya
 maya_kaoruko
 notnameset.tumblr.com
 # # 売名芸人群 終
-# # 妖精ネタパクリ芸人のステマ垢 偽装保守 パクツイ多
+# # 妖精ネタパクリ芸人のステマ垢 偽装保守
 bouncingbaby777
+fairy_tail0707
 # # 妖精ネタパクリ＋創価在日式パクリ数字こじつけ粘着ネタ 偽装保守
 pixy_1031
 pixy2_1031
@@ -622,6 +653,7 @@ yuumousou
 chisoy8
 shinjukudog
 nightthemoon.blog.so-net.ne.jp
+sawaraboke
 # # フォロワー売買
 14240524
 # # 創価在日系パクラーのステマ請負多アフィまとめ業者
@@ -659,6 +691,10 @@ MAYA_ym_
 berukana1
 mayaymzk
 maya_ti00
+# わざわざ無関係なキャラに別作品から取ってきた名前(のように見せかけて名前朴李粘着工作もの)をつけて、RTで粘着するために回してくる偽保守、という手間のかかったなりすましとスパム垢
+fujinokibiwanok
+kayo_kayochin1
+KAYO_MAYA
 # # 名前パクリ偽装サヨクリベラル＆支援垢
 may_roma
 ayufait
@@ -691,7 +727,6 @@ mayawhite222
 mayawhite333
 mayawhite444
 mayahime0522
-KAYO_KAYOCHIN1
 # # ヤギ関連発言 twitter.com/mayve_t/status/540540908962189312 tmblr.co/ZXaPXy1f-SOnu 後に湧き出した動物ネタ朴ラーの成りすまし日本人
 fuwameg.blog.fc2.com
 yagi031
@@ -778,6 +813,7 @@ whitleghorn
 NEWS_HAM
 shinobu_sss
 taez0
+rome5067
 # # アルパカ使用 偽装リベラル・反原発系
 majiare
 akarupa1998
@@ -858,6 +894,9 @@ mana_cat
 mana-cat.com
 arpk_akt
 pixiv.net/member.php?id=3376407
+HetareJun
+chivi_105
+li/984240
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 # ～ラボという商品・サービスの名称を使う所で、各種詐欺として注意・告発があったり、前科者が代表をしているのをニュースソース付複数件確認しているので要注意
 # カルト創価・朝鮮系が多いと言われているテレビ・新聞等メディアで宣伝されたりタイアップが多いのも特徴
@@ -889,6 +928,7 @@ scalabo.com
 scalabo_jg
 shampoo-labo.com
 custard-lab.com
+airlabo.jp
 ##↓電通(在日系多数)
 isid_innolab
 innolab.jp
@@ -939,6 +979,7 @@ eh-direct.com
 rub-lab.com
 naninaru.net
 as-lab.jp
+appmarkelabo
 appmarketinglabo.net
 keepergiken.co.jp
 keepre.jp
@@ -1176,6 +1217,22 @@ noobslab.com
 bp-labo.com
 chocolabo.com
 bosailabo.jp
+marketinglabo.jp
+infact1.co.jp
+socialmedia-academy.jp
+youtube.com/channel/UCWKohPEgtSRj3mcAcnLo5lg
+twitter.com/tomoyasuohmi
+tomoyasuohmi
+ameba.jp/infact1
+ameblo.jp/infact1
+infact1
+facebook.com/tomoyasu.ohmi
+ex-ma.com
+printex1.jp
+printbag.co.jp
+ureshino-lab.jp
+gekiyasu-lab.net
+surprise-labo.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1185,6 +1242,9 @@ sunnystep.co.jp
 sywwk240
 #↓毎度の粘着常連九州 熊本系
 incubationkumamoto.com
+# 北九州は韓国中国系と指定暴力団のおかげで税金吸血箱物も多い様子
+kicpac
+kitakyushu-performingartscenter.or.jp
 #↓在日ロッテ・創価ディズニーと提携
 senzu.info
 sapple.biz
@@ -1235,6 +1295,7 @@ thingslabo.com
 retouch-weblab.com
 gpol.co.jp
 entacl.info
+nioi-lab.com
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
@@ -1297,6 +1358,7 @@ ringer.cocolog-nifty.com
 kuma_lab
 y-e-lab.cd-pf.net
 catslab
+alphazetalab
 # # ～ラボ系パクリ 偽装保守（前は違うURL）
 coto_labo
 # （↑前は違うURL）
