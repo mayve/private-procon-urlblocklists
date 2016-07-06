@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Jun 05 2016 12:09:24 GMT+0900
+# Updated: Wed Jul 06 2016 05:36:46 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -258,7 +258,9 @@ usausaland
 kaguyayui
 hk1303
 victim084.blog.fc2.com
-# 芋＝兎＝ハムらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。
+sunuo11
+saja281
+# 芋yakiimo7＝兎usausaland＝ハムkaguyayuiらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。sluggishslimeまたは中身がsluggishslimeと思われる垢と常に連携。
 syauri135
 rirnrin9999
 yoc_chyy
@@ -266,6 +268,8 @@ kaka5963
 pookoomoo555
 jammanbot
 #↑画像盗用し拡散 sites.google.com/site/mayvelog/pic_kensyou
+kurisumakise15
+# ↑オカ趣味系垢だが芋類の複垢ハムとかなり似通った雰囲気。覗きでタイミング合わせての登場、地震お祝います系の婉曲な日本への恨み節多。やはり覗き＆アイデア＆絵パクリ中毒のpookoomoo555？
 putticommPTM
 # ↑pookoomoo555が拡散中 地味にこちらの絵朴李疑惑…
 Rira_Tsukishiro
@@ -284,11 +288,6 @@ CULT_KILLER_108
 TYPHN_JP_853
 PLUS_ONE_JP_618
 # ↑セット垢のようだがジャムマン@pookoomoo555の含まれるグループ属らしい。2016/03/09までは特に粘着なしだがgbcjpn、fine13212885、stocking7755辺りと同時に粘着流し化
-sluggishslime
-kittypoointheto
-youtube.com/user/ripmybelovedcats
-slimyslime.blog.fc2.com
-kagaishay.blog.fc2.com
 kaka5963
 # ↑konketsuhaijoとよくいがみ合っていたが、偽被害者仲間の自演プロレスの可能性高。創価信者疑惑。
 keninter
@@ -297,8 +296,8 @@ keninter
 # 偽被害者 偽装保守系 ↑の別働＆支援隊  mayve.tumblr.com/post/102443006264
 # 中身が同じ組み合わせの垢がよく会話やRT。女＞男の人数
 # pookoomoo555の画像盗用検証作業にケチをつけるので同じ群れ？
-# 右系は保守カルトに合流？生長の家などが紛れている噂あり。元創価ほか、いくつかのマイナーカルトを除き直接どこそこの信者と表明とする者はいないが幸福の科学の息のかかる運動はよく支持。
-# ただしこちらへ粘着してくる時は、右左で同時に連携して粘着してくる場合があるので実はイデオロギー関係なし。出自・民族繋がりが最も強いものと推測。
+# 右系は保守カルトに合流？生長の家などが紛れている噂あり。元創価ほか、いくつかのマイナーカルトを除き直接どこそこの信者と表明とする者はいないが、幸福の科学の息のかかる運動はよく支持。
+# ただしこちらへ粘着してくる時は、右左で同時に連携して粘着してくる場合が多々あるので実はイデオロギー関係なし。出自・民族繋がりが最も強いものと推測。
 nintibokumetuno
 ichigo3332
 aelouuno
@@ -306,16 +305,25 @@ Pakkurareman
 PakkuIntl
 jjgold38
 F117J
-# 恐らくichigo3332=aelouuno以下は中身が同じで偽保守垢の様子。幸福系盗作物が好きなので日帝発言のdoctorar？他の英語のできる保守垢と違い、わざわざ英語の差別的な表現ばかりを選んでbotで流す、鯨食保護のために食文化の違いへの理解を訴えなければならないのに犬食を集中的に叩くなど、海外へ向けたヘイトスピーチ自作自演臭が漂う。
+# 恐らくichigo3332=aelouuno以下は中身が同じで偽保守垢の様子。幸福系盗作物が好き？他の英語のできる保守垢と違い、わざわざ英語の差別的な表現ばかりを選んでbotで流す、鯨食保護のために食文化の違いへの理解を訴えなければならないのに犬食を集中的に叩くなど、海外へ向けたヘイトスピーチ自作自演臭が漂う。
 NPmemo 削除済
 winnerLASTBOSS 削除済
-miumiu0107
 rinkonotweet
 neko_abura_age
 mitoc.blog46.fc2.com
 kotobukiyumeno
 # neko_abura_age=kotobukiyumeno？
+sluggishslime
+kittypoointheto
+youtube.com/user/ripmybelovedcats
+slimyslime.blog.fc2.com
+kagaishay.blog.fc2.com
 kingdragonxxx
+# ↑sluggishslimeもwinnerLASTBOSSと似たように、DMで風評を撒いていたようなことをkonketsuhaijoが暴露。芋/兎の複垢同士での相互RTや、似た傾向のオタク趣味垢を作成しては粘着するのを繰り返していることから、同じ中身と思われる。
+miumiu0107
+juncoon
+# ↑文章の壊れ方からmiumiu0107＝juncoonと推測。違法就労の外国人並に日本語が下手でスパムワードサラダ状態なので、もしこれで日本で生まれ育ってきたのならメンタルが重大な病気なことだけは本当か、重度の中毒状態だからかもしれない。複垢が少ない様子なのは、滅茶苦茶な文体に特徴あり過ぎてあまり許可が出ない？ 虚言と覗きエア粘着常習。sluggishslime、usausaland等とつるむ(彼女たちの手下ポジ？)過剰な他人の写真晒しをするのは被害者に対する悪印象操作目的と思われる。
+# juncoon設定：自称2016春年まで自称無国籍だったが、その数年前から会員制フィットネスへ定期的に通い、短期バイトしかしていないのにブランド服飾漁りや毎日食べ歩きをしている模様で無国籍の不便さなどは微塵も感じさせない。背乗り濃厚。konketsuhaijo同様に暇があればしつこくオタク叩きをするが、やはり同じように中身は実際にはオタク趣味持ちを疑わせる発言がいくつか有。また、年齢を相当サバ読みしていると思しき発言があるのも似る。ただし性別は一応正真正銘女らしく、やけに太い腕の自撮りをinstagramに公開。手の感じからすると最低でも30前後↑～ホラをエア指摘した後にこぼした発言だと40代半ば近く？
 nepentha
 DeramShin
 ffffabcdeftttt
@@ -324,28 +332,37 @@ f2f5f4f3
 #↑NPmemoと同じ家族葬式仄めかし 前科複数 twitter.com/mayve_t/status/606010245802958848
 wsf4rmh3v
 #↑チョッパリピース、マスクつきまといの増加の報告増加からマスク自撮り増加 twitter.com/mayve_t/status/600593767725412352
-# @konketsuhaijoは「帰化在日混血在日創価徹底排除」という名前を使用しているが、当人が日韓ハーフ疑惑。カンパ・寄付金と個人情報目的で保守に成りすまし被害者団代詐欺を行っているので要注意
-# @konketsuhaijoと日本を守り隊@syusutobokumetuはツイート分析にかけると就寝時間とツイート時間が完全に同じ、1つのアカウントのツイートが減ると代わりに別の1つのアカウントのツイートが増えるので同一人物
-konketsuhaijo
-syusutohaijo 凍結
-syusutobokumetu
+jasmine7aikatwi
+ka2nd
+WorldKuromaku
+echigo2011
+# ↑芋/兎かsluggishslimeの複垢の可能性が極めて高。同じ中身と思われる垢いくつかでよく切り替え出現。echigo2011はわざとらしく集ストを病気のせいだと言った後に盗撮ネタdisを始めたため創価の福祉年金受給利権組と思われる。saja281はこの項目を記入後わざわざsluggishslimeをRTで流してきてアピール。
+# NPmemo～ここまで、最低でも同グループ、出現時に垢切り替えのタイムラグらしき間があるため中身は共通。ネーミングセンスから、被害者垢間にDM送信で片っ端から風評を撒き続けて総スカンを食らった「らすぽす(winnerLASTBOSS)」と思われる。
 sengokuaho
 kashiwapost
 # sengokuahoと似た雰囲気でリアルタイム画面盗撮で反応してくる系が偽装保守垢込みでいくつか存在
-jasmine7aikatwi
+Knight_1212
+tuorua9876
+# ↑sengokuaho～ここまで、中身同じかも。yakiimo7やsluggishslimeなどメジャー偽被害者の手下ポジではないかと思われる動き。
+# @konketsuhaijoは「帰化在日混血在日創価徹底排除」という名前を使用しているが、当人が日韓ハーフ疑惑。カンパ・寄付金と個人情報目的で保守に成りすまし被害者団代詐欺を行っているので要注意
+# @konketsuhaijoと日本を守り隊@syusutobokumetuはツイート分析にかけると就寝時間とツイート時間が完全に同じ、1つのアカウントのツイートが減ると代わりに別の1つのアカウントのツイートが増えるので同一人物
+syusutohaijo 凍結↓konketsuhaijoに移行
+konketsuhaijo
+syusutobokumetu
 # ↓6021023lee、konketsuhaijoとstocking7755の火病時ワードの傾向の違い twitter.com/mayve_t/status/711273124507963393 を書いたところ、その投稿時間に対して当て付けてはしているが微妙に内容をずらした恒例テンプレ化した粘着連投パターンをとる。コテコテネトウヨ垢を偽装してるので中身konketsuhaijoかも…
 nisinomiyaohata
 b-m-i.blog.so-net.ne.jp
-# ↓別垢suicidebombing1で「日帝」発言、HNが独島のもじり、過剰で不自然さを感じるほと中国へ矛先逸らしに必死、黒人差別思想、画面盗撮朴李粘着など、完全に自己愛性人格障害の在日韓国系のなりすまし日本人なので要注意なdoctorarのアカウント一覧
+# ↓別垢suicidebombing1で「日帝」発言、HNが独島のもじり、過剰で不自然さを感じるほと中国へ矛先逸らしに必死、黒人差別思想、画面盗撮朴李粘着など、完全に自己愛性人格障害の在日韓国系のなりすまし日本人なので要注意なdoctorar=stocking7755のアカウント一覧
 doctorar0
 doctorar1
 verdandi_neo
 suicidebombing1
 DQfFamKrNz3sDbg
-# ↓ doctorarの、前置きに書いた文章は偽装で本音結論の日本しねのみであることや、ゲームのガチャ廃人ぶりを指摘後(その時はDQfFamKrNz3sDbgとdoctorarはkonketsuhaijoと判断していて@DQfFamKrNz3sDbgのみを記述)、stocking7755がいきなり火病しながら出現。自演常習のdoctorar＝DQfFamKrNz3sDbgはstocking7755が中身の可能性が一気に高くなった。
-# soRa@DQfFamKrNz3sDbgはkonketsuhaijo&syusutobokumetuとも活動時間が完全に被るが、「覗き業務」の時間帯が同じと思われる。どれも室内盗撮ネタでの粘着、性犯罪発言や罵倒・脅迫を非常に好む。
-# YouTubeでオカ板@occ_denebuに犯行予告を受けていたが反応がなかったためstocking7755の自演臭い。
+# ↓ doctorarの、前置きに書く文章は偽装で、本音は結論の「日本しね」という主旨のみであることや、ゲームのガチャ廃人ぶりを指摘後(その時はDQfFamKrNz3sDbgとdoctorarはkonketsuhaijoと判断していてDQfFamKrNz3sDbgのみを記述)、stocking7755がいきなり火病を起こしながら出現。自演常習のdoctorar＝DQfFamKrNz3sDbgはstocking7755が中身の可能性が一気に高くなった。
+# soRa@DQfFamKrNz3sDbgはkonketsuhaijo&syusutobokumetuとも活動時間が完全に被るが、「被害者を覗いて粘着する業務」の時間帯が同じと思われる。どれも室内盗撮ネタでの粘着、性犯罪発言や罵倒・脅迫を非常に好む。
+# YouTubeでオカ板@occ_denebuに犯行予告を受けていたが、当時警察へ届けるようメッセージを送っても全く反応がなかったため、犯行予告はstocking7755の自演臭い。他の動画も2chに晒されてよくコメントが荒れているが、当人の動画に書かれた罵倒コメントを丸々、こちらdis時にオウム返しで書き込んでいたことから、知能面にもやや問題があると思われる。
 # いつの間にかブログ名パクリ企業(解説→losslab.blogspot.jp/2014/06/seo.html)もやっている。
+# 自分がTwitterでネカマ/バイオリンクラッシャーと書く場合はぼぼこいつのこと。
 stocking7755
 geocities.jp/vlnfinale/
 myspace.com/murakamitaro
@@ -550,13 +567,14 @@ kazuyahkd.com
 sec_kouan9
 syunikiss4200
 #_luminous_blue_
-# ↑sec_kouan9/_luminous_blue_? sengokuahoと同一か同グループ？
+# ↑sec_kouan9/_luminous_blue_？ sengokuahoと同一か同グループ？
 masahoo11
 #RTすると粘着ネタ流し組(一部例)幸福叩きは偽装の可能性高
 okada014
 # 朝鮮耳なる捏造デマをしつこく撒く 幸福系へんまも支持 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
 sadd120
 ameblo.jp/9023410651
+joliechat5.blog.fc2.com
 #↓偽装保守なのか騙されているかは不明だが拡散しているブログはサクラブログ（ひとりごと余命等集スト被害者には有害）
 Justiceandfair
 ishida_chihiro
@@ -669,6 +687,7 @@ yukawanet.com
 merasoku
 mera.red
 mutuk1R626
+yokota-kenichi.net
 takigawa_w
 #↑何故かパクリ粘着もの宣伝してる率が非常に高い 誰？
 # # 名前パクリ偽装保守
@@ -691,6 +710,7 @@ MAYA_ym_
 berukana1
 mayaymzk
 maya_ti00
+okazukineko
 # わざわざ無関係なキャラに別作品から取ってきた名前(のように見せかけて名前朴李粘着工作もの)をつけて、RTで粘着するために回してくる偽保守、という手間のかかったなりすましとスパム垢
 fujinokibiwanok
 kayo_kayochin1
@@ -705,7 +725,7 @@ wakakusamaya
 maya1318
 neko_aii
 m_x1567x5x
-# # 名前パクリ フォロワー売買?
+# # 名前パクリ フォロワー売買？
 HopMaya
 # # 名前パクリ アフィスパム
 maya_j_1
@@ -795,6 +815,8 @@ asahibeer.co.jp
 epinard.jp
 naqua.co.jp
 kinghuradance
+# ↓通販トラブル(詐欺？)メンバーらしい。一方的に発送キャンセルし苦情を書いた注文者複数人disをしたりしていた様子。 togetter.com/li/995994
+yukichidehanai
 # # アルパカ使用 偽装保守-同じチーム/幾つか中身が同一
 2628351
 ouvea007
@@ -825,6 +847,7 @@ yuru_boke
 iine_neta
 hachi_link
 ritchinchin
+1632bdkrst
 # # アルパカ使用 売名フォロワー稼ぎ 海外で日本人名を名乗る中韓系のなりすましも含
 alpc_bot
 alpaca__bot
@@ -897,6 +920,8 @@ pixiv.net/member.php?id=3376407
 HetareJun
 chivi_105
 li/984240
+RAYDEMINE
+Alpaca_sun
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 # ～ラボという商品・サービスの名称を使う所で、各種詐欺として注意・告発があったり、前科者が代表をしているのをニュースソース付複数件確認しているので要注意
 # カルト創価・朝鮮系が多いと言われているテレビ・新聞等メディアで宣伝されたりタイアップが多いのも特徴
@@ -1260,6 +1285,7 @@ bacjo.com
 touchlab.jp
 wancolabo
 wancolabo.com
+inulab.com
 geinolabo.ldblog.jp
 geinolab
 konami.jp/am/curucuru
@@ -1350,6 +1376,8 @@ tabi-labo.com
 pressa.jp
 sasakitoshinao
 tabilabo_news
+# ↓こちらのローカルメモ等からアイデア盗作で成り上がり、被害ブログ開始後も新聞コラムで侮辱当てなど、2000年以降よくいるタイプの創価同和在日から集スト犯というだけで仕事を得ているパクリエイター。フジテレビから宣伝始めたので統一系統型の下端かも。偽装保守発言と取り巻きの持ち上げ工作でネット世論にも媚びているので要注意。
+arikawahiro0609
 # # ～ラボ系パクリ 偽装保守
 JPN_LISA 
 www.t3.rim.or.jp/~lisalabo
@@ -1522,6 +1550,10 @@ baidu.com
 hao123.com
 hao222.com
 apptizer.jp
+_jpg
+_gif
+_png
+_co_jp
 ccus.asia
 eeeu.asia
 iijp.asia
@@ -1620,6 +1652,7 @@ sedqx.com
 0rz.tw/CNDUS
 0rz.tw/orp80
 6dd260ed.urlbeat.net
+www.http.com
 # # Blogger Spam
 uslugi-bhp.net.pl
 pracowniazazieleniania.pl
@@ -1847,11 +1880,16 @@ feedly.com
 twipple.jp
 www.portablefreeware.com
 download.cnet.com
+edit-photo.bgwis.com
 2ch.net
 .eonet.jp
 .eonet.ne.jp
 ameblo.jp
 blogimg.jp
+anond.hatelabo.jp
+t.co
+togetter.com
+news.tbs.co.jp
 gigazine.net
 allabout.co.jp
 www.blogger.com
@@ -1886,4 +1924,5 @@ fruitmail.net
 reader.livedoor.com
 sugutama.jp
 www.samplicio.us
+
 
