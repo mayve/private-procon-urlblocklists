@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Wed Jul 06 2016 05:36:46 GMT+0900
+# Updated: Tue Aug 02 2016 02:31:42 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -91,6 +91,8 @@ jin115.com
 zapanet.info
 blog.esuteru.com
 onosakaemiri.blog.jp
+answer.jp/d/3365
+answer.jp
 # 上↑のSNS担当グループじみたものの群れ(やり取りしてるのに似たタイプが固まっている) www.logsoku.com/r/2ch.sc/twwatch/1451903949/ ←オフで何か問題があった？
 argent_ange1121
 sake_hitsuji
@@ -152,6 +154,7 @@ ecnavi.jp/bid/?BID=323929
 gpoint.co.jp/shoplist/allshop/102692/
 travel.gpoint.co.jp/daredoko/
 241241.jp
+56285.blog.jp
 # # 
 rapty.com
 scroll-shop.com
@@ -260,10 +263,18 @@ hk1303
 victim084.blog.fc2.com
 sunuo11
 saja281
-# 芋yakiimo7＝兎usausaland＝ハムkaguyayuiらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。sluggishslimeまたは中身がsluggishslimeと思われる垢と常に連携。
-syauri135
-rirnrin9999
+# 芋yakiimo7＝兎usausaland＝ハムkaguyayuiらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。sluggishslimeまたは中身がsluggishslimeと思われる垢とRTや会話などで常に連携。
+# 偽被害者の男は性犯罪者丸出しの仄めかしをしたがるが、女は何故か他人の食事へ執着する傾向が多く見られる。芋/ハム、サユリなど複数人で確認。朝鮮系成りすまし犯罪者の間では覗きで得る性的な興奮と食事が直結している可能性がある( twitter.com/mayve_t/status/758616799973814276 )。覗き創価同和在日に肥満が多いのはこのせいもある？
 yoc_chyy
+syauri135
+sayuri1353
+syauri7151
+gDMNmbjXJNyn9n6
+yasagurebabaanoyorozuya.jimdo.com
+souon_higaisha
+# ↑ツイート時間帯とアカウント切り替えによるツイート増減など類似点が多いためyoc_chyy=syauri135=souon_higaisha判定。yoc_chyyでは田舎の共産党員主婦設定。syauri名義では部落出身主張→ archive.is/XviOX
+rirnrin9999
+# ↑時間帯など類似傾向：yakiimo7(usausaland)、pookoomoo555など。
 kaka5963
 pookoomoo555
 jammanbot
@@ -293,6 +304,8 @@ kaka5963
 keninter
 #takushakayorozu
 #bettymama111
+iphiko_ezul
+# ↑も室内盗撮し、こちらの盗撮確認用釣り行為へのエア当て付けを確認(こちらからのフォロー返しはしていないがノルマと思われる)芋兎公の相棒かも
 # 偽被害者 偽装保守系 ↑の別働＆支援隊  mayve.tumblr.com/post/102443006264
 # 中身が同じ組み合わせの垢がよく会話やRT。女＞男の人数
 # pookoomoo555の画像盗用検証作業にケチをつけるので同じ群れ？
@@ -318,8 +331,18 @@ kittypoointheto
 youtube.com/user/ripmybelovedcats
 slimyslime.blog.fc2.com
 kagaishay.blog.fc2.com
+MieNa1012
+mm_jury
+52_oki28
+2ma8ke5nai2.cocolog-nifty.com
+tibitanash
+tibitan
+# ↑sluggishslimeもwinnerLASTBOSSと似たように、DMで風評を撒いていたようなことをkonketsuhaijoが暴露。芋/兎の複垢同士での相互RTや、似た傾向のオタク趣味垢を作成しては粘着するのを繰り返していることから同じ中身と思われる。本垢ポジらしいsluggishslimeでは基本在日的左風だが複垢では右も偽装。
+# tibitan当人のネタばらしによるとMieNa1012と同じ中身
+saitou_mari
+# ↑芋＆すらいむの成りすましグループ一味の複垢らしく、盗撮や犯罪者仲間の手口から的外れな仄めかしをやるという同成りすましグループメンバーの特徴と一致。活動時間帯からすると芋の可能性はやや高。ただし複垢を乱造する偽被害者グループは常時つるんでおり、仲間同士のみの情報交換を密にしてカルト思考の均一化が異常に進んでいるため、別人なのは確定的なのに文体や粘着の手口で見分けがつかないものが結構いる(芋・すらいむとつるむ偽被害者グループには更に数人いる様子だが、なりすましマニュアルの整備と学習でどれも雰囲気が芋かすらいむ化しており見分けがつきにくい)。
 kingdragonxxx
-# ↑sluggishslimeもwinnerLASTBOSSと似たように、DMで風評を撒いていたようなことをkonketsuhaijoが暴露。芋/兎の複垢同士での相互RTや、似た傾向のオタク趣味垢を作成しては粘着するのを繰り返していることから、同じ中身と思われる。
+# ↑winnerLASTBOSS名義の新垢かと考えられるが鍵つきで内容不明
 miumiu0107
 juncoon
 # ↑文章の壊れ方からmiumiu0107＝juncoonと推測。違法就労の外国人並に日本語が下手でスパムワードサラダ状態なので、もしこれで日本で生まれ育ってきたのならメンタルが重大な病気なことだけは本当か、重度の中毒状態だからかもしれない。複垢が少ない様子なのは、滅茶苦茶な文体に特徴あり過ぎてあまり許可が出ない？ 虚言と覗きエア粘着常習。sluggishslime、usausaland等とつるむ(彼女たちの手下ポジ？)過剰な他人の写真晒しをするのは被害者に対する悪印象操作目的と思われる。
@@ -359,7 +382,7 @@ verdandi_neo
 suicidebombing1
 DQfFamKrNz3sDbg
 # ↓ doctorarの、前置きに書く文章は偽装で、本音は結論の「日本しね」という主旨のみであることや、ゲームのガチャ廃人ぶりを指摘後(その時はDQfFamKrNz3sDbgとdoctorarはkonketsuhaijoと判断していてDQfFamKrNz3sDbgのみを記述)、stocking7755がいきなり火病を起こしながら出現。自演常習のdoctorar＝DQfFamKrNz3sDbgはstocking7755が中身の可能性が一気に高くなった。
-# soRa@DQfFamKrNz3sDbgはkonketsuhaijo&syusutobokumetuとも活動時間が完全に被るが、「被害者を覗いて粘着する業務」の時間帯が同じと思われる。どれも室内盗撮ネタでの粘着、性犯罪発言や罵倒・脅迫を非常に好む。
+# soRa@DQfFamKrNz3sDbgは、konketsuhaijo&syusutobokumetuとも活動時間が完全に被るが、「被害者を覗いて粘着する業務」の時間帯が同じと思われる。どれも室内盗撮ネタでの粘着、性犯罪発言や罵倒・脅迫を非常に好む。
 # YouTubeでオカ板@occ_denebuに犯行予告を受けていたが、当時警察へ届けるようメッセージを送っても全く反応がなかったため、犯行予告はstocking7755の自演臭い。他の動画も2chに晒されてよくコメントが荒れているが、当人の動画に書かれた罵倒コメントを丸々、こちらdis時にオウム返しで書き込んでいたことから、知能面にもやや問題があると思われる。
 # いつの間にかブログ名パクリ企業(解説→losslab.blogspot.jp/2014/06/seo.html)もやっている。
 # 自分がTwitterでネカマ/バイオリンクラッシャーと書く場合はぼぼこいつのこと。
@@ -381,6 +404,9 @@ toshiotogorou.blogspot.jp
 doctorar.wordpress.com
 tuuna.web.fc2.com
 # ↑偽被害者doctorarがリンクしている「在日の通名」ページだが、成りすましが広めるだけあって内容が不審(そこそこの正しい情報と多くの嘘を混合するタイプ)要注意
+# 検索履歴や画面に表示されたものを盗撮する系偽↓当て付け情報と盗撮技術のひけらかし目的の模様。テント暮らしのようなことを書いているので不正受給利権組と思われる。浮上頻度が少ないので、他にメイン垢持ちの偽の複垢。
+hk1303
+hk1305hk
 Freedom20141210
 correctinheaven
 SyusutoHigaisya
@@ -395,16 +421,11 @@ hinode8
 sanina327
 #↑トレパクラージャムマン画像をいつまでもRTして著作権侵害幇助
 6021023lee
-# ↑東京で整体を営みながら北九州で名前を一字変えて違法派遣(行政処分で営業停止命令)。盗聴盗撮で脅迫を連投。当人の過去会社に掲載されている顔は日本人ぽくない
-MieNa1012
-tibitanash
-tibitan
-#tibitan当人のネタばらしによるとMieNa1012と同じ中身
+# ↑東京で整体を営みながら北九州で名前を一字変えて違法派遣(行政処分で営業停止命令)。盗聴盗撮で脅迫を連投。当人の過去会社に掲載されている顔は日本人ぽくない。しつこく名前朴李して連呼&脅迫(もじって誤魔化し)。鳥居鉄也 ボディケアトリイ 九州で派遣業法違反「株式会社リプレ」2015年12月下旬に行政処分
 RS_5O5
 koharumixy
 blog.livedoor.jp/bgm70b/
 # ↑ twitter.com/mayve_t/status/639517935996801024 家族の病状をパクリ当て付け＆脅迫
-# しつこく名前朴李して連呼&脅迫(もじって誤魔化し)鳥居鉄也 ボディケアトリイ 九州で派遣業法違反「株式会社リプレ」2015年に行政処分
 chihiro
 #↑6021023leeと同時に湧く 室内盗聴盗撮ネタ朴李あり 自称同じ町田在住
 sanadasouitiro5
@@ -556,6 +577,8 @@ DoKuTsUrUtAkE02
 heaven_tones
 abechan_matome
 shirayukikujyou
+anonymous201504
+anonymous-post.com
 #↓画面盗撮系偽保守 要注意
 dukecave
 kusanagi2665
@@ -598,6 +621,11 @@ kusanagi2665
 cbwc.jp
 # # 偽装サヨクリベラル
 ats4u
+wayofthewind
+gaogao_o
+_yanocchi0519
+# ↑幸福系右・不正選挙だの人工地震だの連呼する左系ともに、画面盗撮・室内盗聴ネタでの粘着行為が当たり前のように有。創価同和在日だらけなので要注意
+# gaogao_oは以前偽装保守として総スカンを食ったWFJか侍JPの仲間→twitter.com/zf_phantom/status/459534073996668928 田布施陰謀論支持なので否定派記事(masterlow.net/?p=2565)を閲覧しURLをメモしたので火病を起こした模様。同和と勢力争い中の朝鮮ルーツ系ではないかと
 tokyogasmask
 # ↑の成りすましサヨク系に粘着利用されてる？↓
 lllpuplll
@@ -747,6 +775,7 @@ mayawhite222
 mayawhite333
 mayawhite444
 mayahime0522
+shake71sake
 # # ヤギ関連発言 twitter.com/mayve_t/status/540540908962189312 tmblr.co/ZXaPXy1f-SOnu 後に湧き出した動物ネタ朴ラーの成りすまし日本人
 fuwameg.blog.fc2.com
 yagi031
@@ -922,6 +951,8 @@ chivi_105
 li/984240
 RAYDEMINE
 Alpaca_sun
+tempestasturm
+yatyu_xxx
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 # ～ラボという商品・サービスの名称を使う所で、各種詐欺として注意・告発があったり、前科者が代表をしているのをニュースソース付複数件確認しているので要注意
 # カルト創価・朝鮮系が多いと言われているテレビ・新聞等メディアで宣伝されたりタイアップが多いのも特徴
@@ -1258,6 +1289,10 @@ printbag.co.jp
 ureshino-lab.jp
 gekiyasu-lab.net
 surprise-labo.com
+celtislab.net
+BIBILAB_JP
+bibilab.jp
+topiclabo.net
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1322,6 +1357,7 @@ retouch-weblab.com
 gpol.co.jp
 entacl.info
 nioi-lab.com
+creditcard.zaitsu-labs.com
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
