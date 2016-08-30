@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Tue Aug 02 2016 02:31:42 GMT+0900
+# Updated: Sun Aug 28 2016 13:50:11 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -262,9 +262,13 @@ kaguyayui
 hk1303
 victim084.blog.fc2.com
 sunuo11
-saja281
 # 芋yakiimo7＝兎usausaland＝ハムkaguyayuiらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。sluggishslimeまたは中身がsluggishslimeと思われる垢とRTや会話などで常に連携。
-# 偽被害者の男は性犯罪者丸出しの仄めかしをしたがるが、女は何故か他人の食事へ執着する傾向が多く見られる。芋/ハム、サユリなど複数人で確認。朝鮮系成りすまし犯罪者の間では覗きで得る性的な興奮と食事が直結している可能性がある( twitter.com/mayve_t/status/758616799973814276 )。覗き創価同和在日に肥満が多いのはこのせいもある？
+# 偽被害者の男は性犯罪者丸出しの仄めかしをしたがるが、女は何故か他人の食事へ執着する傾向が多く見られる。芋/兎/ハム、サユリなど複数人で確認。朝鮮系成りすまし犯罪者の間では覗きで得る性的な興奮と食事が直結している可能性がある( twitter.com/mayve_t/status/758616799973814276 )。覗き創価同和在日に肥満が多いのはこのせい？
+# 特徴としては、TLの流れが遅い時や、室内でやっている作業が終わってPCに目を向けるタイミングを狙っていつまでもツイートを視界に入れるようなことを執拗に繰り返す(konketsuhaijoが右デモ参加用詐欺垢syusutobokumetuでやったり、sengokuahoなど、同じ時間帯に頻繁にツイートをする特定の嫌韓系偽被害者グループが共通して行う特徴的な行動)、ググるとすぐ間違いと気づくようなミスリード目的の誤情報を頻繁に出す、など。
+# ハム垢の方で在日がよくやる「日本人を猿扱い」をしつこくやっており、兎垢で同和へ矛先逸らしをしているため、yakiimo当人は在日韓国人と考えられる。自称日本人部落サユリが執拗に在日を叩く逆方向だが、犯罪をしながら自分の属性で責任を問われないよう矛先逸らし工作をする動機は同じ。
+mm_jury
+# ↑については、上記偽被害者特徴と活動時間帯から、サユリの可能性と芋の可能性とがある。さゆり系垢よりは遠回しな当て付けdis、怪しまれると保身の嘘を出すので芋の可能性の方が高し。粘着道具化された仄めかし要素への注意事項を、拡散協力するふりをしてRTで見せる目的のRT(加害側の摘発に繋がる本当に都合の悪い対策情報などはRTしない)や、いちいち粘着ネタ目的のサイトや番組での粘着実行を何度も「御注進」にくる。
+# こちらを偽被害者扱いするためにエアコンに関するツイートを仄めかし扱いしてきたが、購入した証拠の購入レシートを求めると丸1日消えて2日後に、エアコンの購入レシートを出す。せいぜい求められるのはエアコン写真程度だろうと高をくくっていたようで、犯罪仲間からのレシート提供に丸1日以上かかった様子。
 yoc_chyy
 syauri135
 sayuri1353
@@ -276,6 +280,7 @@ souon_higaisha
 rirnrin9999
 # ↑時間帯など類似傾向：yakiimo7(usausaland)、pookoomoo555など。
 kaka5963
+saja281
 pookoomoo555
 jammanbot
 #↑画像盗用し拡散 sites.google.com/site/mayvelog/pic_kensyou
@@ -332,7 +337,6 @@ youtube.com/user/ripmybelovedcats
 slimyslime.blog.fc2.com
 kagaishay.blog.fc2.com
 MieNa1012
-mm_jury
 52_oki28
 2ma8ke5nai2.cocolog-nifty.com
 tibitanash
@@ -363,13 +367,24 @@ echigo2011
 # NPmemo～ここまで、最低でも同グループ、出現時に垢切り替えのタイムラグらしき間があるため中身は共通。ネーミングセンスから、被害者垢間にDM送信で片っ端から風評を撒き続けて総スカンを食らった「らすぽす(winnerLASTBOSS)」と思われる。
 sengokuaho
 kashiwapost
-# sengokuahoと似た雰囲気でリアルタイム画面盗撮で反応してくる系が偽装保守垢込みでいくつか存在
+# ↑sengokuahoと似た雰囲気でリアルタイム画面盗撮で反応してくる系が偽装保守垢込みでいくつか存在
+jhvhvbcbvbgm
+##User ID: 282965677
+ddjiedjf
+##User ID: 1407028747
+jqcmjwocnifruy
+##User ID: 568110022
+hfdfdfshbj
+##User ID: 602497371
+hfddfrfhjgnh
+##User ID: 1576557169
+# ↑sengokuahoの成りすまし複垢らしき群れ。普段はbotだが、こちらがTwitterに入る、ツイートをした直後にsengokuaho・ドンテツなどと同じような「加害者に向けた罵倒のふりをしているが、わざと名指しせず覗き粘着対象のこちらに罵倒を向ける」というのを、何故か前垢2つをブロック後3ヶ月も経ってから開始。2016年冬～春頃は誰かの家の開いた窓から見える中年女性の顔の盗撮画像を時々流していた。URLは頻繁に変わるのでUserID記録。　twitter.com/mayve_t/status/768408223250391040　twitter.com/mayve_t/status/768410007373131776
 Knight_1212
 tuorua9876
 # ↑sengokuaho～ここまで、中身同じかも。yakiimo7やsluggishslimeなどメジャー偽被害者の手下ポジではないかと思われる動き。
-# @konketsuhaijoは「帰化在日混血在日創価徹底排除」という名前を使用しているが、当人が日韓ハーフ疑惑。カンパ・寄付金と個人情報目的で保守に成りすまし被害者団代詐欺を行っているので要注意
-# @konketsuhaijoと日本を守り隊@syusutobokumetuはツイート分析にかけると就寝時間とツイート時間が完全に同じ、1つのアカウントのツイートが減ると代わりに別の1つのアカウントのツイートが増えるので同一人物
-syusutohaijo 凍結↓konketsuhaijoに移行
+# @konketsuhaijoは「帰化在日混血在日創価徹底排除」という名前を使用しているが、当人が日韓ハーフ疑惑。カンパ・寄付金と個人情報目的で保守に成りすまし、被害者団体や保守系デモ・議員に積極的に接触して詐欺を行っているので要注意。syusutobokumetu垢でこちらのPC画面をリアルタイム盗撮して当て付け粘着、古い無線機の画像をハイテク加害機器と言いデタラメ捏造をするなど。
+# @konketsuhaijoと日本を守り隊@syusutobokumetuはツイート分析にかけるとツイート時間が完全に同じで、就寝直前にsyusutobokumetuでツイートしてから落ちるパターン。1つのアカウントのツイートが減ると代わりに別の1つのアカウントのツイートが増える。 goo.gl/photos/D2HcdctXwt4WpL7x5 また無駄なグロ嗜好のわりに口だけ威勢が良い、関西出身で現在関東住まいなど共通項が多いので同一人物
+syusutohaijo 凍結(2014年12月後半～2015年1月頃？)↓konketsuhaijoに移行
 konketsuhaijo
 syusutobokumetu
 # ↓6021023lee、konketsuhaijoとstocking7755の火病時ワードの傾向の違い twitter.com/mayve_t/status/711273124507963393 を書いたところ、その投稿時間に対して当て付けてはしているが微妙に内容をずらした恒例テンプレ化した粘着連投パターンをとる。コテコテネトウヨ垢を偽装してるので中身konketsuhaijoかも…
@@ -484,9 +499,11 @@ mikiyaitou2
 ameblo.jp/maya-bunmey-393931-et
 maya-bunmey-393931-et
 # # 集スト被害者から盗用した被害内容や個人情報の仄めかし有で有害 陰謀論系と同じ多くのリーク情報に偽情報混入タイプ
-# 集スト被害に理解や周知協力的であるかのような様子を見せるが、そうした態度で釣っておいていざ頻繁に閲覧していると粘着工作をかけてくるのは定番中の定番なので要注意
+# ↓集スト被害に理解や周知協力的であるかのような様子を見せるが、そうした態度で釣っておいて頻繁に閲覧していると粘着工作をかけてくるのは定番中の定番なので要注意
 hitorigoto-kokoro.blogspot.jp
+# ↑こちらの被害のパクリ、前日の室内会話などのパクリを文中に頻繁にねじ込むタイプ。手口が覗き常習の偽被害者グループと同一なので統一・同和系の朝鮮系偽保守が運営と判断。アクセス数をやけに自慢、拡散協力アカウントが不審など↓余命ブログと共通する部分も多い。
 kt-yh6494.blog.so-net.ne.jp
+# ↑ブログ説明に、こちらへの粘着用ワードに乱用されている言葉を使っていたり、保守向けの不審なデマを必ずねじ込む、スパムや粘着偽保守がほぼ必ず宣伝しまくっているサイトなので要注意。2015年以降はビジネス目的面が強い。
 # ステマ業者の支援かアクセス乞食かのどちらか 教祖ポジ化した余命ブログに盲目的に従い怪しい情報の拡散協力をしていたりするようなので注意
 yh649490005.xsrv.jp
 #news-us.jp
@@ -497,7 +514,7 @@ abechan_matome
 blog.livedoor.jp/yomei3database
 hinomoto.jpn.org
 meron.vanillapafe.info
-# ↓盗撮・未公表ネタのパクリで粘着。中身同一。保守～海外住みリベラル 海外写真などは現地朝鮮系仲間の提供と思われる。恐らく偽被害者垢(asterisk37n？)も運営。
+# ↓盗撮・未公表ネタのパクリで粘着。中身同一。保守～海外住みリベラル 海外写真などは現地朝鮮系仲間の提供と思われる。恐らく偽被害者垢(asterisk37nなど？)も運営。
 ERONOMIST
 MaggieQ2000
 # ↓被害者釣り目的の振り込め詐欺 twitter.com/mayve_t/status/613190052349394944
@@ -579,6 +596,8 @@ abechan_matome
 shirayukikujyou
 anonymous201504
 anonymous-post.com
+yamatorevive
+# ↑hitorigoto-kokoroの宣伝が主目的らしい垢。hitorigoto-kokoroの自演宣伝用と判断。
 #↓画面盗撮系偽保守 要注意
 dukecave
 kusanagi2665
@@ -788,6 +807,7 @@ aleph-inc.co.jp
 ecorinvillage
 motherfarm
 motherfarm.co.jp
+travex.jp/higaeri/higaeri-bus/plan/themepark/CT014701.html
 kuraray.co.jp
 mirabakesso.jp
 nissay-mirai.jp
@@ -865,6 +885,7 @@ NEWS_HAM
 shinobu_sss
 taez0
 rome5067
+wutaiwushao
 # # アルパカ使用 偽装リベラル・反原発系
 majiare
 akarupa1998
@@ -877,7 +898,7 @@ iine_neta
 hachi_link
 ritchinchin
 1632bdkrst
-# # アルパカ使用 売名フォロワー稼ぎ 海外で日本人名を名乗る中韓系のなりすましも含
+# # アルパカ使用 売名フォロワー稼ぎ。海外で日本人名を名乗る中韓系のなりすましも含。アフィ業者がURL自動生成で取得したらしきスパム宣伝拡散用垢有
 alpc_bot
 alpaca__bot
 pakamohu
@@ -953,6 +974,32 @@ RAYDEMINE
 Alpaca_sun
 tempestasturm
 yatyu_xxx
+hikol
+hikoll
+hikol.tumblr.com
+kiyo__m
+BondiBlues
+05210205
+honeybear3838
+mikemate3939
+tuki_no_neko
+s16_tora
+NEKOGAMIJINJYA
+acousmat
+Chigaya_Arneb
+tokikoeto
+rosa_thea
+M0523
+AliceArisima
+AmuTemari
+omibuta326
+Ragi_Mari
+PalmYu
+v99ygrl
+sp723bv91
+nocconotw
+Ax1td
+56SU
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 # ～ラボという商品・サービスの名称を使う所で、各種詐欺として注意・告発があったり、前科者が代表をしているのをニュースソース付複数件確認しているので要注意
 # カルト創価・朝鮮系が多いと言われているテレビ・新聞等メディアで宣伝されたりタイアップが多いのも特徴
@@ -1293,6 +1340,12 @@ celtislab.net
 BIBILAB_JP
 bibilab.jp
 topiclabo.net
+onaka-labo.com
+nigawa.co.jp
+nigawa.info
+rakuten.co.jp/nigawa
+nigawa
+miyearnzzlabo.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1357,7 +1410,8 @@ retouch-weblab.com
 gpol.co.jp
 entacl.info
 nioi-lab.com
-creditcard.zaitsu-labs.com
+zaitsu-labs.com
+aojiru-lab.com
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
