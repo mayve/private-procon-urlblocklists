@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Aug 28 2016 13:50:11 GMT+0900
+# Updated: Tue Sep 13 2016 16:40:51 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -331,6 +331,8 @@ neko_abura_age
 mitoc.blog46.fc2.com
 kotobukiyumeno
 # neko_abura_age=kotobukiyumeno？
+_luminous_blue_
+# ↑sec_kouan9/_luminous_blue_？ sengokuahoと同一か同グループ？長野在住とのことから創価ピンクアイコン/rinkonotweet/芋・兎の可能性あり
 sluggishslime
 kittypoointheto
 youtube.com/user/ripmybelovedcats
@@ -359,6 +361,9 @@ f2f5f4f3
 #↑NPmemoと同じ家族葬式仄めかし 前科複数 twitter.com/mayve_t/status/606010245802958848
 wsf4rmh3v
 #↑チョッパリピース、マスクつきまといの増加の報告増加からマスク自撮り増加 twitter.com/mayve_t/status/600593767725412352
+gravity_of_K
+kawase_ashikoko
+# ↑こちらをフォローしてきていないはずだが、よくこちらのツイート内容に反応。無駄に対抗意識を持ってきている、またこちらの被害の背乗り韓もあるので覗きと複垢粘着もやっている様子。排除からは偽とネタバラシされている。
 jasmine7aikatwi
 ka2nd
 WorldKuromaku
@@ -608,8 +613,6 @@ youtube.com/user/kazuyahkd
 kazuyahkd.com
 sec_kouan9
 syunikiss4200
-#_luminous_blue_
-# ↑sec_kouan9/_luminous_blue_？ sengokuahoと同一か同グループ？
 masahoo11
 #RTすると粘着ネタ流し組(一部例)幸福叩きは偽装の可能性高
 okada014
@@ -772,6 +775,17 @@ wakakusamaya
 maya1318
 neko_aii
 m_x1567x5x
+# # 名前パクリネタの2番煎じニュース流し(2016/09/12) サイゾー出身、ソフトバンクの下請けなので偽装サヨクリベラル系 ハフィントンポスト(日本版は朝日系列)でブログ名パクリも済ませている。
+logmi.co.jp
+logmi.jp
+twitter.com/kawapara3
+huffingtonpost.jp/news/kawarazakisusumuhiroshi/
+cylab.jp
+kawapara.tumblr.com
+facebook.com/kawapara
+kawapara
+flukelab.co.jp
+#↑2014年は株式会社フロックラボだった( archive.is/flukelab.co.jp )が、2016現在は合同会社設立案内が書いてある。ドメイン売却？
 # # 名前パクリ フォロワー売買？
 HopMaya
 # # 名前パクリ アフィスパム
@@ -1000,6 +1014,11 @@ sp723bv91
 nocconotw
 Ax1td
 56SU
+Wi_ALPC
+# togetter.com/li/1020777 togetter.com/li/1016394
+_himabu
+himabuapp.tumblr.com
+himabu.com
 # # ClutSouka-Korean_Pakuri_laboratory_since2009
 # ～ラボという商品・サービスの名称を使う所で、各種詐欺として注意・告発があったり、前科者が代表をしているのをニュースソース付複数件確認しているので要注意
 # カルト創価・朝鮮系が多いと言われているテレビ・新聞等メディアで宣伝されたりタイアップが多いのも特徴
@@ -1346,6 +1365,15 @@ nigawa.info
 rakuten.co.jp/nigawa
 nigawa
 miyearnzzlabo.com
+otomelab.com
+Truestylelab
+truestylelab.com
+hotolab.net
+ec-growth-lab.com
+Zaitsulab_Cred
+creditcard-zaitsu.com
+so-labo.com
+work-labo.hateblo.jp
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
