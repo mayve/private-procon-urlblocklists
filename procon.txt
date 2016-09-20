@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Sep 18 2016 21:41:54 GMT+0900
+# Updated: Wed Sep 21 2016 00:01:14 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -673,9 +673,14 @@ live-alice
 alicekusanagi
 tsukino-moa
 paselabo.tv
-# 売名芸人群 仮面アイコンネタパクリ 2ch全体でマルチスパム
+# 売名芸人 仮面アイコンネタパクリ 2ch全体でマルチスパム 知的ボーダーっぽい
 youtube.com/channel/UCU0Wiy2l8R5SRLUXBv5tHOQ
 CeoYamada0803
+iX4oB2J9660
+bBjqPRVnpg0
+NfM_gxSmpvQ
+a30zmC0TAyk
+yl01118GX2w
 # 売名芸人群 名前パクリ
 MayJamileh
 may-j.com
@@ -812,6 +817,7 @@ mayawhite333
 mayawhite444
 mayahime0522
 shake71sake
+hk10160320
 # # ヤギ関連発言 twitter.com/mayve_t/status/540540908962189312 tmblr.co/ZXaPXy1f-SOnu 後に湧き出した動物ネタ朴ラーの成りすまし日本人
 fuwameg.blog.fc2.com
 yagi031
