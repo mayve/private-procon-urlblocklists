@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Sep 29 2016 07:16:17 GMT+0900
+# Updated: Mon Oct 10 2016 18:19:58 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -688,6 +688,7 @@ a30zmC0TAyk
 yl01118GX2w
 W9Muyoc_WXU
 zWUEbFeVDew
+82ZJyQqm8Xo
 # 売名芸人群 名前パクリ
 MayJamileh
 may-j.com
@@ -1399,6 +1400,7 @@ mangazenkanset.com
 teiki-eclab.jp
 bluechip-lab.com
 bluespot.jp
+hanakotoba-labo.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1406,6 +1408,7 @@ buichi.kumamaru
 115875597092238291038
 sunnystep.co.jp
 sywwk240
+k-voicetraininglab.com
 #↓毎度の粘着常連九州 熊本系
 incubationkumamoto.com
 # 北九州は韓国中国系と指定暴力団のおかげで税金吸血箱物も多い様子
