@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Oct 15 2016 20:47:15 GMT+0900
+# Updated: Sun Oct 30 2016 16:19:30 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -678,7 +678,7 @@ live-alice
 alicekusanagi
 tsukino-moa
 paselabo.tv
-# 売名芸人 仮面アイコンネタパクリ 2ch全体でマルチスパム 知的ボーダーっぽい
+# 売名芸人 仮面アイコンネタパクリ 2ch全体でマルチポストスパム 知的ボーダーっぽい  YouTubeにも違反報告推奨
 youtube.com/channel/UCU0Wiy2l8R5SRLUXBv5tHOQ
 CeoYamada0803
 iX4oB2J9660
@@ -690,6 +690,8 @@ W9Muyoc_WXU
 zWUEbFeVDew
 82ZJyQqm8Xo
 Ps-YY-r1-vc
+ZE3lOk_o1go
+nYOW20BRhkg
 # 売名芸人群 名前パクリ
 MayJamileh
 may-j.com
@@ -757,6 +759,12 @@ mutuk1R626
 yokota-kenichi.net
 takigawa_w
 #↑何故かパクリ粘着もの宣伝してる率が非常に高い 誰？
+# ↓アフィ業者のbotらしいが、画像につけているテキストはエア当てつけじみた内容が多い。dsn-ghで検索すると似た名前の中国船の情報が出る。
+nekogazo_bot
+catweetga
+niyankopic_bot
+niyankopic_bot1
+dsn-gh.com
 # # 名前パクリ偽装保守
 kudannosakura87
 uu19o70o
@@ -792,6 +800,26 @@ wakakusamaya
 maya1318
 neko_aii
 m_x1567x5x
+# ↓名前パクリで小説を出していたラノベ(？)作家。以前からリベラル風らしいが、近年は明らかに在日韓国・朝鮮系に限定して偏った擁護が目立つ。朴李前科があることを2016/10/05に暴露( twitter.com/mayve_t/status/783472193095163904 )後、この作家の特に素晴らしいものでもなかったり、既に書かれている別のコメントの焼き直し程度の内容でも不自然にイイネが多くつくようになったり、また、@nukonuko009/@SSako86という中身が同一人物の粘着垢が、この作家のツイートまとめのコメントで粘着をしたり、傍から見ても揚げ足取りとしかとれない発言まとめを作成( archive.is/ZMNUs )して叩かれ、作家側に擁護が集まる出来事が発生。わざとおかしな言いがかりをつける異常者を作り自作自演で同情を買う、いつもの創価同和在日系のやり方と判断。
+# 炎上目的まとめの擁護コメントにも、こちらの前日のツイートから朴った言葉ばかりを執拗に連呼する連中が出現(口癖的に同じ言葉を使っているのもいるようだが、ツイ内容の傾向から念のため。また、2chコピペ荒らし常習犯の創価嫌い在日偽被害者sengokuaho(2016年時点47歳らしい)が執拗に同じ言葉を朴って連呼していた https://t.co/ja3pgONsgJ ので、同種の偽被害者兼業成りすましもいると判断)。一部垢は似たような4～5個のデバイスからツイートしており複垢が濃厚。@nukonuko009/@SSako86も、こちらのツイートから同じ言葉ばかりを朴って荒らしコメントに意図的に使い、一部擁護米担当垢と共同で、こちらがこの作家に粘着しているかのように見せかける成りすまし工作を計画していた様子。
+# https://twitter.com/mayve_t/status/787947779477770240 から下部に連なる一連のツイート参照。@nukonuko009/@SSako86の活動時間帯は2chにいるコピペ荒らし粘着とほぼ同一の夜間～午前4時頃まで( twitter.com/mayve_t/status/787997864244842496 )。
+# 作家が絡んで行く先の問題に出現する垢も、無駄に集スト被害者叩きに精を出すのが多数なため、在特としばきのデモ隊の関係のようなマッチポンプグループとして要注意一派だが、ブロック及び創価同和在日系リスト対象が自動で集まるという点ある。
+hirorin0015
+homepage3.nifty.com/hirorin/
+hirorin.otaden.jp
+kokorohaitsumo15sai.la.coocan.jp
+SSako86
+nukonuko009
+mtoaki
+mohejinosuke
+xenon122
+tentousho
+NM_amida
+kota110131
+d.hatena.ne.jp/nizukakotaro/
+pixiv.me/kota-san
+nicovideo.jp/user/319444
+Pm2010Aje
 # # 名前パクリネタの2番煎じニュース流し(2016/09/12) サイゾー出身、ソフトバンクの下請けなので偽装サヨクリベラル系 ハフィントンポスト(日本版は朝日系列)でブログ名パクリも済ませている。
 logmi.co.jp
 logmi.jp
@@ -1403,6 +1431,8 @@ bluechip-lab.com
 bluespot.jp
 hanakotoba-labo.com
 it-trend.jp
+self.hatenablog.com
+writerzlab.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
