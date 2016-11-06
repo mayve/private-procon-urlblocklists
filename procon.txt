@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Nov 03 2016 14:27:54 GMT+0900
+# Updated: Sun Nov 06 2016 22:35:05 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -461,6 +461,9 @@ t7a7t0o1
 H_r_rustica725
 Will_HKT
 # t7a7t0o1：不審な大金譲渡や生活保障を匂わせるツイート、H_r_rustica725：海外送金にマイナンバーが必要になる直前に海外送金等、おかしな動きが多い。シーシェパード支援企業LUSH頻繁に購入アピールは、実はRUSH(ゲイに人気の違法ドラッグ)入手の隠語？Will_HKT:＝H_r_rustica725かも？RT後に盗聴・盗撮ネタでこきおろし開始→ mayve.blog102.fc2.com/blog-entry-586.html
+# ↓2016/11/03に何故かフォローしてくるが、不審に思いながらも試しにフォロー返しすると室内盗撮ネタを偽仲間と協力して流す twitter.com/mayve_t/status/794925056358912000
+090abe1
+ryokichi327
 ai66500663
 ai2syuusuto
 freefreefree2013.wix.com/ai-syuusuto-kaisetu
@@ -693,6 +696,7 @@ Ps-YY-r1-vc
 ZE3lOk_o1go
 nYOW20BRhkg
 01KzdOw-ALg
+VUc6HDq5GMM
 # 売名芸人群 名前パクリ
 MayJamileh
 may-j.com
