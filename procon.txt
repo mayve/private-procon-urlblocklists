@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sun Nov 06 2016 22:35:05 GMT+0900
+# Updated: Mon Nov 14 2016 22:36:01 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -256,6 +256,7 @@ umelabo
 # 偽被害者 陰謀論・（オ）カルトビジネス誘導系＋支援アカウント 画面盗撮でパクリ粘着あり
 # 偽被害者に限らず各種の成りすまし工作員全般に言えるが、特定ターゲットからブロック/NGされても、粘着用ネタを織り込んだ文面や画像をRTで拡散協力し回してくれるフォロワーには逆に何せず、粘着犯罪に協力させて利用する方式が共通
 # 特定ターゲット被害者への粘着要素があるもの、同じ偽被害者の仲間を積極的に宣伝し合うのが特徴 基本的にステマ業者
+# 偽被害者、特に女の偽被害者同士は近隣風景や室内の写真を交換・融通し合って居住地・時間帯の偽装とアリバイ工作をしている様子が極めて濃厚。自撮りは例外的に本人の写真が多いらしき様子。
 yakiimo7
 usausaland
 kaguyayui
@@ -277,6 +278,14 @@ gDMNmbjXJNyn9n6
 yasagurebabaanoyorozuya.jimdo.com
 souon_higaisha
 # ↑ツイート時間帯とアカウント切り替えによるツイート増減など類似点が多いためyoc_chyy=syauri135=souon_higaisha判定。yoc_chyyでは田舎の共産党員主婦設定。syauri名義では部落出身主張→ archive.is/XviOX
+kaghetora
+moomin_35yuri
+shellymamy1
+kashiyuka1222
+_jyackmam
+# himasorariに偽保守と指摘されていたサユリ含む副垢成りすまし一派の一例。毎日会話し合っている相手がほぼ偽保守仲間と右カルト系ヲタク取り込み用ステマ・自演垢らしく、ツイ内容だけでなく仲間に覗き朴李粘着ネタをツイさせてRTと引用RTで流してくる恒例の粘着手口を頻繁に使う。kaghetoraを解析すると一番のやり取りしている相手がmoomin_35yuriでサユリ垢URLの変形、かつ名前が夢眠(ムーミン)と、わざとらしいくらいに副垢と主張。 web.archive.org/web/20161114111344/https:/twitter.com/kaghetora/status/798114873783697408
+# ↑の指摘中 twitter.com/mayve_t/status/798116650549579777 、jmuzu1081(サブ垢jmuzujmuzu名ムーミン)がネタバラシ支援でサユリ居住地と同じ名前の福井をRT archive.is/uU4BB
+# shellymamy1はこちらのPC作業覗きからの朴李ネタアイコンを使用しているので要注意。
 rirnrin9999
 # ↑時間帯など類似傾向：yakiimo7(usausaland)、pookoomoo555など。
 kaka5963
@@ -323,7 +332,7 @@ Pakkurareman
 PakkuIntl
 jjgold38
 F117J
-# 恐らくichigo3332=aelouuno以下は中身が同じで偽保守垢の様子。幸福系盗作物が好き？他の英語のできる保守垢と違い、わざわざ英語の差別的な表現ばかりを選んでbotで流す、鯨食保護のために食文化の違いへの理解を訴えなければならないのに犬食を集中的に叩くなど、海外へ向けたヘイトスピーチ自作自演臭が漂う。
+# 恐らくichigo3332=aelouuno？以下は中身が同じで偽保守垢の様子。幸福系盗作物が好き？他の英語のできる保守垢と違い、わざわざ英語の差別的な表現ばかりを選んでbotで流す、鯨食保護のために食文化の違いへの理解を訴えなければならないのに犬食を集中的に叩くなど、海外へ向けたヘイトスピーチ自作自演臭が漂う。
 NPmemo 削除済
 winnerLASTBOSS 削除済
 rinkonotweet
@@ -339,7 +348,17 @@ youtube.com/user/ripmybelovedcats
 slimyslime.blog.fc2.com
 kagaishay.blog.fc2.com
 MieNa1012
+maytachibana
+maytachibana201
+MisakiTakumi19
+himasorari
+# Twitter検索のmaytachibanaの候補で続けて韓流ファン垢maytachibana201が出現。トレンドキーワードにK-POP関連を入れるための呟き回数ノルマらしきものが見られるためステマ用垢と判断( twitter.com/mayve_t/status/796009467447910400 )。maytachibana201プロフにある韓流ファン垢MisakiTakumi19はツイ数・使用年数が捨て垢ではない。maytachibana時代もわざとらしいくらいに韓国ドラマのツイばかりをしているので、元から福垢での韓流ステマバイトをしていたと考えられる。
+# himasorariはマジョリカ@juuzwやmaytachibana時代からの(劇団仲間相手に)直接リプライを飛ばして突っかかるスタイル、TLを掘っていると閲覧妨害のため不自然な読み込みが連続してかかるなど共通。konketsuhaijoと似たような、同じ偽被害者仲間や偽保守仲間にはストレートに名指しであれこれ言うが、こちらに対してだけはイニシャルで誤魔化して言い逃れをしながらしつこく捏造印象操作を続ける在日チキンスタイルも見られる。
+# ただし偽被害者と偽保守を兼業している成りすまし(創価や在日を叩きながら、こちらの室内やPC作業を盗撮しては盗作と覗き性犯罪と罵詈雑言の垂れ流しを長年繰り返している一派 twitter.com/mayve_t/status/798126819962601473 )をネタバラシしている。上部系統が違うから？
 52_oki28
+moon_drop_jam
+moon_drop_bot
+# 52_oki28は盗撮覗き実況＆鳥好きだがmoon_drop_jamはペット持ちかは不明(かつて犬を飼っていたと発言はある)ただし、当てつけ流しや覗き実況のやり方が下品なのが共通なので福垢可能性有。鳥の方は食事に最低3つ以上野菜を使った時間のかかっていそうなオサレ料理写真をアップしたりして経済状況はかなり恵まれていると推測可能、月の方も親が不動産持ちを証言するなどで余裕のありそうな生活が伺える。
 2ma8ke5nai2.cocolog-nifty.com
 tibitanash
 tibitan
@@ -348,10 +367,11 @@ tibitan
 saitou_mari
 # ↑芋＆すらいむの成りすましグループ一味の複垢らしく、盗撮や犯罪者仲間の手口から的外れな仄めかしをやるという同成りすましグループメンバーの特徴と一致。活動時間帯からすると芋の可能性はやや高。ただし複垢を乱造する偽被害者グループは常時つるんでおり、仲間同士のみの情報交換を密にしてカルト思考の均一化が異常に進んでいるため、別人なのは確定的なのに文体や粘着の手口で見分けがつかないものが結構いる(芋・すらいむとつるむ偽被害者グループには更に数人いる様子だが、なりすましマニュアルの整備と学習でどれも雰囲気が芋かすらいむ化しており見分けがつきにくい)。
 kingdragonxxx
-# ↑winnerLASTBOSS名義の新垢かと考えられるが鍵つきで内容不明
+# ↑winnerLASTBOSSの新垢かと考えられるが鍵つきで内容不明
 miumiu0107
 juncoon
 # ↑文章の壊れ方からmiumiu0107＝juncoonと推測。違法就労の外国人並に日本語が下手でスパムワードサラダ状態なので、もしこれで日本で生まれ育ってきたのならメンタルが重大な病気なことだけは本当か、重度の中毒状態だからかもしれない。複垢が少ない様子なのは、滅茶苦茶な文体に特徴あり過ぎてあまり許可が出ない？ 虚言と覗きエア粘着常習。sluggishslime、usausaland等とつるむ(彼女たちの手下ポジ？)過剰な他人の写真晒しをするのは被害者に対する悪印象操作目的と思われる。
+# miumiu0107はブロック後半年ほど見ない間に反原発に帰依し自撮りや外食料理写真を上げるギャルママ風にチェンジ。文章はかなり日本語らしく改善されている。
 # juncoon設定：自称2016春年まで自称無国籍だったが、その数年前から会員制フィットネスへ定期的に通い、短期バイトしかしていないのにブランド服飾漁りや毎日食べ歩きをしている模様で無国籍の不便さなどは微塵も感じさせない。背乗り濃厚。konketsuhaijo同様に暇があればしつこくオタク叩きをするが、やはり同じように中身は実際にはオタク趣味持ちを疑わせる発言がいくつか有。また、年齢を相当サバ読みしていると思しき発言があるのも似る。ただし性別は一応正真正銘女らしく、やけに太い腕の自撮りをinstagramに公開。手の感じからすると最低でも30前後↑～ホラをエア指摘した後にこぼした発言だと40代半ば近く？
 nepentha
 DeramShin
@@ -1072,6 +1092,7 @@ Ax1td
 56SU
 Wi_ALPC
 pasapasa985
+HIROISM42
 # togetter.com/li/1020777 togetter.com/li/1016394
 _himabu
 himabuapp.tumblr.com
@@ -1367,6 +1388,7 @@ penlabo.net
 kaelab.ranadesign.com
 ranadesign.com
 jackiemito
+carnavi-labo.net
 shopping.yahoo.co.jp/hl1/
 hl1
 shopping.yahoo.co.jp/heartdrop/
