@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Nov 14 2016 22:36:01 GMT+0900
+# Updated: Thu Nov 24 2016 04:52:53 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -358,7 +358,7 @@ himasorari
 52_oki28
 moon_drop_jam
 moon_drop_bot
-# 52_oki28は盗撮覗き実況＆鳥好きだがmoon_drop_jamはペット持ちかは不明(かつて犬を飼っていたと発言はある)ただし、当てつけ流しや覗き実況のやり方が下品なのが共通なので福垢可能性有。鳥の方は食事に最低3つ以上野菜を使った時間のかかっていそうなオサレ料理写真をアップしたりして経済状況はかなり恵まれていると推測可能、月の方も親が不動産持ちを証言するなどで余裕のありそうな生活が伺える。
+# 52_oki28は盗撮覗き実況＆鳥好きだがmoon_drop_jamはペット持ちかは不明(かつて犬を飼っていたと発言はある)ただし、当てつけ流しや覗き実況のやり方が下品なのと関西在住が共通なので福垢可能性有。鳥の方は食事に最低3つ以上野菜を使った時間のかかっていそうなオサレ料理写真をアップしたりして経済状況はかなり恵まれていると推測可能、月の方も親が不動産持ちを証言するなどで余裕のありそうな生活が伺える。月は以前名前朴李らしきツイ(自演ブログ仲間とのマッチポンプ？)をしたことがある。 web.archive.org/web/20161114140644/https://twitter.com/moon_drop_jam/status/580016151628922881
 2ma8ke5nai2.cocolog-nifty.com
 tibitanash
 tibitan
@@ -717,6 +717,8 @@ ZE3lOk_o1go
 nYOW20BRhkg
 01KzdOw-ALg
 VUc6HDq5GMM
+mqjE9rRSGs0
+w562UtnVt4Q
 # 売名芸人群 名前パクリ
 MayJamileh
 may-j.com
