@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Nov 24 2016 04:52:53 GMT+0900
+# Updated: Sun Nov 27 2016 17:45:39 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -852,6 +852,8 @@ sakura87.net
 tsuto_terumi
 fireaway_mayu
 blog.livedoor.jp/fireaway_hoop/
+# ↓かなり昔からいるらしい創作実話系ネタ垢( 資料：togetter.com/li/1048751 )の相当に真偽の怪しい話が使われたまとめ( togetter.com/li/1048655 )で、一見どっちもどっち論に見えるがよく読むと極度に遠回しにまとめ主の保守受けが良い有名垢を擁護するコメントを連投。別まとめでお約束の余計な集スト被害者disをしていた( togetter.com/li/1052977 )ので中身偽被害者か盗作常習朴李屋かも？
+nec0lt
 # # 名前パクリネタの2番煎じニュース流し(2016/09/12) サイゾー出身、ソフトバンクの下請けなので偽装サヨクリベラル系 ハフィントンポスト(日本版は朝日系列)でブログ名パクリも済ませている。
 logmi.co.jp
 logmi.jp
@@ -1524,6 +1526,7 @@ arkhitekton-labo.com
 playdesign-lab.com
 hands-lab.com
 hokkaido-labo.com
+webdlab.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -2046,6 +2049,7 @@ yandex.ru/yandsearch
 zolpidem.pw
 zombiestat.com
 # China/Japanese Korean Spam Buy This Account
+pilaaaaar5
 # ↓海外垢のはずだが、フォロワー数が膨大なためか中韓系なりすましに垢が買われたらしく(偽被害者がネタバラシ)アルパカパクリネタを2014年頃からよく放流
 twitter.com/Elverojaguar
 Elverojaguar
