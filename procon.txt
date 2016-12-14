@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Mon Dec 05 2016 10:45:00 GMT+0900
+# Updated: Thu Dec 15 2016 03:04:54 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -270,6 +270,9 @@ sunuo11
 mm_jury
 # ↑については、上記偽被害者特徴と活動時間帯から、サユリの可能性と芋の可能性とがある。さゆり系垢よりは遠回しな当て付けdis、怪しまれると保身の嘘を出すので芋の可能性の方が高し。粘着道具化された仄めかし要素への注意事項を、拡散協力するふりをしてRTで見せる目的のRT(加害側の摘発に繋がる本当に都合の悪い対策情報などはRTしない)や、いちいち粘着ネタ目的のサイトや番組での粘着実行を何度も「御注進」にくる。
 # こちらを偽被害者扱いするためにエアコンに関するツイートを仄めかし扱いしてきたが、購入した証拠の購入レシートを求めると丸1日消えて2日後に、エアコンの購入レシートを出す。せいぜい求められるのはエアコン写真程度だろうと高をくくっていたようで、犯罪仲間からのレシート提供に丸1日以上かかった様子。
+hanashiawanai
+Yamauti3
+# hanashiawanai=兎@usausaland/ハム@kaguyayuiらしく、毎回こちらがTLを表示している時にいちいち潜伏用複垢を使い粘着流しをする同じパターンを踏む。ネナベ男キャラの複垢(Yamauti3など)とセットでよく自演やり取りもあり。盗撮ネタを改変して流すのを好むのも極左に共感するのも共通。数日振りにツイートをするのも盗撮情報のひけらかし粘着というパターン→ web.archive.org/web/20161214181512/https:/twitter.com/Yamauti3/status/808957907534389248 ( 2016/12/09～該当の2016/12/14までツイートが空いている証拠TLキャッシュ web.archive.org/web/20161214180407/https:/twitter.com/Yamauti3 )たまに本音らしき、憎悪が目立つ悪質な言説の事件への同意が見られる→ web.archive.org/web/20161214180304/https:/twitter.com/Yamauti3/status/808997860775628804 web.archive.org/web/20161214182239/https://twitter.com/Yamauti3/status/809025294329745408
 yoc_chyy
 syauri135
 sayuri1353
@@ -285,7 +288,7 @@ kashiyuka1222
 _jyackmam
 # himasorariに偽保守と指摘されていたサユリ含む副垢成りすまし一派の一例。毎日会話し合っている相手がほぼ偽保守仲間と右カルト系ヲタク取り込み用ステマ・自演垢らしく、ツイ内容だけでなく仲間に覗き朴李粘着ネタをツイさせてRTと引用RTで流してくる恒例の粘着手口を頻繁に使う。kaghetoraを解析すると一番のやり取りしている相手がmoomin_35yuriでサユリ垢URLの変形、かつ名前が夢眠(ムーミン)と、わざとらしいくらいに副垢と主張。 web.archive.org/web/20161114111344/https:/twitter.com/kaghetora/status/798114873783697408
 # ↑の指摘中 twitter.com/mayve_t/status/798116650549579777 、jmuzu1081(サブ垢jmuzujmuzu名ムーミン)がネタバラシ支援でサユリ居住地と同じ名前の福井をRT archive.is/uU4BB
-# shellymamy1はこちらのPC作業覗きからの朴李ネタアイコンを使用しているので要注意。
+# shellymamy1はこちらのローカルPC作業を覗いての朴李ネタアイコンを使用しているので要注意。在日を叩きながら創価同和在日と全く同じ被害者の盗撮覗き情報で小銭を得ている偽保守垢は、TLによく流れてくるものだけで数件確認できている。 キリスト教系の行動保守/在特会一派と連携している様子→ wayback.archive.org/web/20161207114636/http://blog.zaq.ne.jp/otsuru/article/4219/ 連携している行動保守は在特会のトラブル処理で右翼団体に連絡を取った疑惑があるらしい？
 rirnrin9999
 # ↑時間帯など類似傾向：yakiimo7(usausaland)、pookoomoo555など。コピペパクラージャムマン@pookoomoo555の盗作指摘後盗作擁護をjpbikinらと一緒に行う偽一派。
 jmuzu1081
@@ -1535,6 +1538,7 @@ playdesign-lab.com
 hands-lab.com
 hokkaido-labo.com
 webdlab.com
+hagelabo.jp
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
