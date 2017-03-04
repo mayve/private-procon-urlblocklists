@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Thu Dec 15 2016 03:04:54 GMT+0900
+# Updated: Sat Mar 04 2017 11:39:08 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -217,7 +217,7 @@ bikan-aojiru.jp
 manara.jp
 shimanoya.net
 karadano-recipe.com
-# ↓ mayve.blog102.fc2.com/blog-entry-586.html ←の公開すぐ後にTumblrで言い訳がましく流れてきたのでやや注意必要かも
+# ↓ mayve.blog102.fc2.com/blog-entry-586.html ←の公開すぐ後にTumblrで言い訳がましく流れてきたのでやや注意必要かも。偽被害者記事が凍結されたため転載 mayve.tumblr.com/post/156970791911
 shortnote.jp/view/users/APtSKxsq
 # # 在日孫正義Yahoo!系列 パクリバイラルメディアねとらぼ＆同種パクリサイト
 nlab.itmedia.co.jp
@@ -264,15 +264,25 @@ hk1303
 victim084.blog.fc2.com
 sunuo11
 # 芋yakiimo7＝兎usausaland＝ハムkaguyayuiらしい(エア文通時のネタバラシによると)夫がいるようだが、hk1303はその相方垢の1つではないかと思える取り上げ方を兎でしている。sluggishslimeまたは中身がsluggishslimeと思われる垢とRTや会話などで常に連携。
+# サヨク支援垢(usausalandなど。全体的な傾向からするとこちらが本音)とネトウヨ偽装垢(kaguyayuiなど。初期はサヨク垢もRT支援していたが途中から偽右専門化)両方が大量に存在。ライター崩れなのか独特の癖からほとんど1人で回している気配があるため工作専業。解析にかけると、頻度の差はあるがパクリキュレーションメディア/スパム/アフィ業者のように丸1日中ネットに貼り付いて複垢から数百件の投稿の租税乱造作業をしているのが見て取れるため異様…。夕方4時か5時頃に始まり、夜9時頃から投稿が増加～深夜4時頃付近が活動ピーク。その後少し時間が空き、朝7時台までいる。
 # 偽被害者の男は性犯罪者丸出しの仄めかしをしたがるが、女は何故か他人の食事へ執着する傾向が多く見られる。芋/兎/ハム、サユリなど複数人で確認。朝鮮系成りすまし犯罪者の間では覗きで得る性的な興奮と食事が直結している可能性がある( twitter.com/mayve_t/status/758616799973814276 )。覗き創価同和在日に肥満が多いのはこのせい？
 # 特徴としては、TLの流れが遅い時や、室内でやっている作業が終わってPCに目を向けるタイミングを狙っていつまでもツイートを視界に入れるようなことを執拗に繰り返す(konketsuhaijoが右デモ参加用詐欺垢syusutobokumetuでやったり、sengokuahoなど、同じ時間帯に頻繁にツイートをする特定の嫌韓系偽被害者グループが共通して行う特徴的な行動)、ググるとすぐ間違いと気づくようなミスリード目的の誤情報を頻繁に出す、など。
-# ハム垢の方で在日がよくやる「日本人を猿扱い」をしつこくやっており、兎垢で同和へ矛先逸らしをしているため、yakiimo当人は在日韓国人と考えられる。自称日本人部落サユリが執拗に在日を叩く逆方向だが、犯罪をしながら自分の属性で責任を問われないよう矛先逸らし工作をする動機は同じ。
+# ネトウヨ偽装ハム垢の方で、在日がよくやる「日本人を猿扱い」をしつこくやっており、兎垢で同和へ加害責任を被せる矛先逸らしをしているため、芋当人は在日韓国人と考えられる。自称日本人部落サユリが執拗に在日を叩くのと逆方向だが、犯罪をしながら自分の属性で責任を問われないよう矛先逸らし工作をする動機は同じ。
 mm_jury
 # ↑については、上記偽被害者特徴と活動時間帯から、サユリの可能性と芋の可能性とがある。さゆり系垢よりは遠回しな当て付けdis、怪しまれると保身の嘘を出すので芋の可能性の方が高し。粘着道具化された仄めかし要素への注意事項を、拡散協力するふりをしてRTで見せる目的のRT(加害側の摘発に繋がる本当に都合の悪い対策情報などはRTしない)や、いちいち粘着ネタ目的のサイトや番組での粘着実行を何度も「御注進」にくる。
 # こちらを偽被害者扱いするためにエアコンに関するツイートを仄めかし扱いしてきたが、購入した証拠の購入レシートを求めると丸1日消えて2日後に、エアコンの購入レシートを出す。せいぜい求められるのはエアコン写真程度だろうと高をくくっていたようで、犯罪仲間からのレシート提供に丸1日以上かかった様子。
 hanashiawanai
 Yamauti3
-# hanashiawanai=兎@usausaland/ハム@kaguyayuiらしく、毎回こちらがTLを表示している時にいちいち潜伏用複垢を使い粘着流しをする同じパターンを踏む。ネナベ男キャラの複垢(Yamauti3など)とセットでよく自演やり取りもあり。盗撮ネタを改変して流すのを好むのも極左に共感するのも共通。数日振りにツイートをするのも盗撮情報のひけらかし粘着というパターン→ web.archive.org/web/20161214181512/https:/twitter.com/Yamauti3/status/808957907534389248 ( 2016/12/09～該当の2016/12/14までツイートが空いている証拠TLキャッシュ web.archive.org/web/20161214180407/https:/twitter.com/Yamauti3 )たまに本音らしき、憎悪が目立つ悪質な言説の事件への同意が見られる→ web.archive.org/web/20161214180304/https:/twitter.com/Yamauti3/status/808997860775628804 web.archive.org/web/20161214182239/https://twitter.com/Yamauti3/status/809025294329745408
+# hanashiawanai=兎@usausaland/ハム@kaguyayuiらしく、毎回こちらがTLを表示している時にいちいち潜伏用複垢を使い粘着流しをする同じパターンを踏む。ネナベ男キャラの複垢(Yamauti3など)とセットでよく自演やり取りもあり。盗撮ネタを改変して流すのを好むのも極左に共感するのも共通。数日振りにツイートをするのも盗撮情報のひけらかし粘着というパターン→ web.archive.org/web/20161214181512/https:/twitter.com/Yamauti3/status/808957907534389248 ( 2016/12/09～該当の2016/12/14までツイートが空いている証拠TLキャッシュ web.archive.org/web/20161214180407/https:/twitter.com/Yamauti3 )たまに本音らしき、家族まで巻き込んだ脅迫事件で「笑った」とコメントしたり、日本史ねなど在日ならではの憎悪が目立つ悪質な事件へのシンパシーが見られる→ web.archive.org/web/20161214180304/https:/twitter.com/Yamauti3/status/808997860775628804 web.archive.org/web/20161214182239/https://twitter.com/Yamauti3/status/809025294329745408
+# 生活保護費をひたすら娯楽に浪費するニュースや在日/韓国人が日本の災害を喜ぶ動画を上げた事件をRTすると他の場所へ引っ込んだり、偽被害者が不正ナマポ生活で本物の被害者への犯罪をしながら無駄に異常な贅沢をしている事実の指摘は嫌がる。極左の肩を持つので共産か公明の口利き受給の世話になっている模様。当人も何かしら創作はしてるようでオタクなのは確実だがこちらから被害のパクリ改変が多いので、オタク趣味方面でも常習的な盗作で色々な人に迷惑をかけてきたか、現役でパクラーとしてパクリ2次創作を繰り返している可能性が極めて高い。小説書き方面の話題に反応がないため、絵描き界隈にいると考えられる。
+jasmine7aikatwi
+ka2nd
+WorldKuromaku
+# ka2nd/WorldKuromakuは絵は描けないかもしれないので中身芋兎はなし？ wayback.archive.org/web/20161215155748/https:/twitter.com/ka2nd/status/602365630268846080
+# jasmine7aikatwi：ka2ndの旧ブログURLにjasmineが含まれる。ネカマ？
+# コロコロ変わる上にどんどん盛られる設定の一部にコメント欄で突っ込み→ togetter.com/li/983130
+# 臨床医療勤務経験があるが web.archive.org/web/20161215150118/https://twitter.com/ka2nd/status/805120654060101632 90年代から工場勤務で97年に大リストラ遭遇 web.archive.org/web/20161215161123/https:/twitter.com/ka2nd/status/472661375387332608 UFJだのJALの基幹シスうごかしてた元メンバー web.archive.org/web/20161215150244/https:/twitter.com/ka2nd/status/801343827118276608 元DELLのオンサイトサービスマン web.archive.org/web/20161215150525/https://twitter.com/ka2nd/status/788698094489645057 IBMと富士通の書類書きおよびシステム屋だった web.archive.org/web/20161215161314/https:/twitter.com/ka2nd/status/469431405714223104 省庁や大手企業本社に出入りし基幹システムいじってた元SE web.archive.org/web/20161215150816/https:/twitter.com/ka2nd/status/715174492301963265 元CTCT web.archive.org/web/20161215150401/https:/twitter.com/ka2nd/status/801341491452985344 家電エンジニア経験者 web.archive.org/web/20161215155524/https:/twitter.com/ka2nd/status/614378063913070592 WEB系エンジニア、TV局出入り経験 web.archive.org/web/20161215160438/https:/twitter.com/ka2nd/status/482351727140564992 大手や中小の倉庫でのピッキングバイト経験 web.archive.org/web/20161215160059/https:/twitter.com/ka2nd/status/504622733951369216 元・中堅同業の社内トップセールス記録保持ライダー web.archive.org/web/20161215154045/https:/twitter.com/ka2nd/status/805961664965115904 元バイク便エース・サーキットレーサー、交通誘導などの実務経験 web.archive.org/web/20161215150652/https:/twitter.com/ka2nd/status/754272990091628544 元同僚の新聞配達員 web.archive.org/web/20161215152917/https:/twitter.com/ka2nd/status/485336561341317121 店一番の速達新聞配達員だった（ポスティング業でも屈指の速さ）、ヤマト主管仕分け経験 web.archive.org/web/20161215161756/https:/twitter.com/ka2nd/status/135535494850297856
+# ↑上記第一人者百人分の人生を１０年でやり遂げ web.archive.org/web/20161215160744/https:/twitter.com/ka2nd/status/481823713982038017 第一人者へ登りつめず、１００以上の業界で半端ながら非凡な知識と経験を積んだ web.archive.org/web/20161215160643/https:/twitter.com/ka2nd/status/482138972055818241 そうな…。2016年に少なくとも30台後半～40台以上であると伺わせる発言。 web.archive.org/web/20161215152322/https:/twitter.com/ka2nd/status/711415384864239616 極度の虚言癖なので、恐らく数々の業務経験バイト～請負派遣で出入りしていたか軽作業・雑用がメイン辺りまででホラの多さから長続きしない、自称がんサバイバー設定も本当だったとしても実際には非常に軽度だったと考えられる。
 yoc_chyy
 syauri135
 sayuri1353
@@ -286,20 +296,32 @@ moomin_35yuri
 shellymamy1
 kashiyuka1222
 _jyackmam
-# himasorariに偽保守と指摘されていたサユリ含む副垢成りすまし一派の一例。毎日会話し合っている相手がほぼ偽保守仲間と右カルト系ヲタク取り込み用ステマ・自演垢らしく、ツイ内容だけでなく仲間に覗き朴李粘着ネタをツイさせてRTと引用RTで流してくる恒例の粘着手口を頻繁に使う。kaghetoraを解析すると一番のやり取りしている相手がmoomin_35yuriでサユリ垢URLの変形、かつ名前が夢眠(ムーミン)と、わざとらしいくらいに副垢と主張。 web.archive.org/web/20161114111344/https:/twitter.com/kaghetora/status/798114873783697408
-# ↑の指摘中 twitter.com/mayve_t/status/798116650549579777 、jmuzu1081(サブ垢jmuzujmuzu名ムーミン)がネタバラシ支援でサユリ居住地と同じ名前の福井をRT archive.is/uU4BB
-# shellymamy1はこちらのローカルPC作業を覗いての朴李ネタアイコンを使用しているので要注意。在日を叩きながら創価同和在日と全く同じ被害者の盗撮覗き情報で小銭を得ている偽保守垢は、TLによく流れてくるものだけで数件確認できている。 キリスト教系の行動保守/在特会一派と連携している様子→ wayback.archive.org/web/20161207114636/http://blog.zaq.ne.jp/otsuru/article/4219/ 連携している行動保守は在特会のトラブル処理で右翼団体に連絡を取った疑惑があるらしい？
+# himasorariに偽保守と指摘されていたサユリ含む副垢成りすまし一派の一例。毎日会話し合っている相手がほぼ偽保守仲間と右カルト系ヲタク取り込み用ステマ・自演垢らしく、ツイ内容に粘着要素を含ませるだけでなく、仲間に覗き朴李粘着ネタをツイさせてRTと引用RTで流す、という恒例の粘着手口を頻繁に使う。kaghetoraを解析すると一番のやり取りしている相手がmoomin_35yuriでサユリ垢URLの変形、かつ名前が夢眠(ムーミン 有名自称被害者のHNと同じ)と、わざとらしいくらいに副垢と主張。 web.archive.org/web/20161114111344/https:/twitter.com/kaghetora/status/798114873783697408
+# ↑の指摘中 twitter.com/mayve_t/status/798116650549579777 、jmuzu1081(サブ垢 ムーミン@jmuzujmuzu)がネタバラシ支援でサユリ居住地と同じ名前の福井をRT archive.is/uU4BB
+# shellymamy1は偽保守で、こちらのローカルPC作業を覗いての朴李ネタアイコンを使用しているので偽被害者を兼業しているため要注意。在日を叩きながら創価同和在日と全く同じ被害者の盗撮覗き情報で小銭を得ている偽保守垢は、TLによく流れてくるものだけで数件確認できている。 キリスト教系の行動保守/在特会一派と連携している様子→ wayback.archive.org/web/20161207114636/http://blog.zaq.ne.jp/otsuru/article/4219/ 連携している行動保守は在特会のトラブル処理で右翼団体に連絡を取った疑惑があるらしい？
+fuzita
+sisiosisiosisio
+ccoccocco1
+# ↑fuzitaがガスライティング記事に盗撮盗作擁護の言い逃れコメントをつけたのを保存後、別人設定のsisiosisiosisioが他の偽被害者たちと同じ火病連呼をしながら登場  証拠保全後に、保守系動画投稿botのccoccocco1から全ツイートを消去。fuzita垢界隈の偽保守は↑の部落サユリ含む偽被害者兼偽保守仲間もメンバー。一連の各種記録と情報照らし合わせによる同一垢の証明。→ mayve.blog102.fc2.com/blog-entry-605.html
+ogasawww
+green_katharsis
+LaughingBuddha6
+# ↑記事公開後に湧いた盗撮犯罪者の生保不正受給偽保守＆突然bot投稿復活させた偽被害者と、調査中に出てきた仲間一派 mayve.blog102.fc2.com/blog-entry-605.html
 rirnrin9999
 # ↑時間帯など類似傾向：yakiimo7(usausaland)、pookoomoo555など。コピペパクラージャムマン@pookoomoo555の盗作指摘後盗作擁護をjpbikinらと一緒に行う偽一派。
 jmuzu1081
 jmuzujmuzu
 JpPipichan
 # ↑rirnrin9999が室内盗撮で知った自宅の家族の状況を偽被害者仲間に拡散するツイートをしていたのでキャッシュを取って晒す→ twitter.com/mayve_t/status/804977934050041856 と、翌日から偽被害者仲間の複垢勢が一斉逆切れ火病を発症し、画面盗撮でこちらがTLを見ている時にazumijunko@rirnrin9999のツイートや名前の垂れ流しに執着。ジャムマン@pookoomoo555の盗作コピペパクリ画像を指摘直後に、偽仲間同士で「コピペ盗作丸パクリくらいを指摘するなんてウリらに愛はないニカ」的なオーヨシヨシ慰め合いをしていたのと全く同じことを繰り返している。
+mongoose1234567
+# ↑埼玉の偽被害者？(埼玉在住というと、sunriseman450関係？)。偽被害者数人のプロフィールにこちらの個人情報を2～3個だけ合成した捏造プロフィールをコピペ荒らしに使っていた在日2ch荒らしがいるが( hissi.org/read.php/mnewsplus/20161010/UmpwcVJ2NW0w.html ←を別のスレに誤爆 hissi.org/read.php/mnewsplus/20161010/ZmtESGZ3emgw.html?thread=all )、そのコピペ荒らしと同じようにこちらの苗字を分解して、適当にでっちあげた加害者苗字としてしつこくこちらがTLを表示している時に現れては貼り付けて粘着している模様。2016年10月末まではアナグラム苗字流し粘着はしておらず( web.archive.org/web/20161216154419/https:/twitter.com/search?f=tweets&q=from%3Amongoose1234567%20since%3A2016-08-13%20until%3A2016-11-01&src=typd )、創価財務時期の2016年11月以降からそれらしき苗字ばかりが頻出、11月末頃からこちらがPC画面にTLを表示しているのを盗撮察知しては流す偽被害者特有の動きに固定化。2016年8月31日に自分の被害の軽減ためか犯罪者側との協力を匂わせるツイをする( web.archive.org/web/20161216152734/https:/twitter.com/mongoose1234567/status/770981722758320128 web.archive.org/web/20161216152805/https:/twitter.com/mongoose1234567/status/770981900093497344 )見返りとしてこちらに対する盗撮覗き犯罪や個人情横流しを行っていると判断。ASKA証拠不十分で釈放ニュースを報道した20161219に北朝鮮TBSと同調して粘着出現しているので北系在日の疑いが濃い。
 kaka5963
 saja281
 pookoomoo555
 jammanbot
 #↑画像盗用し拡散 sites.google.com/site/mayvelog/pic_kensyou
+echigo2011
+# ↑echigo2011はわざとらしく集ストを病気のせいだと言った後に盗撮ネタdisを始めたため創価の福祉年金受給利権組と思われる。saja281はこの項目を記入後わざわざsluggishslimeをRTで流してきてアピール。
 kurisumakise15
 # ↑オカ趣味系垢だが芋類の複垢ハムとかなり似通った雰囲気。覗きでタイミング合わせての登場、地震お祝います系の婉曲な日本への恨み節多。やはり覗き＆アイデア＆絵パクリ中毒のpookoomoo555？
 putticommPTM
@@ -348,7 +370,7 @@ mitoc.blog46.fc2.com
 kotobukiyumeno
 # neko_abura_age=kotobukiyumeno？
 _luminous_blue_
-# ↑sec_kouan9/_luminous_blue_？ sengokuahoと同一か同グループ？長野在住とのことから創価ピンクアイコン/rinkonotweet/芋・兎の可能性あり
+# ↑sec_kouan9/_luminous_blue_？ sengokuahoと同一か同グループ？長野在住とのことから創価ピンクアイコンwsf4rmh3v/rinkonotweet/芋・兎の可能性あり
 sluggishslime
 kittypoointheto
 youtube.com/user/ripmybelovedcats
@@ -391,12 +413,8 @@ wsf4rmh3v
 gravity_of_K
 kawase_ashikoko
 # ↑こちらをフォローしてきていないはずだが、よくこちらのツイート内容に反応。無駄に対抗意識を持ってきている、またこちらの被害の背乗り韓もあるので覗きと複垢粘着もやっている様子。排除からは偽とネタバラシされている。
-jasmine7aikatwi
-ka2nd
-WorldKuromaku
-echigo2011
-# ↑芋/兎かsluggishslimeの複垢の可能性が極めて高。同じ中身と思われる垢いくつかでよく切り替え出現。echigo2011はわざとらしく集ストを病気のせいだと言った後に盗撮ネタdisを始めたため創価の福祉年金受給利権組と思われる。saja281はこの項目を記入後わざわざsluggishslimeをRTで流してきてアピール。
 # NPmemo～ここまで、最低でも同グループ、出現時に垢切り替えのタイムラグらしき間があるため中身は共通。ネーミングセンスから、被害者垢間にDM送信で片っ端から風評を撒き続けて総スカンを食らった「らすぽす(winnerLASTBOSS)」と思われる。
+# ↓野球観戦グッズ買い漁り2ch荒らしに明け暮れる在日コンビニオーナーのボンボン盗撮性犯罪者 mayve.blog102.fc2.com/blog-entry-605.html
 sengokuaho
 kashiwapost
 # ↑sengokuahoと似た雰囲気でリアルタイム画面盗撮で反応してくる系が偽装保守垢込みでいくつか存在
@@ -414,11 +432,20 @@ hfddfrfhjgnh
 Knight_1212
 tuorua9876
 # ↑sengokuaho～ここまで、中身同じかも。yakiimo7やsluggishslimeなどメジャー偽被害者の手下ポジではないかと思われる動き。
+sunriseman450
+japan1967_optec
+tIrUwa8i3VCdO1U
+# ↑釣り被害者団体ACP主要メンバー、サンライズマン@sunriseman450の偽保守垢。やらせデモに参加しているsyusutobokumetu＝konketsuhaijoの盗撮実況粘着の記録を出したところ、お気に入りにしてきてsyusutobokumetu＝konketsuhaijo同様の犯罪要件を必死に回避した言い回しでのチキン全開なエア脅迫。 twitter.com/mayve_t/status/826197099033227267 twitter.com/mayve_t/status/826201916191363072
+ahoudori_
+ahoudorimetoo.blog.fc2.com
+# ↑釣り被害者団体ACP主要メンバー。連被害者TLを見ていた時期から盗聴・閲覧ページ内容のパクリ、エア当て付けdisなどがしつこい。排除syusutobokumetu＝konketsuhaijo同様、女性被害者に主に執着して粘着しているのが目立つ。晒されていたデモ写真から唯一計測できるデータとして身長を計算したところ、男性としては低めの様子( goo.gl/photos/Y4wtCj5qyWxXLDWW7 )なので、他の偽被害者デモ参加メンバーと違い「体格で女性を威圧できないコンプレックス」が原因には含まれていそう。挙げている写真から、生活保護で1日中乗り鉄趣味＆ついでに他の本当の被害者へのつきまとい粘着業務に明け暮れている疑惑が極めて濃い。本名は既に判明している様子→ archive.fo/d3XoE あほうどり本名検索時、不自然にPCが重くなる症状→ twitter.com/mayve_t/status/836697755741401088
 # @konketsuhaijoは「帰化在日混血在日創価徹底排除」という名前を使用しているが、当人が日韓ハーフ疑惑。カンパ・寄付金と個人情報目的で保守に成りすまし、被害者団体や保守系デモ・議員に積極的に接触して詐欺を行っているので要注意。syusutobokumetu垢でこちらのPC画面をリアルタイム盗撮して当て付け粘着、古い無線機の画像をハイテク加害機器と言いデタラメ捏造をするなど。
 # @konketsuhaijoと日本を守り隊@syusutobokumetuはツイート分析にかけるとツイート時間が完全に同じで、就寝直前にsyusutobokumetuでツイートしてから落ちるパターン。1つのアカウントのツイートが減ると代わりに別の1つのアカウントのツイートが増える。 goo.gl/photos/D2HcdctXwt4WpL7x5 また無駄なグロ嗜好のわりに口だけ威勢が良い、関西出身で現在関東住まいなど共通項が多いので同一人物
 syusutohaijo 凍結(2014年12月後半～2015年1月頃？)↓konketsuhaijoに移行
 konketsuhaijo
 syusutobokumetu
+kokounogunshin
+# ↑リアルタイムPC作業の盗撮覗き実況。2017/1/24～26の物理盗撮対策設置後なのでハッキングによるもの。証拠記録類 htwitter.com/mayve_t/status/826135638567112705 農業をやっているらしいが、写真は他の偽被害者からの借り物かも？また、この偽被害者の仲間が少なくとも同グループ内に10人おり、その内数人が何らかの理由で連絡が取れなくなっているか業務から外れたらしいことを暗喩させるツイートを投稿→ web.archive.org/web/20170130183609/https:/twitter.com/kokounogunshin/status/825005397341646848 内部からの告発ネタバラシというよりは、syusutobokumetu＝konketsuhaijoのような(逆)恨み節の雰囲気( goo.gl/photos/gRPLfadWQaruLPWNA )ではないかと思われる。というより発言パターンが似ているため中身同じかも。
 # ↓6021023lee、konketsuhaijoとstocking7755の火病時ワードの傾向の違い twitter.com/mayve_t/status/711273124507963393 を書いたところ、その投稿時間に対して当て付けてはしているが微妙に内容をずらした恒例テンプレ化した粘着連投パターンをとる。コテコテネトウヨ垢を偽装してるので中身konketsuhaijoかも…
 nisinomiyaohata
 b-m-i.blog.so-net.ne.jp
@@ -487,7 +514,7 @@ asterisk37n
 t7a7t0o1
 H_r_rustica725
 Will_HKT
-# t7a7t0o1：不審な大金譲渡や生活保障を匂わせるツイート、H_r_rustica725：海外送金にマイナンバーが必要になる直前に海外送金等、おかしな動きが多い。シーシェパード支援企業LUSH頻繁に購入アピールは、実はRUSH(ゲイに人気の違法ドラッグ)入手の隠語？Will_HKT:＝H_r_rustica725かも？RT後に盗聴・盗撮ネタでこきおろし開始→ mayve.blog102.fc2.com/blog-entry-586.html
+# t7a7t0o1：不審な大金譲渡や生活保障を匂わせるツイート、H_r_rustica725：海外送金にマイナンバーが必要になる直前に海外送金等、おかしな動きが多い。シーシェパード支援企業LUSH頻繁に購入アピールは、実はRUSH(ゲイに人気の違法ドラッグ)入手の隠語？Will_HKT:＝H_r_rustica725かも？RT後に盗聴・盗撮ネタでこきおろし開始→ http://mayve.tumblr.com/post/156970791911
 # ↓2016/11/03に何故かフォローしてくるが、不審に思いながらも試しにフォロー返しすると室内盗撮ネタを偽仲間と協力して流す twitter.com/mayve_t/status/794925056358912000
 090abe1
 ryokichi327
@@ -644,6 +671,14 @@ kazuyahkd.com
 sec_kouan9
 syunikiss4200
 masahoo11
+# ↓盗撮しての当て付けと粘着あり偽保守。某漫画家の宣伝目的疑惑。偽被害者兼業らしく、kokounogunshinがPCの不正アクセスで画面の実況をしてきたのを晒し後、普段いない時間帯なのに急にTLに出現し、潔癖症だの人の噂がどうのというエア当て付けを真っ先にRTで流してくる。恐らく「ネットでだけ威勢がいい」や、当人が在日なのにこちらを在日扱いする工作のような「祖国にかえって同胞に～」「バーカッ！」も間髪入れず流してきていて不自然な気配はするので、こちら宛エア罵倒の可能性も高い web.archive.org/web/20170130212826/https:/twitter.com/pegiminnh/with_replies 「冬はお湯が出なかった」 web.archive.org/web/20170201194756/https:/twitter.com/pegiminnh/status/824964222178111490 とのことなので、給湯器が普及する前の年代ではないか？という疑い(給湯器普及は1960年代以降とのこと www.kitchen-bath.jp/wp-content/uploads/2015/12/21kyuutoukimonogatari.pdf )。偽被害者が偽保守垢を量産し、自演で会話を続けている記録はサユリの前例が既にある。 twitter.com/mayve_t/status/826258823203549185
+pegiminnh
+Federicopanini
+# ↑推察される年代や文体の癖などからpegiminnhの陰謀論用複垢の様子。盗撮盗聴wifi使用状況監視のひけらかし。konketsuhaijoの凍結済み垢syusutohaijoと会話ログあり。syusutohaijoを偽被害者と暴露指摘しているが、成りすまし工作員末端同士の利害対決によるものかプロレスと思われる。 web.archive.org/web/20170224102757/https://twitter.com/search?f=tweets&vertical=default&q=from%3AFedericopanini%20to%3Asyusutohaijo&src=typd
+# ↓盗撮偽保守。仕事にかかろうとする度、何故かエアで「働け」としつこい謎火病を発症。ニコニコ動画で自己顕示欲を満たす不正受給生保で、ツイート解析すると1日中ネットに貼りついているのが判明…お前が働け。 
+ogasawww
+# ↓中身が偽被害者らしいのがRT
+labotagawa
 #RTすると粘着ネタ流し組(一部例)幸福叩きは偽装の可能性高
 okada014
 # 朝鮮耳なる捏造デマをしつこく撒く 幸福系へんまも支持 反例多数→http://matome.naver.jp/odai/2134196108905923601 http://50064686.at.webry.info/201301/article_55.html
@@ -726,6 +761,7 @@ nYOW20BRhkg
 VUc6HDq5GMM
 mqjE9rRSGs0
 w562UtnVt4Q
+FLGXde69SdU
 # 売名芸人群 名前パクリ
 MayJamileh
 may-j.com
@@ -820,6 +856,8 @@ berukana1
 mayaymzk
 maya_ti00
 okazukineko
+fr882238
+# ↑名前パクリ偽保守アフィスパマー。集スト被害者情報を使っているのは確実に在日韓国人と同和系なので要注意。
 # わざわざ無関係なキャラに別作品から取ってきた名前(のように見せかけて名前朴李粘着工作もの)をつけて、RTで粘着するために回してくる偽保守、という手間のかかったなりすましとスパム垢
 fujinokibiwanok
 kayo_kayochin1
@@ -863,6 +901,12 @@ sakura87.net
 tsuto_terumi
 fireaway_mayu
 blog.livedoor.jp/fireaway_hoop/
+oa26dl1NAcptdAF
+# 印象操作系。大概はオタクやプログラミング界隈で粘着犯罪協力業務が多い。
+stmark_309
+clausemitz
+# ↓2016/12に垢作成して、いきなり何も関係ない話題のまとめ(Twitterや検索での変な動作不具合の半ば冗談交じりの報告程度 archive.is/M1Vmc )を無理やりASKAを揶揄するタイトルをつける異常者。急にこうしたトンチキ罵倒やらかしをするのは創価系かも？
+gendaishi_info
 # ↓かなり昔からいるらしい創作実話系ネタ垢( 資料：togetter.com/li/1048751 )の相当に真偽の怪しい話が使われたまとめ( togetter.com/li/1048655 )で、一見どっちもどっち論に見えるがよく読むと極度に遠回しにまとめ主の保守受けが良い有名垢を擁護するコメントを連投。別まとめでお約束の余計な集スト被害者disをしていた( togetter.com/li/1052977 )ので中身偽被害者か盗作常習朴李屋かも？
 nec0lt
 # # 名前パクリネタの2番煎じニュース流し(2016/09/12) サイゾー出身、ソフトバンクの下請けなので偽装サヨクリベラル系 ハフィントンポスト(日本版は朝日系列)でブログ名パクリも済ませている。
@@ -1478,6 +1522,7 @@ bluechip-lab.com
 bluespot.jp
 hanakotoba-labo.com
 it-trend.jp
+100yen-lab.com
 self.hatenablog.com
 writerzlab.com
 rakuten.co.jp/kagulabo/
@@ -1539,6 +1584,17 @@ hands-lab.com
 hokkaido-labo.com
 webdlab.com
 hagelabo.jp
+diy-lab.jp
+fabcross.jp
+lyradelight.blog.shinobi.jp
+monstar.ch
+rh-lab.net
+web-laboratories.com
+poilabo.com
+diylabo.jp
+chiroru.hatenablog.com
+waibi.hateblo.jp
+muramasa309.tumblr.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
@@ -1606,6 +1662,8 @@ entacl.info
 nioi-lab.com
 zaitsu-labs.com
 aojiru-lab.com
+e4eiitlab
+e4ei.net
 # # ～ラボ系パクリ サヨクNPO利権系 乙武フローレンス
 barrier-free-jp.com
 ucl
@@ -2203,6 +2261,7 @@ bakucho.netmile.co.jp
 search.potora.jp
 ecnavi.jp/mm/
 ecnavi.media-ad.jp
+ecnavi.jp/pointboard/#doron
 bingo.gpoint.co.jp
 adplan-ds.com
 fruitmail.net
