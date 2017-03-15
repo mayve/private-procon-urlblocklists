@@ -1,5 +1,5 @@
 [ProCon Latte 3.3]
-# Updated: Sat Mar 04 2017 11:39:08 GMT+0900
+# Updated: Tue Mar 14 2017 20:33:38 GMT+0900
 
 # preferences
 misc.showStatusButton = true
@@ -660,6 +660,9 @@ anonymous201504
 anonymous-post.com
 yamatorevive
 # ↑hitorigoto-kokoroの宣伝が主目的らしい垢。hitorigoto-kokoroの自演宣伝用と判断。
+shonanjohnlenno
+qunny1130.exblog.jp
+# 盗撮による侮辱と性犯罪被害を連続ツイート中、不自然な罵倒ツイート(ホームランになりそうなボールをキャッチした少年がいた話題にかこつけてはいるものの、似てはいるが全く別の話題で「もっと顔を晒せ」「恥知らずなバカ女」とコメントをつけて流す)とやってきた偽保守。 twitter.com/mayve_t/status/839616868709089280 ブログ内容は自家用車BMWやリタイヤ後の余裕のありそうなものばかりでどうも高齢者っぽいが、老後の趣味は盗撮性犯罪らしい。ブログに、こちらに対して多用される朴粘着数字が使われているので、最初から仕込み偽保守の可能性は高い。
 #↓画面盗撮系偽保守 要注意
 dukecave
 kusanagi2665
@@ -788,6 +791,8 @@ vithmicpro.co.jp
 k_maya
 maya_kaoruko
 notnameset.tumblr.com
+# フォロー返し後何度か怪しいツイートは確認だが基本静か、しかし当人家族訃報～自主レーベル開始(2017年冬～初春前後)辺りで室内盗撮粘着が増加。その前日に日本壊滅願望が酷い放射脳の愚痴を書いたために逆切れの可能性はあるが、ビジネス売名の対価と見た方が適切と考えられる。大麻教ではある様子。JASRAC関連で著作権利権問題の発端になったり、90年代頃にゲーム音楽をやっていたとのことなので元々あちらの仕込みと思われる。
+RyuichiSato
 # # 売名芸人群 終
 # # 妖精ネタパクリ芸人のステマ垢 偽装保守
 bouncingbaby777
@@ -1595,6 +1600,7 @@ diylabo.jp
 chiroru.hatenablog.com
 waibi.hateblo.jp
 muramasa309.tumblr.com
+lab999.com
 # # ↓立命館出身 大阪出身 九州に多い苗字 同住所には九州出身の中古業者
 spacelab
 A14GQDHMU1BJ34
